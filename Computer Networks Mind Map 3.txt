@@ -1,0 +1,1202 @@
+
+CHAPTER 3 : THE DATA LINK LAYER
+
+<<<<<<<<<<<<<< THE DATA LINK LAYER >>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<                    >>>>>>>>>>>>>>>>>>>>
+________________________________________________
+ THE DATA LINK LAYER                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+---------------------------
+* The Data Link Layer
+                                                                                        
+2) Definition of The Data Link Layer ?
+--------------------------------------
+*
+ 
+3) What is the Data Link Layer About ?
+--------------------------------------
+*
+*
+
+4) What does the Data Link Layer Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of the Data Link Layer :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Data Link Layer :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Data Link Layer :
+-----------------------------------
+*
+*
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<< DATA LINK LAYER DESIGN ISSUES >>>>>>>>>>>>>>>>>>>>
+
+DATA LINK LAYER DESIGN ISSUES 202
+3.1.1 Services Provided to the Network Layer 203
+3.1.2 Framing 205
+3.1.3 Error Control 208
+3.1.4 Flow Control 209
+
+________________________________________________
+ DATA LINK LAYER DESIGN ISSUES                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Link Layer Design Issues
+                                                                                        
+2) Definition of Data Link Layer Design Issues ?
+------------------------------------------------
+*
+ 
+3) What is Data Link Layer Design Issues About ?
+------------------------------------------------
+*
+*
+
+4) What does the Data Link Layer Design Issues Do ?
+---------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Link Layer Design Issues :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Link Layer Design Issues :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Link Layer Design Issues :
+----------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+************** Services Provided to the Network Layer **************
+
+________________________________________________
+ Services Provided to the Network Layer         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Services Provided to the Network Layer 
+                                                                                        
+2) Definition of Services Provided to the Network Layer ?
+---------------------------------------------------------
+*
+ 
+3) What is Services Provided to the Network Layer About ?
+---------------------------------------------------------
+*
+*
+
+4) What does Services Provided to the Network Layer Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Services Provided to the Network Layer  :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Services Provided to the Network Layer  :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Services Provided to the Network Layer  :
+--------------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+************** Framing **************
+
+________________________________________________
+ Framing                                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Framing
+                                                                                        
+2) Definition of Framing ?
+---------------------------------
+*
+ 
+3) What is Framing About ?
+--------------------------------
+*
+*
+
+4) What does Framing Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Framing :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Framing :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Framing :
+------------------------------
+*
+*   
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+************** Error Control **************
+
+________________________________________________
+ Error Control                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Error Control
+                                                                                        
+2) Definition of Error Control ?
+----------------------------------
+*
+ 
+3) What is Error Control About ?
+------------------------------------
+*
+*
+
+4) What does Error Control Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Error Control :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Error Control :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Error Control :
+--------------------------------
+*
+*
+
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+************** Flow Control **************
+
+________________________________________________
+ Flow Control                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Flow Control
+                                                                                        
+2) Definition of Flow Control ?
+-------------------------------
+*
+ 
+3) What is Flow Control About ?
+-------------------------------
+*
+*
+
+4) What does Flow Control Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Flow Control :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Flow Control :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Flow Control  :
+------------------------------
+*
+*
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+<<<<<<<<<<<<<< ERROR DETECTION AND CORRECTION >>>>>>>>>>>>>>>>>>>>
+
+ERROR DETECTION AND CORRECTION 210
+3.2.1 Error-Correcting Codes 212
+3.2.2 Error-Detecting Codes 217
+________________________________________________
+ ERROR DETECTION AND CORRECTION                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Error Detection and Correction
+                                                                                        
+2) Definition of Error Detection and Correction ?
+-------------------------------------------------
+*
+ 
+3) What is Error Detection and Correction About ?
+-------------------------------------------------
+*
+*
+
+4) What does the Error Detection and Correction Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Error Detection and Correction :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Error Detection and Correction :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Error Detection and Correction :
+-----------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+      ******** Error-Correcting Codes ***********
+________________________________________________
+ Error-Correcting Codes                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Error-Correcting Codes
+                                                                                        
+2) Definition of Error-Correcting Codes ?
+-----------------------------------------
+*
+ 
+3) What is the Error-Correcting Codes About ?
+---------------------------------------------
+*
+*
+
+4) What do the Error-Correcting Codes Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of the Error-Correcting Codes :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Error-Correcting Codes :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Error-Correcting Codes :
+-------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+
+    *********** Error-Detecting Codes ************
+________________________________________________
+ Error-Detecting Codes                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Error-Detecting Codes
+                                                                                        
+2) Definition of Error-Detecting Codes ?
+----------------------------------------
+*
+ 
+3) What are Error-Detecting Codes About ?
+-----------------------------------------
+*
+*
+
+4) What do Error-Detecting Codes Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Error-Detecting Codes :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Error-Detecting Codes :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Error-Detecting Codes :
+--------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+<<<<<<<<<<<<<< ELEMENTARY DATA LINK PROTOCOLS >>>>>>>>>>>>>>>>>>>>
+
+ELEMENTARY DAT A LINK PROTOCOLS 223
+3.3.1 Initial Simplifying Assumptions 223
+3.3.2 Basic Transmission and Receipt 224
+3.3.3 Simplex Link-Layer Protocols 228
+________________________________________________
+ ELEMENTARY DATA LINK PROTOCOLS                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Elementary Data Link Protocols.
+                                                                                        
+2) Definition of Elementary Data Link Protocols ?
+-------------------------------------------------
+*
+ 
+3) What is Elementary Data Link Protocols About ?
+-------------------------------------------------
+*
+*
+
+4) What does Elementary Data Link Protocols Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Elementary Data Link Protocols :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Elementary Data Link Protocols:
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Elementary Data Link Protocols :
+-----------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+                
+      ******** Initial Simplifying Assumptions ********
+________________________________________________
+ Initial Simplifying Assumptions                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Initial Simplifying Assumptions
+                                                                                        
+2) Definition of Initial Simplifying Assumptions ?
+--------------------------------------------------
+*
+ 
+3) What is Initial Simplifying Assumptions About ?
+--------------------------------------------------
+*
+*
+
+4) What do Initial Simplifying Assumptions Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Initial Simplifying Assumptions :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Initial Simplifying Assumptions :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Initial Simplifying Assumptions :
+------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+             
+           ******** Basic Transmission and Receipt *********
+________________________________________________
+ Basic Transmission and Receipt                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Basic Transmission and Receipt
+                                                                                        
+2) Definition of Basic Transmission and Receipt ?
+-------------------------------------------------
+*
+ 
+3) What is Basic Transmission and Receipt About ?
+-------------------------------------------------
+*
+*
+
+4) What does the Basic Transmission and Receipt Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Basic Transmission and Receipt :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Basic Transmission and Receipt :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Basic Transmission and Receipt :
+-----------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+    ******* Simplex Link-Layer Protocols ********
+
+________________________________________________
+ Simplex Link-Layer Protocols                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Simplex Link-Layer Protocols
+                                                                                        
+2) Definition of Simplex Link-Layer Protocols ?
+-----------------------------------------------
+*
+ 
+3) What are Simplex Link-Layer Protocols About ?
+------------------------------------------------
+*
+*
+
+4) What do Simplex Link-Layer Protocols Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Simplex Link-Layer Protocols :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Simplex Link-Layer Protocols :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Simplex Link-Layer Protocols :
+---------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+    \\\\ Utopia: No Flow Control or Error Correction ////
+
+________________________________________________
+ Utopia: No Flow Control or Error Correction    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Utopia: No Flow Control or Error Correction
+                                                                                        
+2) Definition of Utopia: No Flow Control or Error Correction ?
+--------------------------------------------------------------
+*
+ 
+3) What is Utopia: No Flow Control or Error Correction About ?
+-------------------------------------
+*
+*
+
+4) What does Utopia: No Flow Control or Error Correction Do ?
+-------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Utopia: No Flow Control or Error Correction :
+-----------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Utopia: No Flow Control or Error Correction :
+--------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Utopia: No Flow Control or Error Correction :
+------------------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+    \\\\ Adding Flow Control: Stop-and-Wait ////
+
+________________________________________________
+ Adding Flow Control: Stop-and-Wait             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Adding Flow Control: Stop-and-Wait
+                                                                                        
+2) Definition of Adding Flow Control: Stop-and-Wait ?
+-----------------------------------------------------
+*
+ 
+3) What is Adding Flow Control: Stop-and-WaitAbout ?
+----------------------------------------------------
+*
+*
+
+4) What does Adding Flow Control: Stop-and-Wait Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Adding Flow Control: Stop-and-Wait:
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Adding Flow Control: Stop-and-Wait :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Adding Flow Control: Stop-and-Wait :
+---------------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+    \\\\ Adding Error Correction: Sequence Numbers and ARQ ////
+
+___________________________________________________
+ Adding Error Correction: Sequence Numbers and ARQ |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Adding Error Correction: Sequence Numbers and ARQ
+                                                                                        
+2) Definition of Adding Error Correction: Sequence Numbers and ARQ ?
+--------------------------------------------------------------------
+*
+ 
+3) What is Adding Error Correction: Sequence Numbers and ARQ About ?
+--------------------------------------------------------------------
+*
+*
+
+4) What does Adding Error Correction: Sequence Numbers and ARQ Do ?
+-------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Adding Error Correction: Sequence Numbers and ARQ :
+-----------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Adding Error Correction: Sequence Numbers and ARQ :
+--------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Adding Error Correction: Sequence Numbers and ARQ :
+------------------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<< IMPROVING EFFICIENCY >>>>>>>>>>>>>>>>>>>>
+
+IMPROVING EFFICIENCY 234
+3.4.1 Goal: Bidirectional Transmission, Multiple Frames in Flight 234
+3.4.2 Examples of Full-Duplex, Sliding Window Protocols 238
+________________________________________________
+ IMPROVING EFFICIENCY                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Improving Efficiency
+                                                                                        
+2) Definition of Improving Efficiency ?
+---------------------------------------
+*
+ 
+3) What is Improving Efficiency About ?
+---------------------------------------
+*
+*
+
+4) What does Improving Efficiency Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Improving Efficiency :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Improving Efficiency :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Improving Efficiency :
+-------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+ ******** Goal: Bidirectional Transmission, Multiple Frames in Flight ******
+
+- Bidirectional Transmission: Piggybacking
+- Sliding Windows
+
+_____________________________________________________________
+ Goal: Bidirectional Transmission, Multiple Frames in Flight |
+                                                             |                  
+_____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Goal: Bidirectional Transmission, Multiple Frames in Flight
+                                                                                        
+2) Definition of Goal: Bidirectional Transmission, Multiple Frames in Flight ?
+------------------------------------------------------------------------------
+*
+ 
+3) What is The Goal: Bidirectional Transmission, Multiple Frames in Flight About ?
+----------------------------------------------------------------------------------
+*
+*
+
+4) What does The Goal: Bidirectional Transmission, Multiple Frames in Flight Do ?
+---------------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Goal: Bidirectional Transmission, Multiple Frames in Flight :
+---------------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Goal: Bidirectional Transmission, Multiple Frames in Flight :
+----------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Goal: Bidirectional Transmission, Multiple Frames in Flight :
+--------------------------------------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+   \\\\ Examples of Full-Duplex, Sliding Window Protocols ////
+
+- One-Bit Sliding Window
+- Go-Back-N
+- Selective Repeat
+___________________________________________________
+ Examples of Full-Duplex, Sliding Window Protocols |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Examples of Full-Duplex, Sliding Window Protocols
+                                                                                        
+2) Definition of Examples of Full-Duplex, Sliding Window Protocols ?
+--------------------------------------------------------------------
+*
+ 
+3) What is Examples of Full-Duplex, Sliding Window Protocols About ?
+-------------------------------------------------------------------
+*
+*
+
+4) What does Examples of Full-Duplex, Sliding Window Protocols Do ?
+-------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Examples of Full-Duplex, Sliding Window Protocols :
+-----------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Examples of Full-Duplex, Sliding Window Protocols :
+--------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Examples of Full-Duplex, Sliding Window Protocols :
+------------------------------------------------------------------
+*
+* 
+
+____________________________________________________________________________________
+
+     \\\\ One-Bit Sliding Window ////
+
+________________________________________________
+ One-Bit Sliding Window                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* One-Bit Sliding Window
+                                                                                        
+2) Definition of One-Bit Sliding Window ?
+----------------------------------------
+*
+ 
+3) What is The One-Bit Sliding Window About ?
+---------------------------------------------
+*
+*
+
+4) What does The One-Bit Sliding Window Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The One-Bit Sliding Window :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The One-Bit Sliding Window :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The One-Bit Sliding Window :
+-------------------------------------------
+*
+* 
+
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+ ************** Go-Back-In *************
+
+________________________________________________
+ Go-Back-In                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Go-Back-In
+                                                                                        
+2) Definition of Go-Back-In ?
+-----------------------------
+*
+ 
+3) What is Go-Back-In About ?
+-----------------------------
+*
+*
+
+4) What does The Go-Back-In Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Go-Back-In :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Go-Back-In :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Go-Back-In :
+---------------------------
+*
+* 
+____________________________________________________________________________________
+
+       \\\\ Selective Repeat ////
+
+________________________________________________
+ Selective Repeat                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Selective Repeat
+                                                                                        
+2) Definition of Selective Repeat ?
+-----------------------------------
+*
+ 
+3) What is Selective Repeat About ?
+-----------------------------------
+*
+*
+
+4) What does Selective Repeat Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Selective Repeat :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Selective Repeat :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Selective Repeat :
+---------------------------------
+*
+*
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+
+ <<<<<<<<<<<< DATA LINK PROTOCOLS IN PRACTICE >>>>>>>>>>>>>>
+
+DATA LINK PROTOCOLS IN PRACTICE 252
+3.5.1 Packet over SONET 253
+3.5.2 ADSL (Asymmetric Digital Subscriber Loop) 256
+3.5.3 Data Over Cable Service Interface Specification (DOCSIS) 259           
+
+________________________________________________
+  DATA LINK PROTOCOLS IN PRACTICE               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Data Link Protocols In Practice.
+                                                                                        
+2) Definition of Data Link Protocols In Practice ?
+--------------------------------------------------
+*
+ 
+3) What is Data Link Protocols In Practice About ?
+--------------------------------------------------
+*
+*
+
+4) What does Data Link Protocols In Practice Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Link Protocols In Practice :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Link Protocols In Practice :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Link Protocols In Practice :
+------------------------------------------------
+*
+*
+
+_________________________________________________________________________________
+     
+   ********** Packet Over SONET ***********
+
+________________________________________________
+ Packet Over SONET                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Packet Over SONET
+                                                                                        
+2) Definition of Packet Over SONET ?
+------------------------------------
+*
+ 
+3) What is the Packet Over SONET About ?
+----------------------------------------
+*
+*
+
+4) What does the Packet Over SONET Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Packet Over SONET :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Packet Over SONET :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Packet Over SONET :
+--------------------------------------
+*
+*
+____________________________________________________________________________________
+
+  ********** ADSL (Asymmetric Digital Subscriber Loop) ***********
+
+ADSL (Asymmetric Digital Subscriber Loop)
+___________________________________________________
+ ADSL (Asymmetric Digital Subscriber Loop)         |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* ADSL (Asymmetric Digital Subscriber Loop).
+                                                                                        
+2) Definition of The ADSL (Asymmetric Digital Subscriber Loop) ?
+----------------------------------------------------------------
+*
+ 
+3) What is The ADSL (Asymmetric Digital Subscriber Loop) About ?
+----------------------------------------------------------------
+*
+*
+
+4) What does The ADSL (Asymmetric Digital Subscriber Loop) Do ?
+---------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The ADSL (Asymmetric Digital Subscriber Loop) :
+-------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The ADSL (Asymmetric Digital Subscriber Loop) :
+----------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The ADSL (Asymmetric Digital Subscriber Loop) :
+--------------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+************ Summary Of The Data Link Layer *************
+
+___________________________________________________
+ Summary Of The Data Link Layer                    |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Summary Of The Data Link Layer.
+                                                                                        
+2) Definition of The Summary Of The Data Link Layer ?
+-----------------------------------------------------
+*
+ 
+3) What is The Summary Of The Data Link Layer About ?
+-----------------------------------------------------
+*
+*
+
+4) What does The Summary Of The Data Link Layer Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Summary Of The Data Link Layer :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Summary Of The Data Link Layer :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Summary Of The Data Link Layer :
+---------------------------------------------------
+*
+*
