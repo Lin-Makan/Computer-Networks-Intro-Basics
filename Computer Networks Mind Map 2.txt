@@ -1,0 +1,3409 @@
+
+CHAPTER 2 : THE PHYSICAL LAYER
+
+<<<<<<<<<<<<<< THE PHYSICAL LAYER >>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<                    >>>>>>>>>>>>>>>>>>>>
+________________________________________________
+ THE PHYSICAL LAYER                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+---------------------------
+* The Physical Layer
+                                                                                        
+2) Definition of The Physical Layer ?
+--------------------------------------
+*
+ 
+3) What is the Physical Layer About ?
+--------------------------------------
+*
+*
+
+4) What does the Physical Layer Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of the Physical Layer :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Physical Layer :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Physical Layer :
+-----------------------------------
+*
+*
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<< GUIDED TRANSMISSION MEDIA >>>>>>>>>>>>>>>>>>>>
+
+GUIDED TRANSMISSION MEDIA 90
+2.1.1 Persistent Storage 90
+2.1.2 Twisted Pairs 91
+2.1.3 Coaxial Cable 93
+2.1.4 Power Lines 94
+2.1.5 Fiber Optics
+
+________________________________________________
+ GUIDED TRANSMISSION MEDIA                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Guided Transmission Media
+                                                                                        
+2) Definition of Guided Media Transmission ?
+---------------------------------------------
+*
+ 
+3) What is Guided Media Transmission About ?
+---------------------------------------------
+*
+*
+
+4) What does the Guided Transmission Media Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Guided Transmission Media :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Guided Transmission Media :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Guided Transmission Media :
+-------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+************** PERSISTENT STORAGE **************
+
+________________________________________________
+ Peristent Storage                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Persistent Storage 
+                                                                                        
+2) Definition of Persistent Storage ?
+--------------------------------------
+*
+ 
+3) What is Persistent Storage About ?
+-------------------------------------
+*
+*
+
+4) What does Persistent Storage Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Persistent Storage :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Persistent Storage :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Persistent Storage :
+-----------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+************** TWISTED PAIRS **************
+
+________________________________________________
+ Twisted Pairs                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Twisted Pairs
+                                                                                        
+2) Definition of Twisted Pairs ?
+---------------------------------
+*
+ 
+3) What is Twisted Pairs About ?
+--------------------------------
+*
+*
+
+4) What do Twisted Pairs Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Twisted Pairs :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Twisted Pairs :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Twisted Pairs :
+------------------------------
+*
+*   
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+************** Coaxical Cable **************
+
+________________________________________________
+ Coaxical Cable                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Coaxical Cable
+                                                                                        
+2) Definition of Coaxical Cable ?
+----------------------------------
+*
+ 
+3) What is a Coaxical Cable About ?
+------------------------------------
+*
+*
+
+4) What does a Coaxical Cable Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Coaxical Cables :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Coaxical Cables :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Coaxical Cables :
+--------------------------------
+*
+*
+
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+************** POWER LINES **************
+
+________________________________________________
+ Power Lines                                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Power Lines
+                                                                                        
+2) Definition of Power Lines ?
+-------------------------------
+*
+ 
+3) What are Power Lines About ?
+-------------------------------
+*
+*
+
+4) What do Power Lines Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Power Lines :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Power Lines :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Power Lines  :
+-----------------------------
+*
+*
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+************** FIBER OPTICS **************
+Fiber Optics :
+- Transmission of Light Through Fiber
+- Fiber Cables
+- Comparison of Fiber Optics and Copper Wire
+
+________________________________________________
+ Fiber Optics                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Fiber Optics
+                                                                                        
+2) Definition of Fiber optics ?
+--------------------------------
+*
+ 
+3) What are Fiber Optics About ?
+--------------------------------
+*
+*
+
+4) What do Fiber Optics Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Fiber Optics  :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fiber Optics :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Fiber Optics :
+-----------------------------
+*
+*
+__________________________________________________________________________________
+
+      \\\\ Transmission of Light Through Fiber ////
+________________________________________________
+ Transmission of Light Through Fiber            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Transmission of Light Through Fiber
+                                                                                        
+2) Definition of Transmission of Light Through Fiber ?
+-------------------------------------------------------
+*
+ 
+3) What is Transmission of Light Through Fiber About ?
+-------------------------------------------------------
+*
+*
+
+4) What does Transmission of Light Through Fiber Do ?
+------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Transmission of Light Through Fiber :
+----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Transmission of Light Through Fiber :
+-------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Transmission of Light Through Fiber :
+-----------------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+       \\\\ Fiber Cables ////
+
+________________________________________________
+ Fiber Cables                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Fiber Cables
+                                                                                        
+2) Definition of Fiber Cables ?
+---------------------------------
+*
+ 
+3) What are Fiber Cables About ?
+----------------------------------
+*
+*
+
+4) What do Fiber Cables Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Fiber Cables :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fiber Cables :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Fiber Cables :
+------------------------------
+*
+*
+__________________________________________________________________________________
+
+      \\\\ Comparision of Fiber Optics and Copper Wire ////
+________________________________________________
+ Comparison of Fiber Optics and Copper Wire     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Comparison of Fiber Optics and Copper Wire
+                                                                                        
+2) Definition of Fiber Optics and Copper Wire ?
+------------------------------------------------
+*
+ 
+3) What are Fiber Optics and Copper Wire About ?
+-------------------------------------------------
+*
+*
+
+4) What do Fiber Optics and Copper Wire Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fiber Optics and Copper Wire :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fiber Optics and Copper Wire :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Twisted Pairs :
+-------------------------------
+*
+*
+
+___________________________________________________________________________________
+___________________________________________________________________________________
+
+
+<<<<<<<<<<<<<< WIRELESS TRANSMISSION >>>>>>>>>>>>>>>>>>>>
+
+WIRELESS TRANSMISSION 100
+2.2.1 The Electromagnetic Spectrum 101
+2.2.2 Frequency Hopping Spread Spectrum 103
+2.2.3 Direct Sequence Spread Spectrum 103
+2.2.4 Ultra-Wideband Communication 104
+________________________________________________
+ WIRELESS TRANSMISSION                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Wireless Transmission
+                                                                                        
+2) Definition of Wireless Transmission ?
+-----------------------------------------
+*
+ 
+3) What is Wireless Transmission About ?
+----------------------------------------
+*
+*
+
+4) What does the Wireless Transmission Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Wireless Transmission :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Wireless Transmission :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Wireless Transmission :
+--------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+      ******** The Electromagnetic Spectrum ***********
+________________________________________________
+ The Electromagnetic Spectrum                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Electromagnetic Spectrum
+                                                                                        
+2) Definition of Electromagnetic Spectrum ?
+-------------------------------------------
+*
+ 
+3) What is the Electromagnetic Spectrum About ?
+-----------------------------------------------
+*
+*
+
+4) What does the Electromagnetic Spectrum Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of the Electromagnetic Spectrum :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Electromagnetic Spectrum :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Electromagnetic Spectrum :
+---------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+
+    *********** Frequency Hopping Spread Spectrum ************
+________________________________________________
+ Frequency Hopping Spread Spectrum              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Frequency Hopping Spread Spectrum
+                                                                                        
+2) Definition of Frequency Hopping Spread Spectrum ?
+----------------------------------------------------
+*
+ 
+3) What is Frequency Hopping Spread Spectrum About ?
+----------------------------------------------------
+*
+*
+
+4) What does the Frequency Hopping Spread Spectrum Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of the Frequency Hopping Spread Spectrum :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Frequency Hopping Spread Spectrum :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Frequency Hopping Spread Spectrum :
+------------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+    ********* Direct Sequence Spread Spectrum *********
+________________________________________________
+ Direct Sequence Spread Spectrum                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Direct Sequence Spread Spectrum
+                                                                                        
+2) Definition of the Direct Sequence Spread Spectrum ?
+------------------------------------------------------
+*
+ 
+3) What is Direct Sequence Spread Spectrum About ?
+--------------------------------------------------
+*
+*
+
+4) What does the Direct Sequence Spread Spectrum Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of the Direct Sequence Spread Spectrum :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Direct Sequence Spread Spectrum :
+-------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Direct Sequence Spread Spectrum  :
+-----------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+     ******* Ultra-Wideband Communication ********
+________________________________________________
+ Ultra-Wideband Communication                   |
+ (UWB)                                          |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Ultra-Wideband Communication
+                                                                                        
+2) Definition of Ultra-Wideband Communication ?
+-----------------------------------------------
+*
+ 
+3) What is Ultra-Wideband Communication About ?
+-----------------------------------------------
+*
+*
+
+4) What does the Ultra-Wideband Communication Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Ultra-Wideband Communication :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Ultra-Wideband Communication :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Ultra-Wideband Communication :
+-------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+
+<<<<<<<<<<<<<< USING THE SPECTRUM FOR TRANSMISSION >>>>>>>>>>>>>>>>>>>>
+
+USING THE SPECTRUM FOR TRANSMISSION 104
+2.3.1 Radio Transmission 104
+2.3.2 Microwave Transmission 106
+2.3.3 Infrared Transmission 107
+2.3.4 Light Transmission 108
+________________________________________________
+ USING THE SPECTRUM FOR TRANSMISSION            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Using The Spectrum For Transmission
+                                                                                        
+2) Definition of Using The Spectrum For Transmission ?
+------------------------------------------------------
+*
+ 
+3) What is Using The Spectrum For Transmission About ?
+------------------------------------------------------
+*
+*
+
+4) What does Using The Spectrum For Transmission Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Using The Spectrum For Transmission:
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Using The Spectrum For Transmission :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Using The Spectrum For Transmission:
+---------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+                
+      ******* Radio Transmission ********
+________________________________________________
+ Radio Transmission                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Radio Transmission
+                                                                                        
+2) Definition of Radio Transmission ?
+-------------------------------------
+*
+ 
+3) What is Radio Transmission About ?
+-------------------------------------
+*
+*
+
+4) What does the Radio Transmission Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Radio Transmission :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Radio Transmission :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Radio Transmission :
+-----------------------------------
+*
+* 
+
+________________________________________________________________________________
+             
+           ******** Microwave Transmission *********
+________________________________________________
+ Microwave Transmission                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Microwave Transmission
+                                                                                        
+2) Definition of Microwave Transmission ?
+-----------------------------------------
+*
+ 
+3) What is Microwave Transmission About ?
+-----------------------------------------
+*
+*
+
+4) What does the Microwave Transmission Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Microwave Transmission :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Microwave Transmission :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Microwave Transmission :
+---------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+    ******* Infrared Transmission ********
+
+________________________________________________
+ Infrared Transmission                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Infrared Transmission
+                                                                                        
+2) Definition of Infrared Transmission ?
+----------------------------------------
+*
+ 
+3) What is Infrared Transmission About ?
+----------------------------------------
+*
+*
+
+4) What does Infrared Transmission Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Infrared Transmission :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Infrared Transmission :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Infrared Transmission :
+---------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+    ******** Light Transmission *********
+
+________________________________________________
+ Light Transmission                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Light Transmission
+                                                                                        
+2) Definition of Light Transmission ?
+-------------------------------------
+*
+ 
+3) What is Light Transmission About ?
+-------------------------------------
+*
+*
+
+4) What does Light Transmission Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Light Transmission :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Light Transmission :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Light Transmission :
+-----------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+
+<<<<<<<<<<<<<< FROM WAVEFORM TO BITS >>>>>>>>>>>>>>>>>>>>
+
+FROM WAVEFORMS TO BITS 109
+2.4.1 The Theoretical Basis for Data Communication 110
+2.4.2 The Maximum Data Rate of a Channel 114
+2.4.3 Digital Modulation 115
+2.4.4 Multiplexing 123
+________________________________________________
+ FROM WAVEFORM TO BITS                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* From Waveform To Bits
+                                                                                        
+2) Definition of Waveform To Bits ?
+-----------------------------------
+*
+ 
+3) What is Waveform To Bits About ?
+-----------------------------------
+*
+*
+
+4) What do Waveform To Bits Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Waveform To Bits :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Waveform To Bits :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Waveform To Bits :
+---------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+ ************** The Theoretical Basis for Data Communication *************
+
+- Fourier Analysis
+- Bandwidth-Limited Signals
+
+________________________________________________
+ The Theoretical Basis for Data Communication   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* The Theoretical Basis for Data Communication
+                                                                                        
+2) Definition of The Theoretical Basis for Data Communication ?
+----------------------------------------------------------------
+*
+ 
+3) What is The Theoretical Basis for Data Communication About ?
+----------------------------------------------------------------
+*
+*
+
+4) What does The Theoretical Basis for Data Communication Do ?
+---------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Theoretical Basis for Data Communication :
+-------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Theoretical Basis for Data Communication :
+----------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Theoretical Basis for Data Communication :
+--------------------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+   \\\\ Fourier Analysis ////
+
+________________________________________________
+ Fourier Analysis                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Fourier Analysis
+                                                                                        
+2) Definition of The Fourier Analysis ?
+---------------------------------------
+*
+ 
+3) What is The Fourier Analysis About ?
+---------------------------------------
+*
+*
+
+4) What does The Fourier Analysis Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Fourier Analysis :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Fourier Analysis :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Fourier Analysis :
+-------------------------------------
+*
+* 
+
+____________________________________________________________________________________
+
+     \\\\ Bandwidth-Limited Signals ////
+
+________________________________________________
+ Bandwidth-Limited Signals                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Bandwidth-Limited Signals
+                                                                                        
+2) Definition of The Bandwidth-Limited Signals ?
+------------------------------------------------
+*
+ 
+3) What is The Bandwidth-Limited Signals About ?
+------------------------------------------------
+*
+*
+
+4) What does The Bandwidth-Limited Signals Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Bandwidth-Limited Signals :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Bandwidth-Limited Signals :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Bandwidth-Limited Signals :
+-----------------------------------------------
+*
+* 
+
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+ ************** The Maximum Data Rate of a Channel *************
+
+________________________________________________
+ The Maximum Data Rate of a Channel             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Maximum Data Rate of a Channel
+                                                                                        
+2) Definition of The Maximum Data Rate of a Channel ?
+-----------------------------------------------------
+*
+ 
+3) What is The Maximum Data Rate of a Channel About ?
+-----------------------------------------------------
+*
+*
+
+4) What does The Maximum Data Rate of a Channel Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Maximum Data Rate of a Channel :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Maximum Data Rate of a Channel :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Maximum Data Rate of a Channel :
+---------------------------------------------------
+*
+* 
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+
+ ************** Digital Modulation *************
+
+- Baseband Transmission
+- Bandwidth Efficiency
+- Clock Recovery
+- Balanced Signals
+- Passband Transmission
+________________________________________________
+ Digital Modulation                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Digital Modulation
+                                                                                        
+2) Definition of Digital Modulation ?
+--------------------------------------
+*
+ 
+3) What is Digital Modulation About ?
+--------------------------------------
+*
+*
+
+4) What does Digital Modulation Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Digital Modulation :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Digital Modulation :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Digital Modulation :
+-------------------------------------
+*
+*
+____________________________________________________________________________________
+
+       \\\\ Baseband Transmission ////
+
+________________________________________________
+ Baseband Transmission                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Baseband Transmission
+                                                                                        
+2) Definition of Baseband Transmission ?
+--------------------------------------
+*
+ 
+3) What is Baseband Transmission About ?
+--------------------------------------
+*
+*
+
+4) What does Baseband Transmission Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Baseband Transmission :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Baseband Transmission :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Baseband Transmission :
+-------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+         \\\\ Bandwidth Efficiency ////
+
+________________________________________________
+ Bandwidth Efficiency                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Baseband Efficiency
+                                                                                        
+2) Definition of Baseband Efficiency ?
+--------------------------------------
+*
+ 
+3) What is Baseband Efficiency About ?
+--------------------------------------
+*
+*
+
+4) What does Baseband Efficiency Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Baseband Efficiency :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Baseband Efficiency :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Baseband Efficiency :
+-------------------------------------
+*
+*
+____________________________________________________________________________________
+
+          \\\\ Clock Recovery ////
+
+________________________________________________
+ Clock Recovery                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Clock Recovery
+                                                                                        
+2) Definition of Clock Recovery ?
+---------------------------------
+*
+ 
+3) What is Clock Recovery About ?
+---------------------------------
+*
+*
+
+4) What does Clock Recovery Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Clock Recovery :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Clock Recovery :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Clock Recovery :
+-------------------------------
+*
+*
+__________________________________________________________________________________
+
+            \\\\ Balanced Signals ////
+
+________________________________________________
+ Balanced Signals                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Balanced Signals
+                                                                                        
+2) Definition of Balanced Signals ?
+------------------------------------
+*
+ 
+3) What is Balanced Signals About ?
+-----------------------------------
+*
+*
+
+4) What does Balanced Signals Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Balanced Signals :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Balanced Signals :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Balanced Signals :
+---------------------------------
+*
+*
+___________________________________________________________________________________
+
+           \\\\ Passband Transmission ////
+
+________________________________________________
+ Passband Transmission                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Passband Transmission
+                                                                                        
+2) Definition of Passband Transmission ?
+--------------------------------------
+*
+ 
+3) What is Passband Transmission About ?
+--------------------------------------
+*
+*
+
+4) What does Passband Transmission Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Passband Transmission :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Passband Transmission :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Passband Transmission :
+-------------------------------------
+*
+*
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+************** Multiplexing *************
+- Frequency Division Multiplexing
+- Time Division Multiplexing
+- Code Division Multiplexing
+- Wavelength Division Multiplexing
+________________________________________________
+ Multiplexing                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Multiplexing
+                                                                                        
+2) Definition of Multiplexing ?
+--------------------------------
+*
+ 
+3) What is Multiplexing About ?
+--------------------------------
+*
+*
+
+4) What does Multiplexing Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Multiplexing :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multiplexing :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Multiplexing :
+-----------------------------
+*
+*
+____________________________________________________________________________________
+
+                \\\\ Frequency Division Multiplexing ////
+
+________________________________________________
+ Frequency Division Multiplexing                |
+   (FDM)                                        |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Frequency Division Multiplexing (FDM).
+                                                                                        
+2) Definition of Frequency Division Multiplexing ?
+--------------------------------------------------
+*
+ 
+3) What is Frequency Division Multiplexing About ?
+--------------------------------------------------
+*
+*
+
+4) What does Frequency Division Multiplexing Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Frequency Division Multiplexing :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Frequency Division Multiplexing :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Frequency Division Mulltiplexing :
+-------------------------------------------------
+*
+*
+
+____________________________________________________________________________________
+
+            \\\\ Time Division Multiplexing ////
+
+________________________________________________
+ Time Division Multiplexing                     |
+  (TDM)                                         |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Time Division Multiplexing (TDM).
+                                                                                        
+2) Definition of Time Division Multiplexing ?
+---------------------------------------------
+*
+ 
+3) What is Time Division Multiplexing About ?
+---------------------------------------------
+*
+*
+
+4) What does Time Division Multiplexing Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Time Division Multiplexing :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Time Division Multiplexing :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Time Division Multiplexing :
+--------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+            \\\\ Code Division Multiplexing ////
+
+________________________________________________
+ Code Division Multiplexing                     |
+   (CDM)                                        |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Code Division Multiplexing (CDM).
+                                                                                        
+2) Definition of Code Division Multiplexing ?
+----------------------------------------------
+*
+ 
+3) What is Code Division Multiplexing About ?
+---------------------------------------------
+*
+*
+
+4) What does Code Division Multiplexing Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Code Division Multiplexing :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Code Division Multiplexing :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Code Division Multiplexing :
+-------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+            \\\\ Wavelength Division Multiplexing ////
+
+________________________________________________
+ Wavelength Division Multiplexing               |
+  (WDM)                                         |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Wavelength Division Multiplexing (WDM).
+                                                                                        
+2) Definition of Wavelength Division Multiplexing ?
+---------------------------------------------------
+*
+ 
+3) What is Wavelength Division Multiplexing About ?
+----------------------------------------------------
+*
+*
+
+4) What does Wavelength Division Multiplexing Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Wavelength Division Multiplexing :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Wavelength Division Multiplexing :
+----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Wavelength Division Multiplexing :
+--------------------------------------------------
+*
+*
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+
+ <<<<<<<<<<<< THE PUBLIC SWITCHED TELEPHONE NETWORK >>>>>>>>>>>>>>
+
+THE PUBLIC SWITCHED TELEPHONE NETWORK 131
+2.5.1 Structure of the Telephone System 131
+2.5.2 The Local Loop: Telephone Modems, ADSL, and Fiber 134
+2.5.3 Trunks and Multiplexing 143
+2.5.4 Switching 149            
+
+________________________________________________
+ The Public Switched Telephone Network          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* The Public Switched Telephone Network.
+                                                                                        
+2) Definition of Frequency Division Multiplexing ?
+--------------------------------------------------
+*
+ 
+3) What is Frequency Division Multiplexing About ?
+--------------------------------------------------
+*
+*
+
+4) What does Frequency Division Multiplexing Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Frequency Division Multiplexing :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Frequency Division Multiplexing :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Theoretical Basis for Data Communication :
+-------------------------------------------------------------
+*
+*
+
+_________________________________________________________________________________
+     
+   ********** Structure Of The Telephone System ***********
+
+________________________________________________
+ Structure Of The Telephone System              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Structure of the Telephone System
+                                                                                        
+2) Definition of Structure of the Telephone System ?
+----------------------------------------------------
+*
+ 
+3) What is the Structure of the Telephone System About ?
+--------------------------------------------------------
+*
+*
+
+4) What does the Structure of the Telephone System Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of the Structure of the Telephone System :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Structure of the Telephone System :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Structure of the Telephone System :
+------------------------------------------------------
+*
+*
+____________________________________________________________________________________
+
+  ********** The Local Loop: Telephone Modems, ADSL, and Fiber ***********
+
+- Telephone Modems
+- Digital Subscriber Lines (DSL)
+- Fiber To The X(FTTX)
+___________________________________________________
+ The Local Loop: Telephone Modems, ADSL, and Fiber |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* The Local Loop: Telephone Modems, ADSL, and Fiber.
+                                                                                        
+2) Definition of The Local Loop: Telephone Modems, ADSL, and Fiber ?
+--------------------------------------------------------------------
+*
+ 
+3) What is The Local Loop: Telephone Modems, ADSL, and Fiber About ?
+--------------------------------------------------------------------
+*
+*
+
+4) What does The Local Loop: Telephone Modems, ADSL, and Fiber Do ?
+-------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Local Loop: Telephone Modems, ADSL, and Fiber :
+-----------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Local Loop: Telephone Modems, ADSL, and Fiber :
+--------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Local Loop: Telephone Modems, ADSL, and Fiber :
+-------------------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ Telephone Modems ////
+
+___________________________________________________
+ Telephone Modems                                  |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Telephone Modems.
+                                                                                        
+2) Definition of Telephone Modems ?
+-----------------------------------
+*
+ 
+3) What are Telephone Modems About ?
+------------------------------------
+*
+*
+
+4) What do Telephone Modems Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Telephone Modems :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Telephone Modems :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Telephone Modems :
+---------------------------------
+*
+*
+______________________________________________________________________________________
+
+         \\\\ Digital Subscriber Lines (DSL) ////
+
+___________________________________________________
+ Digital Subscriber Lines (DSL)                    |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Digital Subscriber Lines (DSL).
+                                                                                        
+2) Definition of Digital Subscriber Lines ?
+-------------------------------------------
+*
+ 
+3) What is the Digital Subscriber Lines About ?
+-----------------------------------------------
+*
+*
+
+4) What does the Digital Subscriber Lines Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Digital Subscriber Lines (DSL) :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Digital Subscriber Lines (DSL) :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Digital Subscriber Lines (DSL) :
+---------------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+         \\\\ Fiber To The X(FTTX) ////
+
+___________________________________________________
+ Fiber To The X(FTTX)                              |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Fiber To The X(FTTX).
+                                                                                        
+2) Definition of Fiber To The X(FTTX) ?
+----------------------------------------
+*
+ 
+3) What is Fiber To The X(FTTX) About ?
+---------------------------------------
+*
+*
+
+4) What does Fiber To The X(FTTX) Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fiber To The X(FTTX) :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fiber To The X(FTTX) :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Fiber To The X(FTTX) :
+-----------------------------------------
+*
+*
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+ ********** TRUNKS AND MULTIPLEXING ***********
+- Digitizing Voice Signals
+- T-Carrier: Multiplexing Digital Signals on the Phone Network
+- Multiplexing Optical Networks: SONET/SDH
+___________________________________________________
+ Trunks And Multiplexing                           |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Trunks And Multiplexing.
+                                                                                        
+2) Definition of Trunks And Multiplexing ?
+------------------------------------------
+*
+ 
+3) What is Trunks And Multiplexing About ?
+------------------------------------------
+*
+*
+
+4) What does Trunks And Multiplexing Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Trunks And Multiplexing :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Trunks And Multiplexing :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Trunks And Multiplexing :
+----------------------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ Digitizing Voice Signals ////
+
+___________________________________________________
+ Digitizing Voice Signals                          |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Digitizing Voice Signals.
+                                                                                        
+2) Definition of Digitizing Voice Signals ?
+-------------------------------------------
+*
+ 
+3) What are Digitizing Voice Signals About ?
+--------------------------------------------
+*
+*
+
+4) What do Digitizing Voice Signals Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Digitizing Voice Signals :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Digitizing Voice Signals :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Digitizing Voice Signals :
+-----------------------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ T-Carrier: Multiplexing Digital Signals on the Phone Network ////
+
+_______________________________________________________________
+  T-Carrier: Multiplexing Digital Signals on the Phone Network |
+                                                               |                  
+_______________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* T-Carrier: Multiplexing Digital Signals on the Phone Network.
+                                                                                        
+2) Definition of T-Carrier: Multiplexing Digital Signals on the Phone Network ?
+-------------------------------------------------------------------------------
+*
+ 
+3) What is T-Carrier: Multiplexing Digital Signals on the Phone NetworkAbout ?
+------------------------------------------------------------------------------
+*
+*
+
+4) What does the T-Carrier: Multiplexing Digital Signals on the Phone Network Do ?
+----------------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of T-Carrier: Multiplexing Digital Signals on the Phone Network :
+----------------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of T-Carrier: Multiplexing Digital Signals on the Phone Network :
+-------------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the T-Carrier: Multiplexing Digital Signals on the Phone Network :
+---------------------------------------------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+         \\\\ Multiplexing Optical Networks: SONET/SDH ////
+
+___________________________________________________
+ Multiplexing Optical Networks: SONET/SDH          |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Multiplexing Optical Networks: SONET/SDH.
+                                                                                        
+2) Definition of Multiplexing Optical Networks: SONET/SDH ?
+-----------------------------------------------------------
+*
+ 
+3) What is Multiplexing Optical Networks: SONET/SDH About ?
+-----------------------------------------------------------
+*
+*
+
+4) What does Multiplexing Optical Networks: SONET/SDH Do ?
+----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Multiplexing Optical Networks: SONET/SDH :
+--------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multiplexing Optical Networks: SONET/SDH :
+-----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Multiplexing Optical Networks: SONET/SDH :
+-------------------------------------------------------------
+*
+*
+___________________________________________________________________________
+
+
+********** SWITCHING ***********
+- Circuit Switching
+- Packet Switching
+___________________________________________________
+ SWITCHING                                         |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Switching.
+                                                                                        
+2) Definition of Switching ?
+----------------------------
+*
+ 
+3) What is Switching About ?
+----------------------------
+*
+*
+
+4) What does Switching Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Switching :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Switching :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Switching :
+--------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ Circuit Switching ////
+
+___________________________________________________
+ Circuit Switching                                 |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Circuit Switching.
+                                                                                        
+2) Definition of Circuit Switching ?
+------------------------------------
+*
+ 
+3) What is Circuit Switching About ?
+------------------------------------
+*
+*
+
+4) What does Circuit Switching Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Circuit Switching :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Circuit Switcing :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Circuit Switching :
+----------------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ Packet Switching ////
+
+_______________________________________________________________
+  Packet Switching                                             |
+                                                               |                  
+_______________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Packet Switching.
+                                                                                        
+2) Definition of Packet Switching ?
+-----------------------------------
+*
+ 
+3) What is Packet Switching About ?
+-----------------------------------
+*
+*
+
+4) What does Packet Switching Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Packet Switching :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Packet Switching :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Packet Switching :
+---------------------------------
+*
+*
+__________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+ <<<<<<<<<<<<<<<<<<<<< CELLULAR NETWORKS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+CELLULAR NETWORKS 154
+2.6.1 Common Concepts: Cells, Handoff, Paging 155
+2.6.2 First-Generation (1G) Technology: Analog Voice 156
+2.6.3 Second-Generation (2G) Technology: Digital Voice 158
+2.6.4 GSM: The Global System for Mobile Communications 159
+2.6.5 Third-Generation (3G) Technology: Digital Voice and Data 162
+2.6.6 Fourth-Generation (4G) Technology: Packet Switching 166
+2.6.7 Fifth-Generation (5G) Technology 168
+___________________________________________________
+ CELLULAR NETWORKS                                 |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Cellular Networks.
+                                                                                        
+2) Definition of Cellular Networks ?
+-------------------------------------
+*
+ 
+3) What are Cellular Networks About ?
+--------------------------------------
+*
+*
+
+4) What do Cellular Networks Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Cellular Networks :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cellular Networks :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Cellular Networks :
+----------------------------------
+*
+*
+__________________________________________________________________________
+
+********** COMMON CONCEPTS: CELLS,HANDOFF, PAGING ***********
+
+___________________________________________________
+ COMMON CONCEPTS: CELLS, HANDOFF, PAGING           |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Common Concepts: Cells, Handoff, Paging.
+                                                                                        
+2) Definition of Common Concepts: Cells, Handoff, Paging ?
+----------------------------------------------------------
+*
+ 
+3) What is Common Concepts: Cells, Handoff, Paging About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Common Concepts: Cells, Handoff, Paging Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Common Concepts: Cells, Handoff, Paging :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Common Concepts: Cells, Handoff, Paging :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Common Concepts: Cells, Handoff, Paging :
+--------------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+********** FIRST-GENERATION (1G) TECHNOLOGY: ANALOG VOICE ***********
+- Call Management
+___________________________________________________
+ First-Generation (1G) Technology: Analog Voice    |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* First-Generation (1G) Technology: Analog Voice.
+                                                                                        
+2) Definition of First-Generation (1G) Technology: Analog Voice ?
+----------------------------------------------------------------
+*
+ 
+3) What is First-Generation (1G) Technology: Analog Voice About ?
+----------------------------------------------------------------
+*
+*
+
+4) What does First-Generation (1G) Technology: Analog Voice Do ?
+---------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of First-Generation (1G) Technology: Analog Voice :
+-------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of First-Generation (1G) Technology: Analog Voice :
+----------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of First-Generation (1G) Technology: Analog Voice :
+---------------------------------------------------------------
+*
+*
+________________________________________________________________________________
+
+              \\\\ Call Management ////
+___________________________________________________
+ Call Management                                   |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Call Management.
+                                                                                        
+2) Definition of Call Management ?
+----------------------------------
+*
+ 
+3) What is Call Management About ?
+-----------------------------------
+*
+*
+
+4) What does Call Management Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Call Management :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Call Management :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Call Management :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+********** SECOND-GENERATION (2G) TECHNOLOGY: DIGITAL VOICE ***********
+
+___________________________________________________
+ Second-Generation (2G) Technology: Digital Voice  |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Second-Generation (2G) Technology: Digital Voice.
+                                                                                        
+2) Definition of Second-Generation (2G) Technology: Digital Voice ?
+-------------------------------------------------------------------
+*
+ 
+3) What is Second-Generation (2G) Technology: Digital Voice About ?
+-------------------------------------------------------------------
+*
+*
+
+4) What does Second-Generation (2G) Technology: Digital Voice Do ?
+------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Second-Generation (2G) Technology: Digital Voice :
+----------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Second-Generation (2G) Technology: Digital Voice :
+-------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Second-Generation (2G) Technology: Digital Voice :
+-----------------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+********** GSM: THE GLOBAL SYSTEM FOR MOBILE COMMUNICAIONS ***********
+
+___________________________________________________
+ GSM: The Global System for Mobile Communications  |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* GSM: The Global System for Mobile Communications.
+                                                                                        
+2) Definition of GSM: The Global System for Mobile Communications ?
+-------------------------------------------------------------------
+*
+ 
+3) What is GSM: The Global System for Mobile Communications About ?
+-------------------------------------------------------------------
+*
+*
+
+4) What does GSM: The Global System for Mobile Communications Do ?
+------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of GSM: The Global System for Mobile Communications :
+----------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of GSM: The Global System for Mobile Communications :
+-------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of GSM: The Global System for Mobile Communications :
+---------------------------------------------------------------
+*
+*
+____________________________________________________________________________________
+
+********** THIRD-GENERATION (3G) TECHNOLOGY; DIGITAL VOICE and DATA ***********
+
+___________________________________________________________
+ Third-Generation (3G) Technology: Digital Voice and Data  |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Third-Generation (3G) Technology: Digital Voice and Data.
+                                                                                        
+2) Definition of Third-Generation (3G) Technology: Digital Voice and Data ?
+---------------------------------------------------------------------------
+*
+ 
+3) What is Third-Generation (3G) Technology: Digital Voice and Data About ?
+---------------------------------------------------------------------------
+*
+*
+
+4) What does Third-Generation (3G) Technology: Digital Voice and Data Do ?
+--------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Third-Generation (3G) Technology: Digital Voice and Data :
+------------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Third-Generation (3G) Technology: Digital Voice and Data :
+---------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Third-Generation (3G) Technology: Digital Voice and Data :
+-------------------------------------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+********** FOURTH-GENERATION (4G) TECHNOLOGY: PACKET SWITCHING ***********
+
+___________________________________________________________
+ Fourth-Generation (4G) Technology: Packet Switching       |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fourth-Generation (4G) Technology: Packet Switching.
+                                                                                        
+2) Definition of Fourth-Generation (4G) Technology: Packet Switching ?
+----------------------------------------------------------------------
+*
+ 
+3) What is Fourth-Generation (4G) Technology: Packet Switching About ?
+----------------------------------------------------------------------
+*
+*
+
+4) What does Fourth-Generation (4G) Technology: Packet Switching Do ?
+---------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fourth-Generation (4G) Technology: Packet Switching :
+-------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fourth-Generation (4G) Technology: Packet Switching :
+----------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Fourth-Generation (4G) Technology: Packet Switching :
+--------------------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+********** FIFTH-GENERATION (5G) TECHNOLOGY ***********
+
+___________________________________________________________
+ Fifth-Generation (5G) Technology                          |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fifth-Generation (5G) Technology.
+                                                                                        
+2) Definition of Fifth-Generation (5G) Technology ?
+---------------------------------------------------
+*
+ 
+3) What is Fifth-Generation (5G) Technology About ?
+---------------------------------------------------
+*
+*
+
+4) What does Fifth-Generation (5G) Technology Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fifth-Generation (5G) Technology :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fifth-Generation (5G) Technology :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Fifth-Generation (5G) Technology :
+-------------------------------------------------
+*
+*
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+
+<<<<<<<<<<<<<<< CABLE NETWORKS >>>>>>>>>>>>>>>>>>>
+
+CABLE NETWORKS 169
+2.7.1 A History of Cable Networks: Community Antenna Television 170
+2.7.2 Broadband Internet Access Over Cable: HFC Networks 170
+2.7.3 DOCSIS 173
+2.7.4 Resource Sharing in DOCSIS Networks: Nodes and Minislots 174
+___________________________________________________
+ CABLE NETWORKS                                    |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Cable Networks.
+                                                                                        
+2) Definition of Cable Networks ?
+---------------------------------
+*
+ 
+3) What are Cable Networks About ?
+-----------------------------------
+*
+*
+
+4) What do Cable Networks Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Cable Networks :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cable Networks :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Cable Networks :
+-------------------------------
+*
+*
+________________________________________________________________________________
+
+************ A History of Cable Networks: Community Antenna Television *************
+___________________________________________________________
+ A History of Cable Networks: Community Antenna Television |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* A History of Cable Networks: Community Antenna Television.
+                                                                                        
+2) Definition of A History of Cable Networks: Community Antenna Television ?
+----------------------------------------------------------------------------
+*
+ 
+3) What is A History of Cable Networks: Community Antenna Television About ?
+----------------------------------------------------------------------------
+*
+*
+
+4) What does A History of Cable Networks: Community Antenna Television Do ?
+---------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of A History of Cable Networks: Community Antenna Television :
+-------------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of A History of Cable Networks: Community Antenna Television :
+--------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of A History of Cable Networks: Community Antenna Television :
+--------------------------------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************ Broadband Internet Access Over Cable: HFC Networks *************
+___________________________________________________________
+ Broadband Internet Access Over Cable: HFC Networks        |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Broadband Internet Access Over Cable: HFC Networks.
+                                                                                        
+2) Definition of Broadband Internet Access Over Cable: HFC Networks ?
+---------------------------------------------------------------------
+*
+ 
+3) What is Broadband Internet Access Over Cable: HFC Networks About ?
+---------------------------------------------------------------------
+*
+*
+
+4) What does Broadband Internet Access Over Cable: HFC Networks Do ?
+--------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Broadband Internet Access Over Cable: HFC Networks :
+------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Broadband Internet Access Over Cable: HFC Networks :
+---------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Broadband Internet Access Over Cable: HFC Networks :
+-------------------------------------------------------------------
+*
+*
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+************* DOCSIS **************
+___________________________________________________________
+ DOCSIS                                                    |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* DOCSIS.
+                                                                                        
+2) Definition OF DOCSIS ?
+-------------------------
+*
+ 
+3) What is DOCSIS About ?
+-------------------------
+*
+*
+
+4) What does DOCSIS Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of DOCSIS :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DOCSIS :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of DOCSIS :
+-----------------------
+*
+*
+___________________________________________________________________________________
+
+************ Resource Sharing in DOCSIS Networks: Nodes and Minislots *************
+___________________________________________________________
+ Resource Sharing in DOCSIS Networks: Nodes and Minislots  |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Resource Sharing in DOCSIS Networks: Nodes and Minislots.
+                                                                                        
+2) Definition of Resource Sharing in DOCSIS Networks: Nodes and Minislots ?
+----------------------------------------------------------------------------
+*
+ 
+3) What is Resource Sharing in DOCSIS Networks: Nodes and Minislots About ?
+----------------------------------------------------------------------------
+*
+*
+
+4) What does Resource Sharing in DOCSIS Networks: Nodes and Minislots Do ?
+---------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Resource Sharing in DOCSIS Networks: Nodes and Minislots :
+-------------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Resource Sharing in DOCSIS Networks: Nodes and Minislots :
+--------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Resource Sharing in DOCSIS Networks: Nodes and Minislots :
+--------------------------------------------------------------------------
+*
+*
+_______________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<<<<<<<< COMMUNICATION SATELLITES >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+COMMUNICATION SATELLITES 176
+2.8.1 Geostationary Satellites 177
+2.8.2 Medium-Earth Orbit Satellites 181
+2.8.3 Low-Earth Orbit Satellites 181
+___________________________________________________________
+ COMMUNICATION SATELLITES                                  |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Communication Satellites.
+                                                                                        
+2) Definition Of Communication Satellites ?
+-------------------------------------------
+*
+ 
+3) What are Communication Satellites About ?
+--------------------------------------------
+*
+*
+
+4) What do Communication Satellites Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Communication Satellites :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Communication Satellites :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Communication Satellites :
+-----------------------------------------
+*
+*
+___________________________________________________________________________________
+
+************ GEOSTATIONARY SATELLITES *************
+___________________________________________________________
+ Geostationary Satellites                                  |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Geostationary Satellites.
+                                                                                        
+2) Definition of Geostationary Satellites ?
+-------------------------------------------
+*
+ 
+3) What are Geostationary Satellites About ?
+--------------------------------------------
+*
+*
+
+4) What do Geostationary Satellites Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Geostationary Satellites :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Geostationary Satellites :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Geostationary Satellites :
+-----------------------------------------
+*
+*
+_____________________________________________________________________________________________________________
+************ MEDIUM-EARTH ORBIT SATELLITES *************
+___________________________________________________________
+ Medium-Earth Orbit Satellites                             |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Medium-Earth Orbit Satellites.
+                                                                                        
+2) Definition of Medium-Earth Orbit Satellites ?
+-------------------------------------------------
+*
+ 
+3) What are Medium-Earth Orbit Satellites About ?
+-------------------------------------------------
+*
+*
+
+4) What do Medium-Earth Orbit Satellites Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Medium-Earth Orbit Satellites :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Medium-Earth Orbit Satellites :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Medium-Earth Orbit Satellites :
+----------------------------------------------
+*
+*
+_____________________________________________________________________________________________________________
+
+************ LOW-EARTH ORBIT SATELLITES *************
+___________________________________________________________
+ Low-Earth Orbit Satellites                             |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Low-Earth Orbit Satellites.
+                                                                                        
+2) Definition of Low-Earth Orbit Satellites ?
+----------------------------------------------
+*
+ 
+3) What are Low-Earth Orbit Satellites About ?
+----------------------------------------------
+*
+*
+
+4) What do Low-Earth Orbit Satellites Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Low-Earth Orbit Satellites :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Low-Earth Orbit Satellites :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Low-Earth Orbit Satellites :
+-------------------------------------------
+*
+*
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<<<<<<<< COMPARING DIFFERENT ACCESS NETWORKS >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+COMPARING DIFFERENT ACCESS NETWORKS 184
+2.9.1 Terrestrial Access Networks: Cable, Fiber, and ADSL 184
+2.9.2 Satellites Versus Terrestrial Networks 186
+___________________________________________________________
+ COMPARING DIFFERENT ACCESS NETWORKS                       |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Comparing Different Access Networks.
+                                                                                        
+2) Definition Of Comparing Different Access Networks ?
+------------------------------------------------------
+*
+ 
+3) What is Comparing Different Access Networks About ?
+------------------------------------------------------
+*
+*
+
+4) What does Comparing Different Access Networks Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Comparing Different Access Networks :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Comparing Different Access Networks :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Comparing Different Access Networks :
+----------------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+************ TERRESTRIAL ACCESS NETWORKS: CABLE, FIBER, and ADSL *************
+___________________________________________________________
+  Terrestrial Access Networks: Cable, Fiber, and ADSL      |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Terrestrial Access Networks: Cable, Fiber, and ADSL.
+                                                                                        
+2) Definition of Terrestrial Access Networks: Cable, Fiber, and ADSL ?
+----------------------------------------------------------------------
+*
+ 
+3) What are Terrestrial Access Networks: Cable, Fiber, and ADSL About ?
+-----------------------------------------------------------------------
+*
+*
+
+4) What do Terrestrial Access Networks: Cable, Fiber, and ADSL Do ?
+-------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Terrestrial Access Networks: Cable, Fiber, and ADSL :
+-------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Terrestrial Access Networks: Cable, Fiber, and ADSL :
+----------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Terrestrial Access Networks: Cable, Fiber, and ADSL :
+--------------------------------------------------------------------
+*
+*
+_____________________________________________________________________________________________________________
+************ SATELLITES VERSUS TERRESTRIAL NETWORKS *************
+___________________________________________________________
+ Satellites Versus Terrestrial Networks                    |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Satellites Versus Terrestrial Networks.
+                                                                                        
+2) Definition of Satellites Versus Terrestrial Networks ?
+---------------------------------------------------------
+*
+ 
+3) What are Satellites Versus Terrestrial Networks About ?
+----------------------------------------------------------
+*
+*
+
+4) What do Satellites Versus Terrestrial Networks Do ?
+------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Satellites Versus Terrestrial Networks :
+------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Satellites Versus Terrestrial Networks :
+---------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Satellites Versus Terrestrial Networks :
+-------------------------------------------------------
+*
+*
+__________________________________________________________________________________________________________
+__________________________________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<<<<<<<< POLICY AT THE PHYSICAL LAYER >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+POLICY AT THE PHYSICAL LAYER 187
+2.10.1 Spectrum Allocation 187
+2.10.2 The Cellular Network 190
+2.10.3 The Telephone Network 192
+___________________________________________________________
+ POLICY AT THE PHYSICAL LAYER                              |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Policy At The Physical Layer.
+                                                                                        
+2) Definition Of Policy At The Physical Layer ?
+-----------------------------------------------
+*
+ 
+3) What is Policy At The Physical Layer About ?
+-----------------------------------------------
+*
+*
+
+4) What does Policy At The Physical Layer Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Policy At The Physical Layer :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Policy At The Physical Layer :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Policy At The Physical Layer :
+---------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+************ SPECTRUM ALLOCATION *************
+___________________________________________________________
+  Spectrum Allocation                                      |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Spectrum Allocation.
+                                                                                        
+2) Definition of Spectrum Allocation ?
+--------------------------------------
+*
+ 
+3) What is Spectrum Allocation About ?
+--------------------------------------
+*
+*
+
+4) What does Spectrum Allocation Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Spectrum Allocation :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Spectrum Allocation :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Spectrum Allocation :
+------------------------------------
+*
+*
+___________________________________________________________________________________
+                                                                                                                        
+          ************ THE CELLULAR NETWORK *************
+___________________________________________________________
+  The Cellular Network                                     |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Cellular Network.
+                                                                                        
+2) Definition of The Cellular Network ?
+---------------------------------------
+*
+ 
+3) What is The Cellular Network About ?
+---------------------------------------
+*
+*
+
+4) What does The Cellular Network Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Cellular Network :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Cellular Network :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Cellular Network :
+-------------------------------------
+*
+* 
+________________________________________________________________________________________________________________
+
+  ************ THE TELEPHONE NETWORK *************
+___________________________________________________________
+  The Telephone Network                                    |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Telephone Network.
+                                                                                        
+2) Definition of The Telephone Network ?
+----------------------------------------
+*
+ 
+3) What is The Telephone Network About ?
+----------------------------------------
+*
+*
+
+4) What does The Telephone Network Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Telephone Network :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Telephone Network :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Telephone Network :
+--------------------------------------
+*
+*
+______________________________________________________________________________________________________
+______________________________________________________________________________________________________
+
+  ************ SUMMARY OF THE PHYSICAL LAYER *************
+___________________________________________________________
+  Summary Of The Physical Layer                            |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Summary Of The Physical Layer.
+                                                                                        
+2) Definition of Summary Of The Physical Layer ?
+------------------------------------------------
+*
+ 
+3) What is The Summary Of The Physical Layer About ?
+----------------------------------------------------
+*
+*
+
+4) What does The Summary Of The Physical Layer Do ?
+---------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Summary Of The Physical Layer :
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Summary Of The Physical Layer :
+----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Summary Of The Physical Layer :
+--------------------------------------------------
+*
+*                                                                                                                                          
