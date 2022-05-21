@@ -1,0 +1,2735 @@
+ 
+CHAPTER 4 : THE MEDIUM ACCESS CONTROL SUBLAYER
+
+<<<<<<<<<<<<<< THE MEDIUM ACCESS CONTROL SUBLAYER >>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<                                    >>>>>>>>>>>>>>>>>>>>
+________________________________________________
+ THE MEDIUM ACCESS CONTROL SUBLAYER             |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* The Medium Access Control Sublayer
+                                                                                        
+2) Definition of The Medium Access Control Sublayer ?
+-----------------------------------------------------
+*
+ 
+3) What is The Medium Access Control Sublayer About ?
+-----------------------------------------------------
+*
+*
+
+4) What does The Medium Access Control Sublayer Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Medium Access Control Sublayer :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Medium Access Control Sublayer :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Medium Access Control Sublayer :
+---------------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<< THE CHANNEL ALLOCATION PROBLEM >>>>>>>>>>>>>>>>>>>>
+
+THE CHANNEL ALLOCATION PROBLEM 268
+4.1.1 Static Channel Allocation 268
+4.1.2 Assumptions for Dynamic Channel Allocation 270
+
+________________________________________________
+ The Channel Allocation Problem                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* The Channel Allocation Problem
+                                                                                        
+2) Definition of The Channel Allocation Problem ?
+-------------------------------------------------
+*
+ 
+3) What is The Channel Allocation Problem About ?
+-------------------------------------------------
+*
+*
+
+4) What does The Channel Allocation Problem Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Channel Allocation Problem :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Channel Allocation Problem :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Channel Allocation Problem :
+-----------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+************** Static Channel Allocation **************
+
+________________________________________________
+ Static Channel Allocation                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Static Channel Allocation 
+                                                                                        
+2) Definition of Static Channel Allocation ?
+--------------------------------------------
+*
+ 
+3) What is Static Channel Allocation About ?
+--------------------------------------------
+*
+*
+
+4) What does Persistent Storage Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Static Channel Allocation :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Static Channel Allocation :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Static Channel Allocation :
+------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+************** Assumptions for Dynamic Channel Allocation **************
+
+________________________________________________
+ Assumptions for Dynamic Channel Allocation     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Assumptions for Dynamic Channel Allocation
+                                                                                        
+2) Definition of Assumptions for Dynamic Channel Allocation ?
+-------------------------------------------------------------
+*
+ 
+3) What is Assumptions for Dynamic Channel Allocation About ?
+-------------------------------------------------------------
+*
+*
+
+4) What do Assumptions for Dynamic Channel Allocation Do ?
+----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Assumptions for Dynamic Channel Allocation :
+----------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Assumptions for Dynamic Channel Allocation :
+-------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Assumptions for Dynamic Channel Allocation :
+-----------------------------------------------------------
+*
+*   
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<<<< MULTIPLE ACCESS PROTOCOLS >>>>>>>>>>>>>>>>>>>>>>>>>
+
+MULTIPLE ACCESS PROTOCOLS 271
+4.2.1 ALOHA 272
+4.2.2 Carrier Sense Multiple Access Protocols 276
+4.2.3 Collision-Free Protocols 279
+4.2.4 Limited-Contention Protocols 283
+4.2.5 Wireless LAN Protocols 287
+________________________________________________
+ MULTIPLE ACCESS PROTOCOLS                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Multiple Access Protocols
+                                                                                        
+2) Definition of Multiple Access Protocols ?
+--------------------------------------------
+*
+ 
+3) What is Multiple Access Protocols About ?
+--------------------------------------------
+*
+*
+
+4) What does Multiple Access Protocols Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Multiple Access Protocols :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multiple Access Protocols :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Multiple Access Protocols :
+------------------------------------------
+*
+*
+
+____________________________________________________________________________________
+
+
+************** ALOHA **************
+
+- Pure ALOHA
+- Slotted ALOHA
+________________________________________________
+ ALOHA                                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* ALOHA
+                                                                                        
+2) Definition of ALOHA ?
+-------------------------------
+*
+ 
+3) What is ALOHA About ?
+-------------------------------
+*
+*
+
+4) What does ALOHA Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of ALOHA :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of ALOHA :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of ALOHA  :
+-----------------------------
+*
+*
+
+______________________________________________________________________________________
+
+      \\\\ Pure ALOHA ////
+________________________________________________
+ Pure ALOHA                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Pure ALOHA
+                                                                                        
+2) Definition of Pure ALOHA ?
+-------------------------------------------------------
+*
+ 
+3) What is Pure ALOHA About ?
+-------------------------------------------------------
+*
+*
+
+4) What does Pure ALOHA Do ?
+------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Pure ALOHA :
+----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Pure ALOHA :
+-------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Pure ALOHA :
+-----------------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+       \\\\ Slotted ALOHA ////
+
+________________________________________________
+ Slotted ALOHA                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Slotted ALOHA
+                                                                                        
+2) Definition of Slotted ALOHA ?
+--------------------------------
+*
+ 
+3) What is Slotted ALOHA About ?
+--------------------------------
+*
+*
+
+4) What does Slotted ALOHA Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Slotted ALOHA :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Slotted ALOHA :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Slotted ALOHA :
+------------------------------
+*
+*
+
+************** Carrier Sense Multiple Access Protocols **************
+
+- Persistent and Nonpersistent CSMA
+- CSMA with Collision Detection
+________________________________________________
+ Carrier Sense Multiple Access Protocols        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Carrier Sense Multiple Access Protocols                                                                                        
+2) Definition of Carrier Sense Multiple Access Protocols ?
+----------------------------------------------------------
+*
+ 
+3) What are Carrier Sense Multiple Access Protocols About ?
+-----------------------------------------------------------
+*
+*
+
+4) What do Carrier Sense Multiple Access Protocols Do ?
+------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Carrier Sense Multiple Access Protocols  :
+--------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Carrier Sense Multiple Access Protocols :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Carrier Sense Multiple Access Protocols :
+--------------------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+      \\\\ Persistent and Nonpersistent CSMA ////
+________________________________________________
+ Persistent and Nonpersistent CSMA              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Persistent and Nonpersistent CSMA
+                                                                                        
+2) Definition of Persistent and Nonpersistent CSMA ?
+----------------------------------------------------
+*
+ 
+3) What is Persistent and Nonpersistent CSMA About ?
+----------------------------------------------------
+*
+*
+
+4) What does Persistent and Nonpersistent CSMA Do ?
+---------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Persistent and Nonpersistent CSMA :
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Persistent and Nonpersistent CSMA :
+----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Persistent and Nonpersistent CSMA :
+--------------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+       \\\\ CSMA with Collision Detection ////
+
+________________________________________________
+ CSMA with Collision Detection                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* CSMA with Collision Detection
+                                                                                        
+2) Definition of CSMA with Collision Detection ?
+------------------------------------------------
+*
+ 
+3) What is CSMA with Collision Detection About ?
+------------------------------------------------
+*
+*
+
+4) What does CSMA with Collision Detection Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of CSMA with Collision Detection :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of CSMA with Collision Detection :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of CSMA with Collision Detection :
+----------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+************ Collision-Free Protocols ****************
+
+- A Bit-Map Protocol
+- Token Passing
+- Binary Countdown
+________________________________________________
+ Collision-Free Protocols                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Collision-Free Protocols
+                                                                                        
+2) Definition of Collision-Free Protocols ?
+-------------------------------------------
+*
+ 
+3) What are Collision-Free Protocols About ?
+--------------------------------------------
+*
+*
+
+4) What do Collision-Free Protocols Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Collision-Free Protocols :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Collision-Free Protocols :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Collision-Free Protocols :
+----------------------------------------
+*
+*
+
+___________________________________________________________________________________
+
+      \\\\ A Bit-Map Protocol ////
+________________________________________________
+ A Bit-Map Protocol                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* A Bit-Map Protocol
+                                                                                        
+2) Definition of A Bit-Map Protocol ?
+-------------------------------------
+*
+ 
+3) What is A Bit-Map Protocol About ?
+-------------------------------------
+*
+*
+
+4) What does A Bit-Map Protocol Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of A Bit-Map Protocol :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of A Bit-Map Protocol :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of A Bit-Map Protocol :
+-----------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+
+      \\\\ Token Passing ////
+________________________________________________
+ Token Passing                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Token Passing
+                                                                                        
+2) Definition of Token Passing ?
+--------------------------------
+*
+ 
+3) What is Token Passing About ?
+--------------------------------
+*
+*
+
+4) What does Token Passing Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Token Passing :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Token Passing :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Token Passing :
+------------------------------
+*
+*
+______________________________________________________________________________________
+
+       \\\\ Binary Countdown ////
+
+________________________________________________
+ Binary Countdown                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Binary Countdown
+                                                                                        
+2) Definition of Binary Countdown ?
+-----------------------------------
+*
+ 
+3) What is Binary Countdown About ?
+-----------------------------------
+*
+*
+
+4) What does Binary Countdown Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Binary Countdown :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Binary Countdown :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Binary Countdown :
+---------------------------------
+*
+_____________________________________________________________________________________
+
+      ******** Limited-Contention Protocols ***********
+
+- The Adaptive Tree-Walk Protocol
+
+________________________________________________
+ Limited-Contention Protocols                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Limited-Contention Protocols
+                                                                                        
+2) Definition of Limited-Contention Protocols ?
+-----------------------------------------------
+*
+ 
+3) What is the Limited-Contention Protocols About ?
+---------------------------------------------------
+*
+*
+
+4) What does the Limited-Contention Protocols Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of the Limited-Contention Protocols :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Limited-Contention Protocols :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Limited-Contention Protocols :
+-------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+
+       \\\\ The Adaptive Tree-Walk Protocol ////
+
+________________________________________________
+ The Adaptive Tree-Walk Protocol                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* The Adaptive Tree-Walk Protocol
+                                                                                        
+2) Definition of The Adaptive Tree-Walk Protocol ?
+--------------------------------------------------
+*
+ 
+3) What is The Adaptive Tree-Walk Protocol About ?
+--------------------------------------------------
+*
+*
+
+4) What does The Adaptive Tree-Walk Protocol Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Adaptive Tree-Walk Protocol :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Adaptive Tree-Walk Protocol :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Adaptive Tree-Walk Protocol :
+------------------------------------------------
+*
+*
+____________________________________________________________________________________
+
+********************* Wireless LAN Protocols ************************
+________________________________________________
+ Wireless LAN Protocols                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Wireless LAN Protocols
+                                                                                        
+2) Definition of Wireless LAN Protocols ?
+-----------------------------------------
+*
+ 
+3) What is Wireless LAN Protocols About ?
+-----------------------------------------
+*
+*
+
+4) What do Wireless LAN Protocols Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Wireless LAN Protocols :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Wireless LAN Protocols :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Wireless LAN Protocols :
+---------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+      <<<<<<<<<<<<<<<< ETHERNET >>>>>>>>>>>>>>>>>
+
+ETHERNET 290
+4.3.1 Classic Ethernet Physical Layer 290
+4.3.2 Classic Ethernet MAC Sublayer Protocol 292
+4.3.3 Ethernet Performance 296
+4.3.4 Switched Ethernet 297
+4.3.5 Fast Ethernet 300
+4.3.6 Gigabit Ethernet 302
+4.3.7 10-Gigabit Ethernet 306
+4.3.8 40- and 100-Gigabit Ethernet 307
+4.3.9 Retrospective on Ethernet 308
+________________________________________________
+ ETHERNET                                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* ETHERNET
+                                                                                        
+2) Definition of ETHERNET ?
+---------------------------
+*
+ 
+3) What is the ETHERNET About ?
+-------------------------------
+*
+*
+
+4) What does the ETHERNET Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of the ETHERNET :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the ETHERNET :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of the ETHERNET :
+-----------------------------
+*
+* 
+
+________________________________________________________________________________
+
+
+    *********** Classic Ethernet Physical Layer ************
+________________________________________________
+ Classic Ethernet Physical Layer                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Classic Ethernet Physical Layer
+                                                                                        
+2) Definition of Classic Ethernet Physical Layer ?
+--------------------------------------------------
+*
+ 
+3) What is Classic Ethernet Physical Layer About ?
+--------------------------------------------------
+*
+*
+
+4) What does the Classic Ethernet Physical Layer Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of the Classic Ethernet Physical Layer :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Classic Ethernet Physical Layer :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Classic Ethernet Physical Layer :
+----------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+
+    ********* Classic Ethernet MAC Sublayer Protocol *********
+
+- CSMA/CD with Binary Exponential Backoff
+________________________________________________
+ Classic Ethernet MAC Sublayer Protocol         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Classic Ethernet MAC Sublayer Protocol
+                                                                                        
+2) Definition of the Classic Ethernet MAC Sublayer Protocol ?
+-------------------------------------------------------------
+*
+ 
+3) What is Classic Ethernet MAC Sublayer Protocol About ?
+---------------------------------------------------------
+*
+*
+
+4) What does the Classic Ethernet MAC Sublayer Protocol Do ?
+------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of the Classic Ethernet MAC Sublayer Protocol :
+----------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Classic Ethernet MAC Sublayer Protocol :
+-------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Classic Ethernet MAC Sublayer Protocol  :
+------------------------------------------------------------
+*
+* 
+
+_____________________________________________________________________________________
+
+    \\\\ CSMA/CD with Binary Exponential Backoff ////
+________________________________________________
+ CSMA/CD with Binary Exponential Backoff        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* CSMA/CD with Binary Exponential Backoff
+                                                                                        
+2) Definition of CSMA/CD with Binary Exponential Backoff ?
+----------------------------------------------------------
+*
+ 
+3) What is CSMA/CD with Binary Exponential Backoff About ?
+----------------------------------------------------------
+*
+*
+
+4) What does CSMA/CD with Binary Exponential Backoff Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of CSMA/CD with Binary Exponential Backoff :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of CSMA/CD with Binary Exponential Backoff :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of CSMA/CD with Binary Exponential Backoff  :
+---------------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+     ******* Ethernet Performance ********
+________________________________________________
+ Ethernet Performance                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Ethernet Performance
+                                                                                        
+2) Definition of Ethernet Performance ?
+---------------------------------------
+*
+ 
+3) What is Ethernet Performance About ?
+---------------------------------------
+*
+*
+
+4) What does Ethernet Performance Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Ethernet Performance :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Ethernet Performance :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Ethernet Performance :
+-------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+    *********** Switched Ethernet ************
+________________________________________________
+ Switched Ethernet                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Switched Ethernet
+                                                                                        
+2) Definition of Switched Ethernet ?
+------------------------------------
+*
+ 
+3) What is Switched Ethernet About ?
+------------------------------------
+*
+*
+
+4) What does the Switched Ethernet Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Switched Ethernet :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Switched Ethernet :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Switched Ethernet :
+----------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+    ********* Fast Ethernet *********
+________________________________________________
+ Fast Ethernet                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fast Ethernet
+                                                                                        
+2) Definition of Fast Ethernet ?
+--------------------------------
+*
+ 
+3) What is Fast Ethernet About ?
+--------------------------------
+*
+*
+
+4) What does Fast Ethernet Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Fast Ethernet :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fast Ethernet :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Fast Ethernet  :
+-------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+     ******* Gigabit Ethernet ********
+________________________________________________
+ Gigabit Ethernet                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Gigabit Ethernet
+                                                                                        
+2) Definition of Gigabit Ethernet ?
+-----------------------------------
+*
+ 
+3) What is Gigabit Ethernet About ?
+-----------------------------------
+*
+*
+
+4) What does Gigabit Ethernet Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Gigabit Ethernet :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Gigabit Ethernet :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Gigabit Ethernet :
+---------------------------------
+*
+*
+___________________________________________________________________________________
+
+    *********** 10-Gigabit Ethernet ************
+________________________________________________
+ 10-Gigabit Ethernet                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* 10-Gigabit Ethernet
+                                                                                        
+2) Definition of 10-Gigabit Ethernet ?
+--------------------------------------
+*
+ 
+3) What is 10-Gigabit Ethernet About ?
+--------------------------------------
+*
+*
+
+4) What does 10-Gigabit Ethernet Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of 10-Gigabit Ethernet :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of 10-Gigabit Ethernet :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of 10-Gigabit Ethernet :
+------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+    ********* 40- and 100-Gigabit Ethernet *********
+________________________________________________
+ 40- and 100-Gigabit Ethernet                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* 40- and 100-Gigabit Ethernet
+                                                                                        
+2) Definition of 40- and 100-Gigabit Ethernet ?
+-----------------------------------------------
+*
+ 
+3) What is 40- and 100-Gigabit Ethernet About ?
+-----------------------------------------------
+*
+*
+
+4) What does 40- and 100-Gigabit Ethernet Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of 40- and 100-Gigabit Ethernet :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of 40- and 100-Gigabit Ethernet :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of 40- and 100-Gigabit Ethernet  :
+----------------------------------------------
+*
+* 
+
+_______________________________________________________________________________________
+
+
+     ******* Retrospective on Ethernet ********
+________________________________________________
+ Retrospective on Ethernet                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Retrospective on Ethernet
+                                                                                        
+2) Definition of Retrospective on Ethernet ?
+--------------------------------------------
+*
+ 
+3) What is Retrospective on Ethernet About ?
+--------------------------------------------
+*
+*
+
+4) What does Retrospective on Ethernet Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Retrospective on Ethernet :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Retrospective on Ethernet :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Retrospective on Ethernet :
+------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+<<<<<<<<<<<<<< WIRELESS LANS >>>>>>>>>>>>>>>>>>>>
+
+WIRELESS LANS 309
+4.4.1 The 802.11 Architecture and Protocol Stack 310
+4.4.2 The 802.11 Physical Layer 311
+4.4.3 The 802.11 MAC Sublayer Protocol 314
+4.4.4 The 802.11 Frame Structure 321
+4.4.5 Services 322
+________________________________________________
+ WIRELESS LANS                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Wireless Lan's
+                                                                                        
+2) Definition of Wireless Lan's ?
+---------------------------------
+*
+ 
+3) What is Wireless Lan's About ?
+---------------------------------
+*
+*
+
+4) What do Wireless Lan's Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Wireless Lan's :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Wireless Lan's :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Wireless Lan's :
+-------------------------------
+*
+* 
+
+________________________________________________________________________________
+                
+      ******* The 802.11 Architecture and Protocol Stack ********
+________________________________________________
+ The 802.11 Architecture and Protocol Stack     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The 802.11 Architecture and Protocol Stack
+                                                                                        
+2) Definition of The 802.11 Architecture and Protocol Stack ?
+-------------------------------------------------------------
+*
+ 
+3) What is The 802.11 Architecture and Protocol Stack About ?
+-------------------------------------------------------------
+*
+*
+
+4) What does The 802.11 Architecture and Protocol Stack Do ?
+------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The 802.11 Architecture and Protocol Stack :
+----------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The 802.11 Architecture and Protocol Stack :
+-------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The 802.11 Architecture and Protocol Stack :
+-----------------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+             
+           ******** The 802.11 Physical Layer *********
+________________________________________________
+ The 802.11 Physical Layer                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The 802.11 Physical Layer
+                                                                                        
+2) Definition of The 802.11 Physical Layer ?
+--------------------------------------------
+*
+ 
+3) What is The 802.11 Physical Layer About ?
+--------------------------------------------
+*
+*
+
+4) What does The 802.11 Physical Layer Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The 802.11 Physical Layer :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The 802.11 Physical Layer :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The 802.11 Physical Layer :
+------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+    ********* The 802.11 MAC Sublayer Protocol *********
+
+________________________________________________
+ The 802.11 MAC Sublayer Protocol               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The 802.11 MAC Sublayer Protocol
+                                                                                        
+2) Definition of The 802.11 MAC Sublayer Protocol ?
+---------------------------------------------------
+*
+ 
+3) What is The 802.11 MAC Sublayer Protocol About ?
+---------------------------------------------------
+*
+*
+
+4) What does The 802.11 MAC Sublayer Protocol Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The 802.11 MAC Sublayer Protocol :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The 802.11 MAC Sublayer Protocol :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The 802.11 MAC Sublayer Protocol :
+-------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+    ******** The 802.11 Frame Structure *********
+
+________________________________________________
+ The 802.11 Frame Structure                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The 802.11 Frame Structure
+                                                                                        
+2) Definition of The 802.11 Frame Structure ?
+---------------------------------------------
+*
+ 
+3) What is The 802.11 Frame Structure About ?
+---------------------------------------------
+*
+*
+
+4) What does The 802.11 Frame Structure Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The 802.11 Frame Structure :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The 802.11 Frame Structure :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The 802.11 Frame Structure :
+-------------------------------------------
+*
+* 
+
+_______________________________________________________________________________________
+
+    ******** Services *********
+- Association and Data Delivery
+- Security and Privacy
+- Prioritization and Power Control
+________________________________________________
+ Services                                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Services
+                                                                                        
+2) Definition of Services ?
+---------------------------
+*
+ 
+3) What is Services About ?
+---------------------------
+*
+*
+
+4) What do Services Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of Services :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Services :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Services :
+-------------------------
+*
+* 
+_______________________________________________________________________________________
+
+       \\\\ Association and Data Delivery ////
+________________________________________________
+ Association and Data Delivery                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Association and Data Delivery
+                                                                                        
+2) Definition of Association and Data Delivery ?
+------------------------------------------------
+*
+ 
+3) What is Association and Data Delivery About ?
+------------------------------------------------
+*
+*
+
+4) What does Association and Data Delivery Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Association and Data Delivery :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Association and Data Delivery :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Association and Data Delivery :
+----------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+       \\\\ Security and Privacy ////
+________________________________________________
+ Security and Privacy                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Security and Privacy
+                                                                                        
+2) Definition of Security and Privacy ?
+---------------------------------------
+*
+ 
+3) What is Security and Privacy About ?
+---------------------------------------
+*
+*
+
+4) What does Security and Privacy Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Security and Privacy :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Security and Privacy :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Security and Privacy :
+-------------------------------------
+*
+*
+______________________________________________________________________________________
+
+       \\\\ Prioritization and Power Control ////
+________________________________________________
+ Prioritization and Power Control               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Prioritization and Power Control
+                                                                                        
+2) Definition of Prioritization and Power Control ?
+---------------------------------------------------
+*
+ 
+3) What is Prioritization and Power Control About ?
+---------------------------------------------------
+*
+*
+
+4) What does Prioritization and Power Control Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Prioritization and Power Control :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Prioritization and Power Control :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Prioritization and Power Control :
+-------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+
+<<<<<<<<<<<<<< BLUETOOTH >>>>>>>>>>>>>>>>>>>>
+
+BLUETOOTH 324
+4.5.1 Bluetooth Architecture 325
+4.5.2 Bluetooth Applications 326
+4.5.3 The Bluetooth Protocol Stack 327
+4.5.4 The Bluetooth Radio Layer 328
+4.5.5 The Bluetooth Link Layers 329
+4.5.6 The Bluetooth Frame Structure 330
+4.5.7 Bluetooth 5 331
+________________________________________________
+ BLUETOOTH                                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Bluetooth
+                                                                                        
+2) Definition of Bluetooth ?
+----------------------------
+*
+ 
+3) What is Bluetooth About ?
+----------------------------
+*
+*
+
+4) What do Bluetooth Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of Bluetooth :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Bluetooth :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of Bluetooth :
+--------------------------
+*
+* 
+
+________________________________________________________________________________
+
+
+ ************** Bluetooth Architecture *************
+
+________________________________________________
+  Bluetooth Architecture                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Bluetooth Architecture
+                                                                                        
+2) Definition of Bluetooth Architecture ?
+-----------------------------------------
+*
+ 
+3) What is the Bluetooth Architecture About ?
+---------------------------------------------
+*
+*
+
+4) What does the Bluetooth Architecture Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of the Bluetooth Architecture :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of the Bluetooth Architecture :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of the Bluetooth Architecture :
+-------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+*********** Bluetooth Applications ************
+
+________________________________________________
+ Bluetooth Applications                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Bluetooth Applications
+                                                                                        
+2) Definition of Bluetooth Applications ?
+-----------------------------------------
+*
+ 
+3) What is the Bluetooth Applications About ?
+---------------------------------------------
+*
+*
+
+4) What does the Bluetooth Applications Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Bluetooth Applications :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Bluetooth Applications :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Bluetooth Applications :
+---------------------------------------
+*
+* 
+
+____________________________________________________________________________________
+
+********* The Bluetooth Protocol Stack *********
+
+________________________________________________
+ The Bluetooth Protocol Stack                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Bluetooth Protocol Stack
+                                                                                        
+2) Definition of The Bluetooth Protocol Stack ?
+-----------------------------------------------
+*
+ 
+3) What is The Bluetooth Protocol Stack About ?
+-----------------------------------------------
+*
+*
+
+4) What does The Bluetooth Protocol Stack Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Bluetooth Protocol Stack :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Bluetooth Protocol Stack :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Bluetooth Protocol Stack :
+---------------------------------------------
+*
+* 
+
+____________________________________________________________________________________
+
+
+ ************** The Bluetooth Radio Layer *************
+
+________________________________________________
+ The Bluetooth Radio Layer                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Bluetooth Radio Layer
+                                                                                        
+2) Definition of The Bluetooth Radio Layer ?
+--------------------------------------------
+*
+ 
+3) What is The Bluetooth Radio Layer About ?
+--------------------------------------------
+*
+*
+
+4) What does The Bluetooth Radio Layer Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Bluetooth Radio Layer :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Bluetooth Radio Layer :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Bluetooth Radio Layer :
+------------------------------------------
+*
+* 
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+
+ ************** The Bluetooth Link Layers *************
+
+________________________________________________
+ The Bluetooth Link Layers                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* The Bluetooth Link Layers
+                                                                                        
+2) Definition of The Bluetooth Link Layers ?
+--------------------------------------------
+*
+ 
+3) What is The Bluetooth Link Layers About ?
+--------------------------------------------
+*
+*
+
+4) What does The Bluetooth Link Layers Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Bluetooth Link Layers :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Bluetooth Link Layers :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Bluetooth Link Layers :
+------------------------------------------
+*
+*
+____________________________________________________________________________________
+
+********** The Bluetooth Frame Structure ***********
+
+________________________________________________
+ The Bluetooth Frame Structure                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* The Bluetooth Frame Structure
+                                                                                        
+2) Definition of The Bluetooth Frame Structure ?
+------------------------------------------------
+*
+ 
+3) What is The Bluetooth Frame Structure About ?
+------------------------------------------------
+*
+*
+
+4) What does The Bluetooth Frame Structure Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Bluetooth Frame Structure :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Bluetooth Frame Structure :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Bluetooth Frame Structure :
+----------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+*********** Bluetooth 5 ***********
+
+________________________________________________
+ Bluetooth 5                                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Bluetooth 5
+                                                                                        
+2) Definition of Bluetooth 5 ?
+--------------------------------------
+*
+ 
+3) What is Bluetooth 5 About ?
+--------------------------------------
+*
+*
+
+4) What does Bluetooth 5 Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Bluetooth 5 :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Bluetooth 5 :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Bluetooth 5 :
+-------------------------------------
+*
+*
+
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+
+ <<<<<<<<<<<< DOCSIS >>>>>>>>>>>>>>
+
+DOCSIS 332
+4.6.1 Overview 332
+4.6.2 Ranging 333
+4.6.3 Channel Bandwidth Allocation 333            
+
+________________________________________________
+ DOCSIS                                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* DOCSIS.
+                                                                                        
+2) Definition of DOCSIS ?
+-------------------------
+*
+ 
+3) What is DOCSIS About ?
+-------------------------
+*
+*
+
+4) What does DOCSIS Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of DOCSIS :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DOCSIS :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of DOCSIS :
+-----------------------
+*
+*
+
+_________________________________________________________________________________
+     
+   ********** Overview ***********
+
+________________________________________________
+ Overview                                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Overview
+                                                                                        
+2) Definition of Overview ?
+---------------------------
+*
+ 
+3) What is Overview About ?
+---------------------------
+*
+*
+
+4) What does Overview Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Overview :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Overview :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Overview :
+-------------------------
+*
+*
+____________________________________________________________________________________
+
+  ********** Ranging ***********
+
+___________________________________________________
+ Ranging                                           |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Ranging.
+                                                                                        
+2) Definition of Ranging ?
+--------------------------
+*
+ 
+3) What is Ranging About ?
+--------------------------
+*
+*
+
+4) What does Ranging Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of Ranging :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Ranging :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of Ranging :
+------------------------
+*
+*
+______________________________________________________________________________________
+
+  ********** Channel Bandwidth Allocation ***********
+- Service Flows
+- The Request-Grant Process and Low-Latency DOCSIS
+___________________________________________________
+ Channel Bandwidth Allocation                      |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Channel Bandwidth Allocation.
+                                                                                        
+2) Definition of Channel Bandwidth Allocation ?
+-----------------------------------------------
+*
+ 
+3) What is Channel Bandwidth Allocation About ?
+-----------------------------------------------
+*
+*
+
+4) What does Channel Bandwidth Allocation Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Channel Bandwidth Allocation :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Channel Bandwidth Allocation :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Channel Bandwidth Allocation:
+--------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ Service Flows ////
+
+___________________________________________________
+ Service Flows                                     |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Service Flows.
+                                                                                        
+2) Definition of Service Flows ?
+--------------------------------
+*
+ 
+3) What are Service Flows About ?
+---------------------------------
+*
+*
+
+4) What do Service Flows Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Service Flows :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Service Flows :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Service Flows :
+------------------------------
+*
+*
+______________________________________________________________________________________
+
+         \\\\ The Request-Grant Process and Low-Latency DOCSIS ////
+
+___________________________________________________
+ The Request-Grant Process and Low-Latency DOCSIS  |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Request-Grant Process and Low-Latency DOCSIS.
+                                                                                        
+2) Definition of The Request-Grant Process and Low-Latency DOCSIS ?
+-------------------------------------------------------------------
+*
+ 
+3) What is The Request-Grant Process and Low-Latency DOCSIS About ?
+-------------------------------------------------------------------
+*
+*
+
+4) What does The Request-Grant Process and Low-Latency DOCSIS Do ?
+------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Request-Grant Process and Low-Latency DOCSIS :
+----------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Request-Grant Process and Low-Latency DOCSIS :
+-------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Request-Grant Process and Low-Latency DOCSIS :
+-----------------------------------------------------------------
+*
+*
+
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+  <<<<<<<<<<<<<<<< DATA LINK LAYER SWITCHING >>>>>>>>>>>>>>>>>>
+
+DATA LINK LAYER SWITCHING 334
+4.7.1 Uses of Bridges 335
+4.7.2 Learning Bridges 336
+4.7.3 Spanning-Tree Bridges 339
+4.7.4 Repeaters, Hubs, Bridges, Switches, Routers, and Gateways 342
+4.7.5 Virtual LANs 345
+___________________________________________________
+    DATA LINK LAYER SWITCHING                      |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* DATA LINK LAYER SWITCHING.
+                                                                                        
+2) Definition of Data Link Layer Switching ?
+--------------------------------------------
+*
+ 
+3) What is Data Link Layer Switching About ?
+--------------------------------------------
+*
+*
+
+4) What does Data Link Layer Switching Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of  :
+----------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Link Layer Switching :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Link Layer Switching :
+------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+*********** Uses of Bridges *************
+
+___________________________________________________
+ Uses of Bridges                                   |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Uses of Bridges.
+                                                                                        
+2) Definition of Uses of Bridges ?
+----------------------------------
+*
+ 
+3) What are Uses of Bridges About ?
+-----------------------------------
+*
+*
+
+4) What do Uses of Bridges Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Uses of Bridges :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Uses of Bridges :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Uses of Bridges :
+--------------------------------
+*
+*
+______________________________________________________________________________________
+
+*********** Learning Bridges *************
+
+_______________________________________________________________
+  Learning Bridges                                             |
+                                                               |                  
+_______________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Learning Bridges.
+                                                                                        
+2) Definition of Learning Bridges ?
+-----------------------------------
+*
+ 
+3) What is Learning Bridges About ?
+-----------------------------------
+*
+*
+
+4) What does Learning Bridges Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Learning Bridges :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Learning Bridges :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Learning Bridges :
+---------------------------------
+*
+*
+__________________________________________________________________________________
+
+************ Spanning-Tree Bridges *************
+
+___________________________________________________
+ Spanning-Tree Bridges                             |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Spanning-Tree Bridges.
+                                                                                        
+2) Definition of Spanning-Tree Bridges ?
+----------------------------------------
+*
+ 
+3) What is Spanning-Tree Bridges About ?
+----------------------------------------
+*
+*
+
+4) What does Spanning-Tree Bridges Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Spanning-Tree Bridges :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Spanning-Tree Bridges :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Spanning-Tree Bridges :
+--------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+
+********** Repeaters,Hubs, Bridges, Switches, Routers, and Gateways ************
+
+__________________________________________________________
+ Repeaters,Hubs, Bridges, Switches, Routers, and Gateways |
+                                                          |                  
+__________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Repeaters,Hubs, Bridges, Switches, Routers, and Gateways.
+                                                                                        
+2) Definition of Repeaters,Hubs, Bridges, Switches, Routers, and Gateways ?
+---------------------------------------------------------------------------
+*
+ 
+3) What is Repeaters,Hubs, Bridges, Switches, Routers, and Gateways About ?
+---------------------------------------------------------------------------
+*
+*
+
+4) What does Repeaters,Hubs, Bridges, Switches, Routers, and Gateways Do ?
+--------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Repeaters,Hubs, Bridges, Switches, Routers, and Gateways :
+------------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Repeaters,Hubs, Bridges, Switches, Routers, and Gateways :
+---------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Repeaters, Hubs, Bridges, Switches, Routers, and Gateways :
+-------------------------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+************ Virtual LAN's **************
+
+- The IEEE 802.1Q Standard
+___________________________________________________
+ Virtual LAN's                                     |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Virtual LAN's.
+                                                                                        
+2) Definition of Virtual LAN's ?
+--------------------------------
+*
+ 
+3) What is Virtual LAN's About ?
+--------------------------------
+*
+*
+
+4) What does Virtual LAN's Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Virtual LAN's :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Virtual LAN's :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Virtual LAN's :
+------------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ The IEEE 802.1Q Standard ////
+
+_______________________________________________________________
+  The IEEE 802.1Q Standard                                     |
+                                                               |                  
+_______________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The IEEE 802.1Q Standard.
+                                                                                        
+2) Definition of The IEEE 802.1Q Standard ?
+-------------------------------------------
+*
+ 
+3) What is The IEEE 802.1Q Standard About ?
+-------------------------------------------
+*
+*
+
+4) What does The IEEE 802.1Q Standard Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The IEEE 802.1Q Standard :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The IEEE 802.1Q Standard :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The IEEE 802.1Q Standard :
+-----------------------------------------
+*
+*
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+
+
+ <<<<<<<<<<<<<<<<<<<<< SUMMARY OF DATA LINK LAYER SWITCHING >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+___________________________________________________
+ SUMMARY OF DATA LINK LAYER SWITCHING              |
+                                                   |                  
+___________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Summary Of Data Link Layer Switching.
+                                                                                        
+2) Definition of Summary Of Data Link Layer Switching ?
+-------------------------------------------------------
+*
+ 
+3) What are Summary Of Data Link Layer Switching About ?
+--------------------------------------------------------
+*
+*
+
+4) What do Summary Of Data Link Layer Switching Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Summary Of Data Link Layer Switching :
+----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Summary Of Data Link Layer Switching :
+-------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Summary Of Data Link Layer Switching :
+-----------------------------------------------------
+*
+*
+           
