@@ -1,0 +1,3518 @@
+CHAPTER 5 : THE NETWORK LAYER
+
+<<<<<<<<<<<<<< THE NETWORK LAYER >>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<                   >>>>>>>>>>>>>>>>>>>>
+________________________________________________
+ THE NETWORK LAYER                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* The Network Layer
+                                                                                        
+2) Definition of The Network Layer ?
+------------------------------------
+*
+ 
+3) What is The Network Layer About ?
+------------------------------------
+*
+*
+
+4) What does The Network Layer Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of The Network Layer :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Network Layer :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Network Layer :
+----------------------------------
+*
+*
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<< NETWORK LAYER DESIGN ISSUES >>>>>>>>>>>>>>>>>>>>
+
+NETWORK LAYER DESIGN ISSUES 360
+5.1.1 Store-and-Forward Packet Switching 360
+5.1.2 Services Provided to the Transport Layer 361
+5.1.3 Implementation of Connectionless Service 362
+5.1.4 Implementation of Connection-Oriented Service 363
+5.1.5 Comparison of Virtual-Circuit and Datagram Networks 365
+
+________________________________________________
+ NETWORK LAYER DESIGN ISSUES                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Network Layer Design Issues.
+                                                                                        
+2) Definition of Network Layer Design Issues ?
+----------------------------------------------
+*
+ 
+3) What is Network Layer Design Issues About ?
+----------------------------------------------
+*
+*
+
+4) What do Network Layer Design Issues Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Network Layer Design Issues :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Network Layer Design Issues :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Network Layer Design Issues :
+--------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+
+************** Store-and-Forward Packet Switching **************
+
+________________________________________________
+ Store-and-Forward Packet Switching             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Store-and-Forward Packet Switching
+                                                                                        
+2) Definition of Store-and-Forward Packet Switching ?
+-----------------------------------------------------
+*
+ 
+3) What is Store-and-Forward Packet Switching About ?
+-----------------------------------------------------
+*
+*
+
+4) What does Store-and-Forward Packet Switching Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Store-and-Forward Packet Switching :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Store-and-Forward Packet Switching :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Store-and-Forward Packet Switching :
+---------------------------------------------------
+*
+* 
+
+_______________________________________________________________________________________
+
+************** Services Provided to the Transport Layer **************
+
+________________________________________________
+ Services Provided to the Transport Layer       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Services Provided to the Transport Layer
+                                                                                        
+2) Definition of Services Provided to the Transport Layer ?
+-----------------------------------------------------------
+*
+ 
+3) What is Services Provided to the Transport Layer About ?
+-----------------------------------------------------------
+*
+*
+
+4) What do Services Provided to the Transport Layer Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Services Provided to the Transport Layer :
+--------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Services Provided to the Transport Layer :
+-----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Services Provided to the Transport Layer :
+---------------------------------------------------------
+*
+*   
+_____________________________________________________________________________________
+
+************** Implementation of Connectionless Service **************
+
+________________________________________________
+ Implementation of Connectionless Service       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Implementation of Connectionless Service
+                                                                                        
+2) Definition of Implementation of Connectionless Service ?
+-----------------------------------------------------------
+*
+ 
+3) What is Implementation of Connectionless Service About ?
+-----------------------------------------------------------
+*
+*
+
+4) What do Implementation of Connectionless Service Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Implementation of Connectionless Service :
+--------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Implementation of Connectionless Service :
+-----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Implementation of Connectionless Service :
+---------------------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+************** Implementation of Connection-Oriented Service **************
+
+________________________________________________
+ Implementation of Connection-Oriented Service  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Implementation of Connection-Oriented Service
+                                                                                        
+2) Definition of Implementation of Connection-Oriented Service ?
+----------------------------------------------------------------
+*
+ 
+3) What is Implementation of Connection-Oriented Service About ?
+----------------------------------------------------------------
+*
+*
+
+4) What do Implementation of Connection-Oriented Service Do ?
+-------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Implementation of Connection-Oriented Service :
+-------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Implementation of Connection-Oriented Service :
+----------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Implementation of Connection-Oriented Service :
+--------------------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************** Comparison of Virtual-Circuit and Datagram Networks **************
+
+_____________________________________________________
+ Comparison of Virtual-Circuit and Datagram Networks |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Comparison of Virtual-Circuit and Datagram Networks
+                                                                                        
+2) Definition of Comparison of Virtual-Circuit and Datagram Networks ?
+----------------------------------------------------------------------
+*
+ 
+3) What is Comparison of Virtual-Circuit and Datagram Networks About ?
+----------------------------------------------------------------------
+*
+*
+
+4) What do Comparison of Virtual-Circuit and Datagram Networks ?
+----------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Comparison of Virtual-Circuit and Datagram Networks :
+-------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Comparison of Virtual-Circuit and Datagram Networks :
+----------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Comparison of Virtual-Circuit and Datagram Networks :
+--------------------------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+<<<<<<<<<<<<<<<<<<< ROUTING ALGORITHMS IN A SINGLE NETWORK >>>>>>>>>>>>>>>>>>>>>>>>>
+
+ROUTING ALGORITHMS IN A SINGLE NETWORK 366
+5.2.1 The Optimality Principle 368
+5.2.2 Shortest Path Algorithm 370
+5.2.3 Flooding 372
+5.2.4 Distance Vector Routing 374
+5.2.5 Link State Routing 377
+5.2.6 Hierarchical Routing within a Network 382
+5.2.7 Broadcast Routing 384
+5.2.8 Multicast Routing 386
+5.2.9 Anycast Routing 389
+________________________________________________
+ ROUTING ALGORITHMS IN A SINGLE NETWORK         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Routing Algorithms In A Single Network
+                                                                                        
+2) Definition of Routing Algorithms In A Single Network ?
+---------------------------------------------------------
+*
+ 
+3) What is Routing Algorithms In A Single Network About ?
+--------------------------------------------------------
+*
+*
+
+4) What does Routing Algorithms In A Single Network Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Routing Algorithms In A Single Network Protocols :
+----------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Routing Algorithms In A Single Network :
+---------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Routing Algorithms In A Single Network :
+-------------------------------------------------------
+*
+*
+
+____________________________________________________________________________________
+
+
+************** Shortest Path Algorithm **************
+
+________________________________________________
+ Shortest Path Algorithm                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Shortest Path Algorithm
+                                                                                        
+2) Definition of Shortest Path Algorithm ?
+------------------------------------------
+*
+ 
+3) What is Shortest Path Algorithm About ?
+-------------------------------------------
+*
+*
+
+4) What does Shortest Path Algorithm Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Shortest Path Algorithm :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Shortest Path Algorithm :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Shortest Path Algorithm  :
+-----------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+************ Flooding **************
+
+- The Count-to-Infinity Problem
+________________________________________________
+ Flooding                                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Flooding
+                                                                                        
+2) Definition of Flooding ?
+---------------------------
+*
+ 
+3) What is Flooding About ?
+---------------------------
+*
+*
+
+4) What does Flooding Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Flooding :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Flooding :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Flooding :
+-------------------------
+*
+*
+
+______________________________________________________________________________________
+
+
+      \\\\ The Count-to-Infinity Problem ////
+________________________________________________
+ The Count-to-Infinity Problem                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Count-to-Infinity Problem
+                                                                                        
+2) Definition of The Count-to-Infinity Problem ?
+------------------------------------------------
+*
+ 
+3) What is The Count-to-Infinity Problem About ?
+------------------------------------------------
+*
+*
+
+4) What does The Count-to-Infinity Problem Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Count-to-Infinity Problem :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Count-to-Infinity Problem :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Count-to-Infinity Problem :
+----------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************ Distance Vector Routing ***************
+
+________________________________________________
+ Distance Vector Routing                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Distance Vector Routing
+                                                                                        
+2) Definition of Distance Vector Routing ?
+------------------------------------------
+*
+ 
+3) What is Distance Vector Routing About ?
+------------------------------------------
+*
+*
+
+4) What does Distance Vector Routing Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Distance Vector Routing :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Distance Vector Routing :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Distance Vector Routing :
+----------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************** Link State Routing **************
+
+- Learning about the Neighbours
+- Setting Link Costs
+- Building the Link State Packets
+- Distributing the Link State Packets
+- Computing the New Routes
+________________________________________________
+ Link State Routing                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Link State Routing                                                                                        
+2) Definition of Link State Routing ?
+-------------------------------------
+*
+ 
+3) What is Link State Routing About ?
+-------------------------------------
+*
+*
+
+4) What does Link State Routing Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Link State Routing :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Link State Routing :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Link State Routing :
+-----------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Learning about the Neighbours ////
+________________________________________________
+ Learning about the Neighbours                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Learning about the Neighbours
+                                                                                        
+2) Definition of Learning about the Neighbours ?
+------------------------------------------------
+*
+ 
+3) What is Learning about the Neighbours About ?
+------------------------------------------------
+*
+*
+
+4) What does Learning about the Neighbours Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Learning about the Neighbours :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Learning about the Neighbours :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Learning about the Neighbours :
+----------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Setting Link Costs ////
+________________________________________________
+ Setting Link Costs                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Setting Link Costs
+                                                                                        
+2) Definition of Setting Link Costs ?
+-------------------------------------
+*
+ 
+3) What is Setting Link Costs About ?
+-------------------------------------
+*
+*
+
+4) What does Setting Link Costs Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Setting Link Costs :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Setting Link Costs :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Setting Link Costs :
+-----------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Building the Link State Packets ////
+________________________________________________
+ Building the Link State Packets                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Building the Link State Packets
+                                                                                        
+2) Definition of Building the Link State Packets ?
+--------------------------------------------------
+*
+ 
+3) What is Building the Link State Packets About ?
+--------------------------------------------------
+*
+*
+
+4) What does Building the Link State Packets Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Building the Link State Packets :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Building the Link State Packets :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Building the Link State Packets :
+------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+      \\\\ Distributing the Link State Packets ////
+________________________________________________
+ Distributing the Link State Packets            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Distributing the Link State Packets
+                                                                                        
+2) Definition of Distributing the Link State Packets ?
+------------------------------------------------------
+*
+ 
+3) What is Distributing the Link State Packets About ?
+------------------------------------------------------
+*
+*
+
+4) What does Distributing the Link State Packets Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Distributing the Link State Packets :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Distributing the Link State Packets :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Distributing the Link State Packets :
+----------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Computing the New Routes ////
+________________________________________________
+ Computing the New Routes                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Computing the New Routes
+                                                                                        
+2) Definition of Computing the New Routes ?
+-------------------------------------------
+*
+ 
+3) What is Computing the New Routes About ?
+-------------------------------------------
+*
+*
+
+4) What does Computing the New Routes Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Computing the New Routes :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Computing the New Routes :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Computing the New Routes :
+-----------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+******** Hierarchical Routing Within a Network ********
+________________________________________________
+ Hierarchical Routing Within a Network          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Hierarchical Routing Within a Network
+                                                                                        
+2) Definition of Hierarchical Routing Within a Network ?
+--------------------------------------------------------
+*
+ 
+3) What is Hierarchical Routing Within a Network About ?
+--------------------------------------------------------
+*
+*
+
+4) What does Hierarchical Routing Within a Network Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Hierarchical Routing Within a Network :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Hierarchical Routing Within a Network :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Hierarchical Routing Within a Network :
+------------------------------------------------------
+*
+*
+_____________________________________________________________________________
+
+******** Multicast Routing ********
+________________________________________________
+ Multicast Routing                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Multicast Routing
+                                                                                        
+2) Definition of Multicast Routing ?
+------------------------------------
+*
+ 
+3) What is Multicast Routing About ?
+------------------------------------
+*
+*
+
+4) What does Multicast Routing Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Multicast Routing :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multicast Routing :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Multicast Routing :
+----------------------------------
+*
+*
+________________________________________________________________________________
+
+******** Anycast Routing ********
+________________________________________________
+ Anycast Routing                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Anycast Routing
+                                                                                        
+2) Definition of Anycast Routing ?
+----------------------------------
+*
+ 
+3) What is Anycast Routing About ?
+----------------------------------
+*
+*
+
+4) What does Anycast Routing Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Multicast Routing :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multicast Routing :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Multicast Routing :
+----------------------------------
+*
+*
+___________________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<< TRAFFIC MANAGEMENT AT THE NETWORK LAYER >>>>>>>>>>>>>>>>>>
+
+TRAFFIC MANAGEMENT AT THE NETWORK LAYER 390
+5.3.1 The Need for Traffic Management: Congestion 390
+5.3.2 Approaches to Traffic Management 393
+________________________________________________
+ TRAFFIC MANAGEMENT AT THE NETWORK LAYER        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Traffic Management At The Network Layer
+                                                                                        
+2) Definition of Traffic Management At The Network Layer ?
+----------------------------------------------------------
+*
+ 
+3) What is Traffic Management At The Network Layer About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Traffic Management At The Network Layer Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Traffic Management At The Network Layer :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Traffic Management At The Network Layer :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Traffic Management At The Network Layer :
+--------------------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+*********** The Need for Traffic Management: Congestion ************
+
+________________________________________________
+ The Need for Traffic Management: Congestion    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Need for Traffic Management: Congestion
+                                                                                        
+2) Definition of The Need for Traffic Management: Congestion ?
+--------------------------------------------------------------
+*
+ 
+3) What is The Need for Traffic Management: Congestion About ?
+--------------------------------------------------------------
+*
+*
+
+4) What does The Need for Traffic Management: Congestion Do ?
+-------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Need for Traffic Management: Congestion :
+-----------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Need for Traffic Management: Congestion :
+--------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Need for Traffic Management: Congestion :
+------------------------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+************ Approaches to Traffic Management ****************
+
+- Traffic-Aware Routing
+- Admission Control
+- Load Shedding
+- Traffic Shaping
+- Active Queue Management
+- Random Early Detection
+- Choke Packets
+- Explicit Congestion Motification
+- Hop-by-Hop Backpressure
+
+________________________________________________
+ Approaches to Traffic Management               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Approaches to Traffic Management
+                                                                                        
+2) Definition of Approaches to Traffic Management ?
+--------------------------------------------------
+*
+ 
+3) What is Approaches to Traffic Management About ?
+---------------------------------------------------
+*
+*
+
+4) What does Approaches to Traffic Management Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Approaches to Traffic Management :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Approaches to Traffic Management :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Approaches to Traffic Management :
+-------------------------------------------------
+*
+*
+
+___________________________________________________________________________________
+
+      \\\\ Traffic-Aware Routing /////
+________________________________________________
+ Traffic-Aware Routing                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Traffic-Aware Routing
+                                                                                        
+2) Definition of Traffic-Aware Routing ?
+----------------------------------------
+*
+ 
+3) What is Traffic-Aware Routing About ?
+----------------------------------------
+*
+*
+
+4) What does Traffic-Aware Routing Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Traffic-Aware Routing :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Traffic-Aware Routing :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Traffic-Aware Routing :
+--------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+
+      \\\\\ Admission Control //////
+________________________________________________
+ Admission Control                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Admission Control
+                                                                                        
+2) Definition of Admission Control ?
+------------------------------------
+*
+ 
+3) What is Admission Control About ?
+------------------------------------
+*
+*
+
+4) What does Admission Control Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Admission Control :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Admission Control :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Admission Control :
+----------------------------------
+*
+*
+______________________________________________________________________________________
+
+       \\\\ Load Shedding ////
+
+________________________________________________
+ Load Shedding                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Load Shedding
+                                                                                        
+2) Definition of Load Shedding ?
+--------------------------------
+*
+ 
+3) What is Load Shedding About ?
+--------------------------------
+*
+*
+
+4) What does Load Shedding Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Load Shedding :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Load Shedding :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Load Shedding :
+------------------------------
+*
+*
+_____________________________________________________________________________________
+
+      \\\\ Traffic Shaping ////
+
+________________________________________________
+ Traffic Shaping                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Traffic Shaping
+                                                                                        
+2) Definition of Traffic Shaping ?
+----------------------------------
+*
+ 
+3) What is Traffic Shaping About ?
+----------------------------------
+*
+*
+
+4) What does Traffic Shaping Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Traffic Shaping :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Traffic Shaping :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Traffic Shaping :
+--------------------------------
+*
+*
+______________________________________________________________________________________
+
+
+       \\\\ Active Queue Management ////
+
+________________________________________________
+ Active Queue Management                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Active Queue Management
+                                                                                        
+2) Definition of Active Queue Management ?
+------------------------------------------
+*
+ 
+3) What is Active Queue Management About ?
+------------------------------------------
+*
+*
+
+4) What does Active Queue Management Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Active Queue Management :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Active Queue Management :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Active Queue Management :
+----------------------------------------
+*
+*
+____________________________________________________________________________________
+
+      \\\\ Random Early Detection //// 
+________________________________________________
+ Random Early Detection                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Random Early Detection
+                                                                                        
+2) Definition of Random Early Detection ?
+-----------------------------------------
+*
+ 
+3) What is Random Early Detection About ?
+-----------------------------------------
+*
+*
+
+4) What does Random Early Detection Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Random Early Detection :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Random Early Detection :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Random Early Detection :
+---------------------------------------
+*
+* 
+
+______________________________________________________________________________________
+
+      \\\\ Choke Packets //// 
+________________________________________________
+ Choke Packets                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Choke Packets
+                                                                                        
+2) Definition of Choke Packets ?
+--------------------------------
+*
+ 
+3) What is Choke Packets About ?
+--------------------------------
+*
+*
+
+4) What do Choke Packets Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Choke Packets :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Choke Packets :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Choke Packets :
+------------------------------
+*
+*
+_______________________________________________________________________________________
+
+      \\\\ Explicit Congestion Motification //// 
+________________________________________________
+ Explicit Congestion Motification               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Explicit Congestion Motification
+                                                                                        
+2) Definition of Explicit Congestion Motification ?
+---------------------------------------------------
+*
+ 
+3) What is Explicit Congestion Motification About ?
+---------------------------------------------------
+*
+*
+
+4) What does Explicit Congestion Motification Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Explicit Congestion Motification :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Explicit Congestion Motification :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Explicit Congestion Motification :
+-------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+      \\\\ Hop-by-Hop Backpressure //// 
+________________________________________________
+ Hop-by-Hop Backpressure                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Hop-by-Hop Backpressure
+                                                                                        
+2) Definition of Hop-by-Hop Backpressure ?
+------------------------------------------
+*
+ 
+3) What is Hop-by-Hop Backpressure About ?
+------------------------------------------
+*
+*
+
+4) What does Hop-by-Hop Backpressure Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Hop-by-Hop Backpressure :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Hop-by-Hop Backpressure :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Hop-by-Hop Backpressure :
+----------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+      <<<<<<<<<<<<<<<< QUALITY OF SERVICE AND APPLICATION QOE >>>>>>>>>>>>>>>>>
+
+QUALITY OF SERVICE AND APPLICATION QOE 406
+5.4.1 Application QoS Requirements 406
+5.4.2 Overprovisioning 409
+5.4.3 Packet Scheduling 410
+5.4.4 Integrated Services 417
+5.4.5 Differentiated Services 420
+________________________________________________
+ QUALITY OF SERVICE AND APPLICATION QOE         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* QUALITY OF SERVICE AND APPLICATION QOE
+                                                                                        
+2) Definition of Quality Of Service And Application QOE ?
+---------------------------------------------------------
+*
+ 
+3) What is Quality Of Service And Application QOE About ?
+---------------------------------------------------------
+*
+*
+
+4) What does Quality Of Service And Application QOE Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Quality Of Service And Application QOE :
+------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Quality Of Service And Application QOE :
+---------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Quality Of Service And Application QOE :
+-------------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+
+    *********** Application QoS Requirements ************
+________________________________________________
+ Application QoS Requirements                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Application QoS Requirements
+                                                                                        
+2) Definition of Application QoS Requirements ?
+-----------------------------------------------
+*
+ 
+3) What is Application QoS Requirements About ?
+-----------------------------------------------
+*
+*
+
+4) What does Application QoS Requirements Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Application QoS Requirements :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Application QoS Requirements :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Application QoS Requirements :
+---------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+
+    ********* Overprovisioning *********
+________________________________________________
+ Overprovisioning                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Overprovisioning
+                                                                                        
+2) Overprovisioning ?
+---------------------
+*
+ 
+3) What is Overprovisioning About ?
+-----------------------------------
+*
+*
+
+4) What does Overprovisioning Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Overprovisioning :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Overprovisioning :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Overprovisioning  :
+----------------------------------
+*
+* 
+
+_____________________________________________________________________________________
+
+************ Packet Scheduling *************
+
+- First-In First-Out (FIFO) Scheduling
+- Fair Queuing
+- Weighted Fair Queuing
+- Putting it Together
+________________________________________________
+ Packet Scheduling                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Packet Scheduling
+                                                                                        
+2) Definition of Packet Scheduling ?
+------------------------------------
+*
+ 
+3) What is Packet Scheduling About ?
+------------------------------------
+*
+*
+
+4) What does Packet Scheduling Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Packet Scheduling :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Packet Scheduling :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Packet Scheduling  :
+-----------------------------------
+*
+*
+_______________________________________________________________________________________
+
+      \\\\ First-In First-Out (FIFO) Scheduling //// 
+________________________________________________
+ First-In First-Out (FIFO) Scheduling           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* First-In First-Out (FIFO) Scheduling
+                                                                                        
+2) Definition of First-In First-Out (FIFO) Scheduling ?
+-------------------------------------------------------
+*
+ 
+3) What is First-In First-Out (FIFO) Scheduling About ?
+-------------------------------------------------------
+*
+*
+
+4) What does First-In First-Out (FIFO) Scheduling Do ?
+------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of First-In First-Out (FIFO) Scheduling :
+----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of First-In First-Out (FIFO) Scheduling :
+-------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of First-In First-Out (FIFO) Scheduling :
+-----------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+      \\\\ Fair Queuing //// 
+________________________________________________
+ Fair Queuing                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Fair Queuing
+                                                                                        
+2) Definition of Fair Queuing ?
+-------------------------------
+*
+ 
+3) What is Fair Queuing About ?
+-------------------------------
+*
+*
+
+4) What does Fair Queuing Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Fair Queuing :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fair Queuing :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Fair Queuing :
+-----------------------------
+*
+*
+_______________________________________________________________________________________
+
+      \\\\ Weighted Fair Queuing //// 
+________________________________________________
+ Weighted Fair Queuing                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Weighted Fair Queuing
+                                                                                        
+2) Definition of Weighted Fair Queuing ?
+----------------------------------------
+*
+ 
+3) What is Weighted Fair Queuing About ?
+----------------------------------------
+*
+*
+
+4) What does Weighted Fair Queuing Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Weighted Fair Queuing :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Weighted Fair Queuing :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Weighted Fair Queuing :
+--------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Putting it Together //// 
+________________________________________________
+ Putting it Together                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Putting it Together
+                                                                                        
+2) Definition of Putting it Together ?
+--------------------------------------
+*
+ 
+3) What is Putting it Together About ?
+--------------------------------------
+*
+*
+
+4) What does Putting it Together Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Putting it Together :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Putting it Together :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Putting it Together :
+------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+********** Intergrated Services ************
+
+- RSVP- The Resource reServation Protocol
+________________________________________________
+ Intergrated Services                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Intergrated Services
+                                                                                        
+2) Definition of Intergrated Services ?
+---------------------------------------
+*
+ 
+3) What is Intergrated Services About ?
+---------------------------------------
+*
+*
+
+4) What does Intergrated Services Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Intergrated Services :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Intergrated Services :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Intergrated Services :
+-------------------------------------
+*
+* 
+
+_____________________________________________________________________________________
+
+      \\\\ RSVP- The Resource reServation Protocol //// 
+________________________________________________
+ RSVP- The Resource reServation Protocol        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* RSVP- The Resource reServation Protocol
+                                                                                        
+2) Definition of RSVP- The Resource reServation Protocol ?
+----------------------------------------------------------
+*
+ 
+3) What is RSVP- The Resource reServation Protocol About ?
+----------------------------------------------------------
+*
+*
+
+4) What does RSVP- The Resource reServation Protocol Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of RSVP- The Resource reServation Protocol :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of RSVP- The Resource reServation Protocol :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of RSVP- The Resource reServation Protocol :
+--------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+    *********** Differentiated Services ************
+
+- Expedited Forwarding
+- Assured Forwarding
+________________________________________________
+ Differentiated Services                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Differentiated Services
+                                                                                        
+2) Definition of Differentiated Services ?
+------------------------------------------
+*
+ 
+3) What is Differentiated Services About ?
+------------------------------------------
+*
+*
+
+4) What does Differentiated Services Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Differentiated Services :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Differentiated Services :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Differentiated Services :
+----------------------------------------
+*
+* 
+
+______________________________________________________________________________________
+
+      \\\\ Expedited Forwarding //// 
+________________________________________________
+ Expedited Forwarding                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Expedited Forwarding
+                                                                                        
+2) Definition of Expedited Forwarding ?
+---------------------------------------
+*
+ 
+3) What is Expedited Forwarding About ?
+---------------------------------------
+*
+*
+
+4) What does Expedited Forwarding Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Expedited Forwarding :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Expedited Forwarding :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Expedited Forwarding :
+-------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Assured Forwarding //// 
+________________________________________________
+ Assured Forwarding                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Assured Forwarding
+                                                                                        
+2) Definition of Assured Forwarding ?
+-------------------------------------
+*
+ 
+3) What is Assured Forwarding About ?
+-------------------------------------
+*
+*
+
+4) What does Assured Forwarding Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Assured Forwarding :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Assured Forwarding :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Assured Forwarding :
+-----------------------------------
+*
+*
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<<<< INTERNETWORKING >>>>>>>>>>>>>>>>>>>>>
+
+INTERNETWORKING 423
+5.5.1 Internetworks: An Overview 423
+5.5.2 How Networks Differ 424
+5.5.3 Connecting Heterogeneous Networks 425
+5.5.4 Connecting Endpoints Across Heterogeneous Networks 428
+5.5.5 Internetwork Routing: Routing Across Multiple Networks 430
+5.5.6 Supporting Different Packet Sizes: Packet Fragmentation 431
+________________________________________________
+ INTERNETWORKING                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* INTERNETWORKING
+                                                                                        
+2) Definition of Internetworking ?
+----------------------------------
+*
+ 
+3) What is Fast Internetworking About ?
+---------------------------------------
+*
+*
+
+4) What does Internetworking  Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Internetworking :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Internetworking  :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Internetworking   :
+----------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+     ******* Internetworks: An Overview ********
+________________________________________________
+ Internetworks: An Overview                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Internetworks: An Overview
+                                                                                        
+2) Definition of Internetworks: An Overview ?
+---------------------------------------------
+*
+ 
+3) What is Internetworks: An Overview About ?
+---------------------------------------------
+*
+*
+
+4) What does Internetworks: An Overview Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Internetworks: An Overview :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Internetworks: An Overview :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Internetworks: An Overview :
+-------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+    *********** How Networks Differ ************
+________________________________________________
+ How Networks Differ                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* How Networks Differ
+                                                                                        
+2) Definition of How Networks Differ ?
+--------------------------------------
+*
+ 
+3) What is How Networks Differ About ?
+--------------------------------------
+*
+*
+
+4) What does How Networks Differ Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of How Networks Differ :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of How Networks Differ :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of How Networks Differ :
+------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+    ********* Connecting Heterogeneous Networks *********
+________________________________________________
+ Connecting Heterogeneous Networks              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Connecting Heterogeneous Networks
+                                                                                        
+2) Definition of Connecting Heterogeneous Networks ?
+----------------------------------------------------
+*
+ 
+3) What is Connecting Heterogeneous Networks About ?
+----------------------------------------------------
+*
+*
+
+4) What does Connecting Heterogeneous Networks Do ?
+---------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Connecting Heterogeneous Networks :
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Connecting Heterogeneous Networks :
+----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Connecting Heterogeneous Networks :
+--------------------------------------------------
+*
+* 
+
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+
+     ******* Connecting Endpoints Across Heterogeneous Networks ********
+____________________________________________________
+ Connecting Endpoints Across Heterogeneous Networks |
+                                                    |                  
+____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Connecting Endpoints Across Heterogeneous Networks
+                                                                                        
+2) Definition of Connecting Endpoints Across Heterogeneous Networks ?
+---------------------------------------------------------------------
+*
+ 
+3) What is Connecting Endpoints Across Heterogeneous Networks About ?
+---------------------------------------------------------------------
+*
+*
+
+4) What does Connecting Endpoints Across Heterogeneous Networks Do ?
+--------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Connecting Endpoints Across Heterogeneous Networks :
+------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Connecting Endpoints Across Heterogeneous Networks :
+---------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Connecting Endpoints Across Heterogeneous Networks :
+-------------------------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+
+     ******* Internetwork Routing: Routing Across Multiple Networks ********
+________________________________________________________
+ Internetwork Routing: Routing Across Multiple Networks |
+                                                        |                  
+________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Internetwork Routing: Routing Across Multiple Networks
+                                                                                        
+2) Definition of Internetwork Routing: Routing Across Multiple Networks ?
+-------------------------------------------------------------------------
+*
+ 
+3) What is Internetwork Routing: Routing Across Multiple Networks About ?
+-------------------------------------------------------------------------
+*
+*
+
+4) What does Internetwork Routing: Routing Across Multiple Networks Do ?
+------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Internetwork Routing: Routing Across Multiple Networks :
+----------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Internetwork Routing: Routing Across Multiple Networks :
+-------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Internetwork Routing: Routing Across Multiple Networks :
+-----------------------------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+     ******* Supporting Different Packet Sizes: Packet Fragmentation ********
+_________________________________________________________
+ Supporting Different Packet Sizes: Packet Fragmentation |
+                                                         |                  
+_________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Supporting Different Packet Sizes: Packet Fragmentation
+                                                                                        
+2) Definition of Supporting Different Packet Sizes: Packet Fragmentation ?
+--------------------------------------------------------------------------
+*
+ 
+3) What is Supporting Different Packet Sizes: Packet Fragmentation About ?
+--------------------------------------------------------------------------
+*
+*
+
+4) What does Supporting Different Packet Sizes: Packet Fragmentation Do ?
+-------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Supporting Different Packet Sizes: Packet Fragmentation :
+-----------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Supporting Different Packet Sizes: Packet Fragmentation :
+--------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Supporting Different Packet Sizes: Packet Fragmentation :
+------------------------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<< SOFTWARE-DEFINED NETWORKING >>>>>>>>>>>>>>>>>>>>
+
+SOFTWARE-DEFINED NETWORKING 435
+5.6.1 Overview 435
+5.6.2 The SDN Control Plane: Logically Centralized Software Control 436
+5.6.3 The SDN Data Plane: Programmable Hardware 438
+5.6.4 Programmable Network Telemetry 440
+________________________________________________
+ SOFTWARE-DEFINED NETWORKING                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SOFTWARE-DEFINED NETWORKING
+                                                                                        
+2) Definition of Software-Defined Networking ?
+----------------------------------------------
+*
+ 
+3) What is Software-Defined Networking About ?
+----------------------------------------------
+*
+*
+
+4) What does Software-Defined Networking Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Software-Defined Networking :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Software-Defined Networking :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Software-Defined Networking :
+--------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+                
+      ******* Overview ********
+________________________________________________
+ Overview                                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Overview
+                                                                                        
+2) Definition of Overview ?
+---------------------------
+*
+ 
+3) What is Overview About ?
+---------------------------
+*
+*
+
+4) What does Overview Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Overview :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Overview :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Overview :
+-------------------------
+*
+* 
+
+________________________________________________________________________________
+             
+********* The SDN Control Plane: Logically Centralized Software Control **********
+_______________________________________________________________
+ The SDN Control Plane: Logically Centralized Software Control |
+                                                               |                  
+_______________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The SDN Control Plane: Logically Centralized Software Control
+                                                                                        
+2) Definition of The SDN Control Plane: Logically Centralized Software Control ?
+--------------------------------------------------------------------------------
+*
+ 
+3) What is The SDN Control Plane: Logically Centralized Software Control About ?
+--------------------------------------------------------------------------------
+*
+*
+
+4) What does The SDN Control Plane: Logically Centralized Software Control Do ?
+-------------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The SDN Control Plane:Logically Centralized Software Control:
+---------------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The SDN Control Plane: Logically Centralized Software Control :
+----------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The SDN Control Plane: Logically Centralized Software Control :
+------------------------------------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+    ********* The SDN Data Plane: Programmable Hardware *********
+
+________________________________________________
+ The SDN Data Plane: Programmable Hardware      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The SDN Data Plane: Programmable Hardware
+                                                                                        
+2) Definition of The SDN Data Plane: Programmable Hardware ?
+------------------------------------------------------------
+*
+ 
+3) What is The SDN Data Plane: Programmable Hardware About ?
+------------------------------------------------------------
+*
+*
+
+4) What does The SDN Data Plane: Programmable Hardware Do ?
+-----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The SDN Data Plane: Programmable Hardware :
+---------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The SDN Data Plane: Programmable Hardware :
+------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The SDN Data Plane: Programmable Hardware :
+----------------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+    ********* Programmable Network Telemetry *********
+
+________________________________________________
+ Programmable Network Telemetry                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Programmable Network Telemetry
+                                                                                        
+2) Definition of Programmable Network Telemetry ?
+-------------------------------------------------
+*
+ 
+3) What is Programmable Network Telemetry About ?
+-------------------------------------------------
+*
+*
+
+4) What does Programmable Network Telemetry Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Programmable Network Telemetry :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Programmable Network Telemetry :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Programmable Network Telemetry :
+-----------------------------------------------
+*
+* 
+
+_______________________________________________________________________________________
+
+<<<<<<<<<<<<<< THE NETWORK LAYER IN THE INTERNET >>>>>>>>>>>>>
+
+THE NETWORK LAYER IN THE INTERNET 441
+5.7.1 The IP Version 4 Protocol 444
+5.7.2 IP Addresses 448
+5.7.3 IP Version 6 461
+5.7.4 Internet Control Protocols 470
+5.7.5 Label Switching and MPLS 476
+5.7.6 OSPF—An Interior Gateway Routing Protocol 479
+5.7.7 BGP—The Exterior Gateway Routing Protocol 484
+5.7.8 Internet Multicasting 491
+________________________________________________
+ THE NETWORK LAYER IN THE INTERNET              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* THE NETWORK LAYER IN THE INTERNET
+                                                                                        
+2) Definition of Services ?
+---------------------------
+* The Network Layer In The Internet 
+ 
+3) What is The Network Layer In The Internet About ?
+----------------------------------------------------
+*
+*
+
+4) What do The Network Layer In The Internet Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Network Layer In The Internet :
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Network Layer In The Internet :
+----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Network Layer In The Internet :
+--------------------------------------------------
+*
+* 
+_______________________________________________________________________________________
+
+************ The IP Version 4 Protocol *************
+________________________________________________
+ The IP Version 4 Protocol                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The IP Version 4 Protocol
+                                                                                        
+2) Definition of The IP Version 4 Protocol ?
+--------------------------------------------
+*
+ 
+3) What is The IP Version 4 Protocol About ?
+--------------------------------------------
+*
+*
+
+4) What does The IP Version 4 Protocol Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The IP Version 4 Protocol :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The IP Version 4 Protocol :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The IP Version 4 Protocol :
+------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+********** IP Addresses ************
+
+- Prefixes
+- Subnets
+- CIDR-Classless InterDomain Routing:-
+- Classful and Special Addressing
+- NAT-Network Address Translation
+________________________________________________
+ IP Addresses                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* IP Addresses
+                                                                                        
+2) Definition of IP Addresses ?
+-------------------------------
+*
+ 
+3) What is IP Addresses About ?
+-------------------------------
+*
+*
+
+4) What does IP Addresses Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of IP Addresses :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of IP Addresses :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of IP Addresses :
+-----------------------------
+*
+*
+______________________________________________________________________________________
+
+     \\\\ Prefixes ////
+________________________________________________
+  Prefixes                                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Prefixes
+                                                                                        
+2) Definition of Prefixes ?
+---------------------------
+*
+ 
+3) What is Prefixes About ?
+---------------------------
+*
+*
+
+4) What does Prefixes Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Prefixes :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Prefixes :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Prefixes :
+-------------------------
+*
+*
+___________________________________________________________________________________
+
+    \\\\ Subnets ////
+________________________________________________
+ Subnets                                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Subnets
+                                                                                        
+2) Definition of Subnets ?
+--------------------------
+*
+ 
+3) What is Subnets About ?
+--------------------------
+*
+*
+
+4) What do Subnets Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of Subnets :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Subnets :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of Subnets :
+------------------------
+*
+*
+_______________________________________________________________________________________
+
+    \\\\ CIDR-Classless InterDomain Routing:- ////
+________________________________________________
+ CIDR-Classless InterDomain Routing:-           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* CIDR-Classless InterDomain Routing:-
+                                                                                        
+2) Definition of CIDR-Classless InterDomain Routing ?
+-----------------------------------------------------
+*
+ 
+3) What is CIDR-Classless InterDomain Routing About ?
+-----------------------------------------------------
+*
+*
+
+4) What do CIDR-Classless InterDomain Routing Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of CIDR-Classless InterDomain Routing :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of CIDR-Classless InterDomain Routing :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of CIDR-Classless InterDomain Routing :
+---------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ Classful and Special Addressing ////
+________________________________________________
+ Classful and Special Addressing                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Classful and Special Addressing
+                                                                                        
+2) Definition of Classful and Special Addressing ?
+--------------------------------------------------
+*
+ 
+3) What is Classful and Special Addressing About ?
+--------------------------------------------------
+*
+*
+
+4) What do Classful and Special Addressing Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Classful and Special Addressing :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Classful and Special Addressing :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Classful and Special Addressing :
+------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+    \\\\ NAT-Network Address Translation ////
+________________________________________________
+ NAT-Network Address Translation                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* NAT-Network Address Translation
+                                                                                        
+2) Definition of NAT-Network Address Translation ?
+--------------------------------------------------
+*
+ 
+3) What is NAT-Network Address Translation About ?
+--------------------------------------------------
+*
+*
+
+4) What do NAT-Network Address Translation Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of NAT-Network Address Translation :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of NAT-Network Address Translation :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of NAT-Network Address Translation :
+------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+************* IP Version 6 *************
+
+- The Main IPv6 Header
+- Extension Headers
+- Controversies
+________________________________________________
+ IP Version 6                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* IP Version 6
+                                                                                        
+2) Definition of IP Version 6 ?
+-------------------------------
+*
+ 
+3) What is IP Version 6 About ?
+-------------------------------
+*
+*
+
+4) What does IP Version 6 Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of IP Version 6 :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of IP Version 6 :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of IP Version 6 :
+-----------------------------
+*
+*
+_______________________________________________________________________________________
+
+    \\\\ The Main IPv6 Header ////
+________________________________________________
+ The Main IPv6 Header                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Main IPv6 Header
+                                                                                        
+2) Definition of The Main IPv6 Header ?
+---------------------------------------
+*
+ 
+3) What is The Main IPv6 Header About ?
+---------------------------------------
+*
+*
+
+4) What do The Main IPv6 Header Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Main IPv6 Header :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Main IPv6 Header :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Main IPv6 Header :
+-------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+    \\\\ Extension Headers ////
+________________________________________________
+ Subnets                                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Subnets
+                                                                                        
+2) Definition of Subnets ?
+--------------------------
+*
+ 
+3) What is Subnets About ?
+--------------------------
+*
+*
+
+4) What do Subnets Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of Subnets :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Subnets :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of Subnets :
+------------------------
+*
+*
+_______________________________________________________________________________________
+
+    \\\\ Controversies ////
+________________________________________________
+ Subnets                                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Subnets
+                                                                                        
+2) Definition of Subnets ?
+--------------------------
+*
+ 
+3) What is Subnets About ?
+--------------------------
+*
+*
+
+4) What do Subnets Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of Subnets :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Subnets :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of Subnets :
+------------------------
+*
+*
+_______________________________________________________________________________________
+
+*********** Internet Control Protocols *************
+
+- ICMP - The Internet Control Message Protocol
+- ARP - The Address Resolution Protocol
+- DHCP - The Dynamic Host Configuration Protocol 
+________________________________________________
+ Internet Control Protocols                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Internet Control Protocols
+                                                                                        
+2) Definition of Internet Control Protocols ?
+---------------------------------------------
+*
+ 
+3) What is Internet Control Protocols About ?
+---------------------------------------------
+*
+*
+
+4) What do Internet Control Protocols Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Internet Control Protocols :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Internet Control Protocols :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Internet Control Protocols :
+-------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+
+      \\\\ ICMP - The Internet Control Message Protocol ////
+
+________________________________________________
+  ICMP - The Internet Control Message Protocol  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* ICMP - The Internet Control Message Protocol
+                                                                                        
+2) Definition of ICMP - The Internet Control Message Protocol ?
+---------------------------------------------------------------
+*
+ 
+3) What is ICMP - The Internet Control Message Protocol About ?
+---------------------------------------------------------------
+*
+*
+
+4) What does ICMP - The Internet Control Message Protocol Do ?
+--------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of ICMP - The Internet Control Message Protocol :
+------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of ICMP - The Internet Control Message Protocol :
+---------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of ICMP - The Internet Control Message Protocol :
+-------------------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+       \\\\ ARP - The Address Resolution Protocol ////
+
+________________________________________________
+ ARP - The Address Resolution Protocol          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* ARP - The Address Resolution Protocol
+                                                                                        
+2) Definition of ARP - The Address Resolution Protocol ?
+--------------------------------------------------------
+*
+ 
+3) What is ARP - The Address Resolution Protocol About ?
+--------------------------------------------------------
+*
+*
+
+4) What does ARP - The Address Resolution Protocol Do ?
+-----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of ARP - The Address Resolution Protocol :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of ARP - The Address Resolution Protocol :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of ARP - The Address Resolution Protocol :
+------------------------------------------------------
+*
+* 
+
+____________________________________________________________________________________
+
+       \\\\ DHCP - The Dynamic Host Configuration Protocol ////
+
+________________________________________________
+ DHCP - The Dynamic Host Configuration Protocol |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* DHCP - The Dynamic Host Configuration Protocol
+                                                                                        
+2) Definition of DHCP - The Dynamic Host Configuration Protocol ?
+-----------------------------------------------------------------
+*
+ 
+3) What is DHCP - The Dynamic Host Configuration Protocol About ?
+-----------------------------------------------------------------
+*
+*
+
+4) What does DHCP - The Dynamic Host Configuration Protocol Do ?
+----------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of DHCP - The Dynamic Host Configuration Protocol :
+--------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DHCP - The Dynamic Host Configuration Protocol :
+-----------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of DHCP - The Dynamic Host Configuration Protocol :
+---------------------------------------------------------------
+*
+* 
+
+____________________________________________________________________________________
+
+
+ ************** BGP - The Exterior Gateway Routing Protocol *************
+
+- Interdomain Traffic Engineering
+
+________________________________________________
+ BGP - The Exterior Gateway Routing Protocol    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* BGP - The Exterior Gateway Routing Protocol
+                                                                                        
+2) Definition of BGP - The Exterior Gateway Routing Protocol ?
+--------------------------------------------------------------
+*
+ 
+3) What is BGP - The Exterior Gateway Routing Protocol About ?
+--------------------------------------------------------------
+*
+*
+
+4) What does BGP - The Exterior Gateway Routing Protocol Do ?
+-------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of BGP - The Exterior Gateway Routing Protocol :
+-----------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of BGP - The Exterior Gateway Routing Protocol :
+--------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of BGP - The Exterior Gateway Routing Protocol :
+------------------------------------------------------------
+*
+* 
+____________________________________________________________________________________
+
+         \\\\ Interdomain Traffic Engineering ////
+
+________________________________________________
+ Interdomain Traffic Engineering                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Interdomain Traffic Engineering 
+                                                                                        
+2) Definition of Interdomain Traffic Engineering ?
+--------------------------------------------------
+*
+ 
+3) What is Interdomain Traffic Engineering  About ?
+---------------------------------------------------
+*
+*
+
+4) What does Interdomain Traffic Engineering  Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Interdomain Traffic Engineering  :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Interdomain Traffic Engineering  :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Interdomain Traffic Engineering  :
+-------------------------------------------------
+*
+*
+____________________________________________________________________________________
+
+<<<<<<<<<<<<<< POLICY AT THE NETWORK LAYER >>>>>>>>>>>>>>>>>
+
+________________________________________________
+ POLICY AT THE NETWORK LAYER                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* POLICY AT THE NETWORK LAYER
+                                                                                        
+2) Definition of Policy At The Network Layer ?
+----------------------------------------------
+*
+ 
+3) What is Policy At The Network Layer About ?
+----------------------------------------------
+*
+*
+
+4) What does Policy At The Network Layer Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Policy At The Network Layer :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Policy At The Network Layer :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Policy At The Network Layer :
+--------------------------------------------
+*
+*
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+<<<<<<<<<<<<<<< SUMMARY OF THE NETWORK LAYER >>>>>>>>>>>>>>>
+________________________________________________
+ SUMMARY OF THE NETWORK LAYER                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* SUMMARY OF THE NETWORK LAYER
+                                                                                        
+2) Definition of Summary Of The Network Layer ?
+-----------------------------------------------
+*
+ 
+3) What is Summary Of The Network Layer About ?
+-----------------------------------------------
+*
+*
+
+4) What does Summary Of The Network Layer Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Summary Of The Network Layer :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Summary Of The Network Layer :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Summary Of The Network Layer :
+---------------------------------------------
+*
+*
+
+____________________________________________________________________________________
+____________________________________________________________________________________
