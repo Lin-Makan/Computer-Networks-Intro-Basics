@@ -1,0 +1,2737 @@
+CHAPTER 6 : THE TRANSPORT LAYER
+
+<<<<<<<<<<<<<< THE TRANSPORT LAYER >>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<                   >>>>>>>>>>>>>>>>>>>>
+________________________________________________
+ THE TRANSPORT LAYER                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* THE TRANSPORT LAYER 
+                                                                                        
+2) Definition of The Transport Layer ?
+--------------------------------------
+*
+ 
+3) What is The Transport Layer About ?
+--------------------------------------
+*
+*
+
+4) What does The Transport Layer Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Transport Layer :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Transport Layer :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Transport Layer :
+------------------------------------
+*
+*
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<< THE TRANSPORT SERVICE >>>>>>>>>>>>>>>>>>>>
+
+THE TRANSPORT SERVICE 501
+6.1.1 Services Provided to the Upper Layers 502
+6.1.2 Transport Service Primitives 504
+6.1.3 Berkeley Sockets 506
+6.1.4 An Example of Socket Programming: An Internet File Server 509
+
+________________________________________________
+ THE TRANSPORT SERVICE                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Transport Service.
+                                                                                        
+2) Definition of The Transport Service ?
+----------------------------------------
+*
+ 
+3) What is The Transport Service About ?
+----------------------------------------
+*
+*
+
+4) What do The Transport Service Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Transport Service :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Transport Service :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Transport Service :
+---------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+
+************** Services Provided to the Upper Layers **************
+
+________________________________________________
+ Services Provided to the Upper Layers          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Services Provided to the Upper Layers
+                                                                                        
+2) Definition of Services Provided to the Upper Layers ?
+--------------------------------------------------------
+*
+ 
+3) What is Services Provided to the Upper Layers About ?
+--------------------------------------------------------
+*
+*
+
+4) What does Services Provided to the Upper Layers Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Services Provided to the Upper Layers :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Services Provided to the Upper Layers :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Services Provided to the Upper Layers :
+------------------------------------------------------
+*
+* 
+
+_______________________________________________________________________________________
+
+************** Transport Service Primitives **************
+
+________________________________________________
+ Transport Service Primitives                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Transport Service Primitives
+                                                                                        
+2) Definition of Transport Service Primitives ?
+-----------------------------------------------
+*
+ 
+3) What is Transport Service Primitives About ?
+-----------------------------------------------
+*
+*
+
+4) What do Transport Service Primitives Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Transport Service Primitives :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Transport Service Primitives :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Transport Service Primitives :
+---------------------------------------------
+*
+*   
+_____________________________________________________________________________________
+
+************** Berkeley Sockets **************
+
+________________________________________________
+ Berkeley Sockets                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Implementation of Berkeley Sockets
+                                                                                        
+2) Definition of Berkeley Sockets?
+----------------------------------
+*
+ 
+3) What is Berkeley Sockets About ?
+-----------------------------------
+*
+*
+
+4) What do Berkeley Sockets Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Berkeley Sockets :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Berkeley Sockets :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Berkeley Sockets :
+---------------------------------
+*
+*
+_____________________________________________________________________________________
+
+************** An Example of Socket Programming: An Internet File Server **************
+
+____________________________________________________________
+ An Example of Socket Programming: An Internet File Server  |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* An Example of Socket Programming: An Internet File Server
+                                                                                        
+2) Definition of An Example of Socket Programming: An Internet File Server ?
+----------------------------------------------------------------------------
+*
+ 
+3) What is An Example of Socket Programming: An Internet File Server About ?
+----------------------------------------------------------------------------
+*
+*
+
+4) What does An Example of Socket Programming: An Internet File Server Do ?
+---------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of An Example of Socket Programming: An Internet File Server :
+-------------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages of An Example of Socket Programming: An Internet File Server :
+-------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of An Example of Socket Programming: An Internet File Server :
+--------------------------------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<< ELEMENTS OF TRANSPORT PROTOCOLS >>>>>>>>>>>>>>>>>
+
+ELEMENTS OF TRANSPORT PROTOCOLS 513
+6.2.1 Addressing 514
+6.2.2 Connection Establishment 517
+6.2.3 Connection Release 523
+6.2.4 Error Control and Flow Control 528
+6.2.5 Multiplexing 533
+6.2.6 Crash Recovery 533
+_____________________________________________________
+ Elements Of Transport Protocols                     |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Elements Of Transport Protocols
+                                                                                        
+2) Definition of Elements Of Transport Protocols ?
+--------------------------------------------------
+*
+ 
+3) What is Elements Of Transport Protocols About ?
+--------------------------------------------------
+*
+*
+
+4) What do Elements Of Transport Protocols ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Elements Of Transport Protocols :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Elements Of Transport Protocols :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Elements Of Transport Protocols :
+------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************* Addressing ***************
+________________________________________________
+ Addressing                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Addressing
+                                                                                        
+2) Definition of Addressing ?
+-----------------------------
+*
+ 
+3) What is Addressing About ?
+-----------------------------
+*
+*
+
+4) What does Addressing Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Addressing :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Addressing :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Addressing :
+---------------------------
+*
+*
+
+____________________________________________________________________________________
+
+
+************** Connection Establishment **************
+
+- Problem : Delayed and Duplicate Packets
+- Solution : Three-Way Handshake
+________________________________________________
+ Connection Establishment                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Connection Establishment
+                                                                                        
+2) Definition of Connection Establishment ?
+-------------------------------------------
+*
+ 
+3) What is Connection Establishment About ?
+-------------------------------------------
+*
+*
+
+4) What does Connection Establishment Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Connection Establishment :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Connection Establishment :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Connection Establishment :
+-----------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+      \\\\ Problem : Delayed and Duplicate Packets ////
+________________________________________________
+ Problem : Delayed and Duplicate Packets        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Problem : Delayed and Duplicate Packets
+                                                                                        
+2) Definition of Problem : Delayed and Duplicate Packets ?
+----------------------------------------------------------
+*
+ 
+3) What is Problem : Delayed and Duplicate Packets About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Problem : Delayed and Duplicate Packet Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Problem : Delayed and Duplicate Packets :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Learning about the Neighbours :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Learning about the Neighbours :
+----------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Solution : Three-Way Handshake ////
+________________________________________________
+ Solution : Three-Way Handshake                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Solution : Three-Way Handshake
+                                                                                        
+2) Definition of Solution : Three-Way Handshake ?
+-------------------------------------------------
+*
+ 
+3) What is Solution : Three-Way Handshake About ?
+-------------------------------------------------
+*
+*
+
+4) What does Solution : Three-Way Handshake Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Solution : Three-Way Handshake :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Solution : Three-Way Handshake :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Solution : Three-Way Handshake :
+-----------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+
+
+************ Connection Release **************
+
+________________________________________________
+ Connection Release                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Connection Release
+                                                                                        
+2) Definition of Connection Release ?
+-------------------------------------
+*
+ 
+3) What is Connection Release About ?
+-------------------------------------
+*
+*
+
+4) What does Connection Release Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Connection Release :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Connection Release :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Connection Release :
+-----------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+************ Error Control and Flow Control *************
+    
+________________________________________________
+ Error Control and Flow Control                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Error Control and Flow Control
+                                                                                        
+2) Definition of Error Control and Flow Control ?
+-------------------------------------------------
+*
+ 
+3) What is Error Control and Flow Control About ?
+-------------------------------------------------
+*
+*
+
+4) What does Error Control and Flow Control Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Error Control and Flow Control :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Error Control and Flow Control :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Error Control and Flow Control :
+-----------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************ Multiplexing ***************
+
+________________________________________________
+ Multiplexing                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Multiplexing
+                                                                                        
+2) Definition of Multiplexing ?
+-------------------------------
+*
+ 
+3) What is Multiplexing About ?
+-------------------------------
+*
+*
+
+4) What does Multiplexing Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Multiplexing :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multiplexing :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Multiplexing :
+----------------------------
+*
+*
+_______________________________________________________________________________________
+
+*********** Crash Recovery *************
+________________________________________________
+ Crash Recovery                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Crash Recovery                                                                                        
+2) Definition of Crash Recovery ?
+---------------------------------
+*
+ 
+3) What is Crash Recovery About ?
+---------------------------------
+*
+*
+
+4) What does Crash Recovery Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Crash Recovery :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Crash Recovery :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Crash Recovery :
+-------------------------------
+*
+*
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<< CONGESTION CONTROL >>>>>>>>>>>>>>>>>
+
+CONGESTION CONTROL 536
+6.3.1 Desirable Bandwidth Allocation 536
+6.3.2 Regulating the Sending Rate 540
+6.3.3 Wireless Issues 544
+________________________________________________
+ Congestion Control                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Congestion Control
+                                                                                        
+2) Definition of Congestion Control ?
+-------------------------------------
+*
+ 
+3) What is Congestion Control About ?
+-------------------------------------
+*
+*
+
+4) What does Congestion Control Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Congestion Control :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Congestion Control :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Congestion Control :
+-----------------------------------
+*
+*
+______________________________________________________________________________________
+
+*********** Desirable Bandwidth Allocation **********
+
+- Efficiency and Power
+- Max-Min Fairness
+- Convergence
+________________________________________________
+ Desirable Bandwidth Allocation                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Desirable Bandwidth Allocation
+                                                                                        
+2) Definition of Desirable Bandwidth Allocation ?
+-------------------------------------------------
+*
+ 
+3) What is Desirable Bandwidth Allocation About ?
+-------------------------------------------------
+*
+*
+
+4) What does Desirable Bandwidth Allocation Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Desirable Bandwidth Allocation :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Desirable Bandwidth Allocation :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Desirable Bandwidth Allocation :
+-----------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Efficiency and Power ////
+________________________________________________
+ Efficiency and Power                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Efficiency and Power
+                                                                                        
+2) Definition of Efficiency and Power ?
+---------------------------------------
+*
+ 
+3) What is Efficiency and Power About ?
+---------------------------------------
+*
+*
+
+4) What does Efficiency and Power Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Efficiency and Power :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Efficiency and Power :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Efficiency and Power :
+-------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+      \\\\ Max-Min Fairness ////
+________________________________________________
+ Max-Min Fairness                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Max-Min Fairness
+                                                                                        
+2) Definition of Max-Min Fairness ?
+-----------------------------------
+*
+ 
+3) What is Max-Min Fairness About ?
+-----------------------------------
+*
+*
+
+4) What does Max-Min Fairness Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Max-Min Fairness :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Max-Min Fairness :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Max-Min Fairness :
+---------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Convergence ////
+________________________________________________
+ Convergence                                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Convergence
+                                                                                        
+2) Definition of Convergence ?
+------------------------------
+*
+ 
+3) What is Convergence About ?
+------------------------------
+*
+*
+
+4) What does Convergence Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Convergence :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Convergence :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Convergence :
+----------------------------
+*
+*
+_______________________________________________________________________________________
+
+******** Regulating the Sending Rate ********
+________________________________________________
+ Regulating the Sending Rate                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Regulating the Sending Rate
+                                                                                        
+2) Definition of Regulating the Sending Rate ?
+----------------------------------------------
+*
+ 
+3) What is Regulating the Sending RateAbout ?
+---------------------------------------------
+*
+*
+
+4) What does Regulating the Sending Rate Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Regulating the Sending Rate :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Regulating the Sending Rate :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Regulating the Sending Rate :
+--------------------------------------------
+*
+*
+_____________________________________________________________________________
+
+******** Wireless Issues ********
+________________________________________________
+ Wireless Issues                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Wireless Issues
+                                                                                        
+2) Definition of Wireless Issues ?
+----------------------------------
+*
+ 
+3) What is Wireless Issues About ?
+----------------------------------
+*
+*
+
+4) What do Wireless Issues Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Wireless Issues :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Wireless Issues :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Wireless Issues :
+-------------------------------
+*
+*
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<< THE INTERNET TRANSPORT PROTOCOLS: UDP >>>>>>>>>>>>>>>>>>
+
+THE INTERNET TRANSPORT PROTOCOLS: UDP 546
+6.4.1 Introduction to UDP 547
+6.4.2 Remote Procedure Call 549
+6.4.3 Real-Time Transport Protocols 552
+________________________________________________
+ THE INTERNET TRANSPORT PROTOCOLS: UDP          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* The Internet Transport Protocols: UDP 
+                                                                                        
+2) Definition of The Internet Transport Protocols: UDP ?
+--------------------------------------------------------
+*
+ 
+3) What is The Internet Transport Protocols: UDP About ?
+--------------------------------------------------------
+*
+*
+
+4) What does The Internet Transport Protocols: UDP Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Internet Transport Protocols: UDP :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Internet Transport Protocols: UDP :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Internet Transport Protocols: UDP :
+------------------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+*********** Introduction to UDP ************
+
+________________________________________________
+ Introduction to UDP                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Introduction to UDP
+                                                                                        
+2) Definition of Introduction to UDP ?
+--------------------------------------
+*
+ 
+3) What is Introduction to UDP About ?
+--------------------------------------
+*
+*
+
+4) What does Introduction to UDP Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Introduction to UDP :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Introduction to UDP :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Introduction to UDP :
+------------------------------------
+*
+*
+__________________________________________________________________________________
+
+************ Remote Procedure Call ****************
+
+________________________________________________
+ Remote Procedure Call                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Remote Procedure Call
+                                                                                        
+2) Definition of Remote Procedure Call ?
+----------------------------------------
+*
+ 
+3) What is Remote Procedure Call About ?
+----------------------------------------
+*
+*
+
+4) What does Remote Procedure Call Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Remote Procedure Call :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Remote Procedure Call :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Remote Procedure Call :
+--------------------------------------
+*
+*
+
+___________________________________________________________________________________
+
+********** Real-Time Transport Protocols **********
+
+- RTP - The Real-time Transport Protocol
+- RTCP - The Real-time Transport Control Protocol
+- Playout with Buffering and Jitter Control
+________________________________________________
+ Real-Time Transport Protocols                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Real-Time Transport Protocols
+                                                                                        
+2) Definition of Real-Time Transport Protocols ?
+------------------------------------------------
+*
+ 
+3) What is Real-Time Transport Protocols About ?
+------------------------------------------------
+*
+*
+
+4) What does Real-Time Transport Protocols Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Real-Time Transport Protocols :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Real-Time Transport Protocols :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Real-Time Transport Protocols :
+----------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+
+      \\\\\ RTP - The Real-time Transport Protocol //////
+________________________________________________
+ RTP - The Real-time Transport Protocol         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* RTP - The Real-time Transport Protocol
+                                                                                        
+2) Definition of RTP - The Real-time Transport Protocol ?
+---------------------------------------------------------
+*
+ 
+3) What is RTP - The Real-time Transport Protocol About ?
+---------------------------------------------------------
+*
+*
+
+4) What does RTP - The Real-time Transport Protocol Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of RTP - The Real-time Transport Protocol :
+------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of RTP - The Real-time Transport Protocol :
+---------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of RTP - The Real-time Transport Protocol :
+-------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+       \\\\ RTCP - The Real-time Transport Control Protocol ////
+
+_________________________________________________
+ RTCP - The Real-time Transport Control Protocol |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* RTCP - The Real-time Transport Control Protocol
+                                                                                        
+2) Definition of RTCP - The Real-time Transport Control Protocol ?
+------------------------------------------------------------------
+*
+ 
+3) What is RTCP - The Real-time Transport Control Protocol About ?
+------------------------------------------------------------------
+*
+*
+
+4) What does RTCP - The Real-time Transport Control Protocol Do ?
+-----------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of RTCP - The Real-time Transport Control Protocol :
+---------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of RTCP - The Real-time Transport Control Protocol :
+------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of RTCP - The Real-time Transport Control Protocol :
+----------------------------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+      \\\\ Playout with Buffering and Jitter Control ////
+
+________________________________________________
+ Playout with Buffering and Jitter Control      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Playout with Buffering and Jitter Control
+                                                                                        
+2) Definition of Playout with Buffering and Jitter Control ?
+------------------------------------------------------------
+*
+ 
+3) What is Playout with Buffering and Jitter Control About ?
+------------------------------------------------------------
+*
+*
+
+4) What does Playout with Buffering and Jitter Control Do ?
+-----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Playout with Buffering and Jitter Control :
+---------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Playout with Buffering and Jitter Control :
+------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Playout with Buffering and Jitter Control :
+----------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+<<<<<<<<<<<< THE INTERNET TRANSPORT PROTOCOLS: TCP >>>>>>>>>>>>
+
+THE INTERNET TRANSPORT PROTOCOLS: TCP 557
+6.5.1 Introduction to TCP 558
+6.5.2 The TCP Service Model 558
+6.5.3 The TCP Protocol 561
+6.5.4 The TCP Segment Header 562
+6.5.5 TCP Connection Establishment 565
+6.5.6 TCP Connection Release 567
+6.5.7 TCP Connection Management Modeling 567
+6.5.8 TCP Sliding Window 570
+6.5.9 TCP Timer Management 573
+6.5.10 TCP Congestion Control 576
+6.5.11 TCP CUBIC 586
+
+________________________________________________
+ THE INTERNET TRANSPORT PROTOCOLS: TCP          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* THE INTERNET TRANSPORT PROTOCOLS: TCP
+                                                                                        
+2) Definition of The Internet Transport Protocols: TCP ?
+--------------------------------------------------------
+*
+ 
+3) What is The Internet Transport Protocols: TCP About ?
+--------------------------------------------------------
+*
+*
+
+4) What does The Internet Transport Protocols: TCP Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Internet Transport Protocols: TCP
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Internet Transport Protocols: TCP
+------------------------------------------------------------------
+* 
+* 
+*  
+
+7) Examples of The Internet Transport Protocols: TCP
+----------------------------------------------------
+*
+*
+____________________________________________________________________________________
+
+********** Introduction to TCP ***********
+________________________________________________
+ Introduction to TCP                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Introduction to TCP
+                                                                                        
+2) Definition of Introduction to TCP ?
+--------------------------------------
+*
+ 
+3) What is Introduction to TCP About ?
+--------------------------------------
+*
+*
+
+4) What does Introduction to TCP Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Introduction to TCP :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Introduction to TCP :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Introduction to TCP :
+------------------------------------
+*
+* 
+
+______________________________________________________________________________________
+
+************ The TCP Service Model *************
+________________________________________________
+ The TCP Service Model                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* The TCP Service Model
+                                                                                        
+2) Definition of The TCP Service Model ?
+----------------------------------------
+*
+ 
+3) What is The TCP Service Model About ?
+----------------------------------------
+*
+*
+
+4) What do The TCP Service Model Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of The TCP Service Model :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The TCP Service Model :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of The TCP Service Model :
+--------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************* The TCP Protocol *************
+________________________________________________
+ The TCP Protocol                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* The TCP Protocol
+                                                                                        
+2) Definition of The TCP Protocol ?
+-----------------------------------
+*
+ 
+3) What is The TCP Protocol About ?
+-----------------------------------
+*
+*
+
+4) What does The TCP Protocol Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of The TCP Protocol :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The TCP Protocol :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of The TCP Protocol :
+---------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************* The TCP Segment Header *************
+________________________________________________
+ The TCP Segment Header                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* The TCP Segment Header
+                                                                                        
+2) Definition of The TCP Segment Header ?
+-----------------------------------------
+*
+ 
+3) What is The TCP Segment Header About ?
+-----------------------------------------
+*
+*
+
+4) What does The TCP Segment Header Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of The TCP Segment Header :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The TCP Segment Header :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of The TCP Segment Header :
+---------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+*********** TCP Connection Establishment ***********
+
+________________________________________________
+ TCP Connection Establishment                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* TCP Connection Establishment
+                                                                                        
+2) Definition of TCP Connection Establishment ?
+-----------------------------------------------
+*
+ 
+3) What is TCP Connection Establishment About ?
+-----------------------------------------------
+*
+*
+
+4) What does TCP Connection Establishment Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of TCP Connection Establishment :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of TCP Connection Establishment :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of TCP Connection Establishment :
+---------------------------------------------
+*
+* 
+
+_______________________________________________________________________________________
+
+
+    *********** TCP Connection Release ************
+________________________________________________
+ TCP Connection Release                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* TCP Connection Release
+                                                                                        
+2) Definition of TCP Connection Release ?
+-----------------------------------------
+*
+ 
+3) What is TCP Connection Release About ?
+-----------------------------------------
+*
+*
+
+4) What does TCP Connection Release Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of TCP Connection Release :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of TCP Connection Release :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of TCP Connection Release :
+---------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+
+    ********* TCP Connection Management Modeling *********
+________________________________________________
+ TCP Connection Management Modeling             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* TCP Connection Management Modeling
+                                                                                        
+2) Definition of TCP Connection Management Modeling ?
+------------------------------------------------------
+*
+ 
+3) What is TCP Connection Management Modeling About ?
+-----------------------------------------------------
+*
+*
+
+4) What does TCP Connection Management Modeling Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of TCP Connection Management Modeling :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of TCP Connection Management Modeling :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of TCP Connection Management Modeling :
+---------------------------------------------------
+*
+* 
+
+_____________________________________________________________________________________
+
+************ TCP Sliding Window *************
+
+________________________________________________
+ TCP Sliding Window                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* TCP Sliding Window
+                                                                                        
+2) Definition of TCP Sliding Window ?
+-------------------------------------
+*
+ 
+3) What is TCP Sliding Window About ?
+-------------------------------------
+*
+*
+
+4) What does TCP Sliding Window Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of TCP Sliding Window :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of TCP Sliding Window :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of TCP Sliding Window :
+-----------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************ TCP Timer Management ************* 
+________________________________________________
+ TCP Timer Management                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* TCP Timer Management
+                                                                                        
+2) Definition of TCP Timer Management ?
+---------------------------------------
+*
+ 
+3) What is TCP Timer Management About ?
+---------------------------------------
+*
+*
+
+4) What does TCP Timer Management Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of TCP Timer Management :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of TCP Timer Management :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of TCP Timer Management :
+-------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************ TCP Congestion Control *************
+________________________________________________
+ TCP Congestion Control                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* TCP Congestion Control
+                                                                                        
+2) Definition of TCP Congestion Control ?
+-----------------------------------------
+*
+ 
+3) What is TCP Congestion Control About ?
+-----------------------------------------
+*
+*
+
+4) What does TCP Congestion Control Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of TCP Congestion Control :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of TCP Congestion Control :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of TCP Congestion Control :
+---------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************* TCP CUBIC **************
+________________________________________________
+ TCP CUBIC                                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* TCP CUBIC
+                                                                                        
+2) Definition of TCP CUBIC ?
+----------------------------
+*
+ 
+3) What is TCP CUBIC About ?
+----------------------------
+*
+*
+
+4) What does TCP CUBIC Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of TCP CUBIC :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of TCP CUBIC :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of TCP CUBIC :
+--------------------------
+*
+*
+______________________________________________________________________________________
+
+<<<<<<<<<<<< TRANSPORT PROTOCOLS AND CONGESTION PROTOCOL CONTROL >>>>>>>>>>>>>
+_____________________________________________________
+ Transport Protocols And Congestion Protocol Control |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Transport Protocols And Congestion Protocol Control
+                                                                                        
+2) Definition of Transport Protocols And Congestion Protocol Control ?
+----------------------------------------------------------------------
+*
+ 
+3) What is Transport Protocols And Congestion Protocol Control About ?
+----------------------------------------------------------------------
+*
+*
+
+4) What does Transport Protocols And Congestion Protocol Control Do ?
+---------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Transport Protocols And Congestion Protocol Control :
+-------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Transport Protocols And Congestion Protocol Control :
+----------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Transport Protocols And Congestion Protocol Control :
+-------------------------------------------------------------------- 
+*
+*
+_______________________________________________________________________________________
+
+********** QUIC: Quick UDP Internet Connections ************
+
+- RSVP- The Resource reServation Protocol
+________________________________________________
+ Intergrated Services                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Intergrated Services
+                                                                                        
+2) Definition of Intergrated Services ?
+---------------------------------------
+*
+ 
+3) What is Intergrated Services About ?
+---------------------------------------
+*
+*
+
+4) What does Intergrated Services Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Intergrated Services :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Intergrated Services :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Intergrated Services :
+-------------------------------------
+*
+* 
+
+_____________________________________________________________________________________
+
+*********** BBR: Congestion Control Based on Bottleneck Bandwidth ***********
+_______________________________________________________
+ BBR: Congestion Control Based on Bottleneck Bandwidth |
+                                                       |                  
+_______________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* BBR: Congestion Control Based on Bottleneck Bandwidth
+                                                                                        
+2) Definition of BBR: Congestion Control Based on Bottleneck Bandwidth ?
+------------------------------------------------------------------------
+*
+ 
+3) What is BBR: Congestion Control Based on Bottleneck Bandwidth About ?
+------------------------------------------------------------------------
+*
+*
+
+4) What does BBR: Congestion Control Based on Bottleneck Bandwidth Do ?
+-----------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of BBR: Congestion Control Based on Bottleneck Bandwidth :
+---------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of BBR: Congestion Control Based on Bottleneck Bandwidth :
+------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of BBR: Congestion Control Based on Bottleneck Bandwidth :
+----------------------------------------------------------------------
+*
+*
+__________________________________________________________________________________________
+
+
+*********** The Future of TCP ***********
+_______________________________________________________
+ The Future of TCP                                     |
+                                                       |                  
+_______________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Future of TCP
+                                                                                        
+2) Definition of The Future of TCP ?
+------------------------------------
+*
+ 
+3) What is The Future of TCP About ?
+------------------------------------
+*
+*
+
+4) What does The Future of TCP Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of The Future of TCP :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Future of TCP :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Future of TCP :
+----------------------------------
+*
+*
+_________________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<<<<< PERFORMANCE ISSUES >>>>>>>>>>>>>>>>>>>
+
+PERFORMANCE ISSUES 590
+6.7.1 Performance Problems in Computer Networks 591
+6.7.2 Network Performance Measurement 592
+6.7.3 Measuring Access Network Throughput 593
+6.7.4 Measuring Quality of Experience 594
+6.7.5 Host Design for Fast Networks 595
+6.7.6 Fast Segment Processing 598
+6.7.7 Header Compression 601
+6.7.8 Protocols for Long Fat Networks 603
+________________________________________________
+ PERFORMANCE ISSUES                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Performance Issues
+                                                                                        
+2) Definition of Performance Issues ?
+-------------------------------------
+*
+ 
+3) What is Performance Issues About ?
+-------------------------------------
+*
+*
+
+4) What does Performance Issues Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Performance Issues :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Performance Issues :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Performance Issues :
+-----------------------------------
+*
+* 
+
+______________________________________________________________________________________
+
+************** Performance Problems in Computer Networks ************* 
+________________________________________________
+ Performance Problems in Computer Networks      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Performance Problems in Computer Networks
+                                                                                        
+2) Definition of Performance Problems in Computer Networks ?
+------------------------------------------------------------
+*
+ 
+3) What is Performance Problems in Computer Networks About ?
+------------------------------------------------------------
+*
+*
+
+4) What do Performance Problems in Computer Networks Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Performance Problems in Computer Networks :
+---------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Performance Problems in Computer Networks :
+------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Performance Problems in Computer Networks :
+----------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+*************** Network Performance Measurement **************** 
+________________________________________________
+ Network Performance Measurement                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Network Performance Measurement 
+                                                                                        
+2) Definition of Network Performance Measurement ?
+--------------------------------------------------
+*
+ 
+3) What is Network Performance Measurement About ?
+---------------------------------------------------
+*
+*
+
+4) What does Network Performance Measurement Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Network Performance Measurement  :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Network Performance Measurement  :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Network Performance Measurement  :
+-------------------------------------------------
+*
+*
+_______________________________________________________________________________________________
+
+************** Measuring Access Network Throughput ***************
+________________________________________________
+ Measuring Access Network Throughput            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Measuring Access Network Throughput
+                                                                                        
+2) Definition of Measuring Access Network Throughput ?
+------------------------------------------------------
+*
+ 
+3) What is Measuring Access Network Throughput About ?
+------------------------------------------------------
+*
+*
+
+4) What does Measuring Access Network Throughput Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Measuring Access Network Throughput :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Measuring Access Network Throughput :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Measuring Access Network Throughput :
+----------------------------------------------------
+*
+* 
+
+_______________________________________________________________________________________________
+
+************ Measuring Quality of Experience ************
+________________________________________________
+ Measuring Quality of Experience                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Measuring Quality of Experience
+                                                                                        
+2) Definition of Measuring Quality of Experience ?
+--------------------------------------------------
+*
+ 
+3) What is Measuring Quality of Experience About ?
+--------------------------------------------------
+*
+*
+
+4) What does Measuring Quality of Experience Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Measuring Quality of Experience :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Measuring Quality of Experience :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Measuring Quality of Experience :
+------------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+    *********** Host Design for Fast Networks ************
+
+- Host Speed Is More Important Than Network Speed
+- Reduce Packet Count to reduce Overhead
+- Minimize Data Touching
+- Minimize Context Switches
+- Avoiding Congestion Is Better Than Recovering from it
+- Avoid Timeouts 
+________________________________________________
+ Host Design for Fast Networks                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Host Design for Fast Networks
+                                                                                        
+2) Definition of Host Design for Fast Networks ?
+------------------------------------------------
+*
+ 
+3) What is Host Design for Fast Networks About ?
+------------------------------------------------
+*
+*
+
+4) What does Host Design for Fast Networks Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Host Design for Fast Networks :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Host Design for Fast Networks :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Host Design for Fast Networks :
+----------------------------------------------
+*
+* 
+
+____________________________________________________________________________________
+
+         \\\\ Host Speed Is More Important Than Network Speed ////
+_______________________________________________________
+ Host Speed Is More Important Than Network Speed       |
+                                                       |                  
+_______________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Host Speed Is More Important Than Network Speed
+                                                                                        
+2) Definition of Host Speed Is More Important Than Network Speed ?
+------------------------------------------------------------------
+*
+ 
+3) What is Host Speed Is More Important Than Network Speed About ?
+------------------------------------------------------------------
+*
+*
+
+4) What does Host Speed Is More Important Than Network Speed Do ?
+-----------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Host Speed Is More Important Than Network Speed :
+---------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Host Speed Is More Important Than Network Speed :
+------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Host Speed Is More Important Than Network Speed :
+----------------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+         \\\\ Reduce Packet Count to reduce Overhead ////
+_______________________________________________________
+ Reduce Packet Count to reduce Overhead                |
+                                                       |                  
+_______________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Reduce Packet Count to reduce Overhead
+                                                                                        
+2) Definition of Reduce Packet Count to reduce Overhead ?
+---------------------------------------------------------
+*
+ 
+3) What is Reduce Packet Count to reduce Overhead About ?
+---------------------------------------------------------
+*
+*
+
+4) What does Reduce Packet Count to reduce Overhead Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Reduce Packet Count to reduce Overhead :
+------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Reduce Packet Count to reduce Overhead :
+---------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Reduce Packet Count to reduce Overhead :
+-------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+         \\\\ Minimize Data Touching ////
+_______________________________________________________
+ Minimize Data Touching                                |
+                                                       |                  
+_______________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Minimize Data Touching
+                                                                                        
+2) Definition of Minimize Data Touching ?
+-----------------------------------------
+*
+ 
+3) What is Minimize Data Touching About ?
+-----------------------------------------
+*
+*
+
+4) What does Minimize Data Touching Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Minimize Data Touching :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Minimize Data Touching :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Minimize Data Touching :
+---------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+         \\\\ Minimize Context Switches ////
+_______________________________________________________
+ Minimize Context Switches                             |
+                                                       |                  
+_______________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Minimize Context Switches
+                                                                                        
+2) Definition of Minimize Context Switches ?
+--------------------------------------------
+*
+ 
+3) What is Minimize Context Switches About ?
+--------------------------------------------
+*
+*
+
+4) What does Minimize Context Switches Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Minimize Context Switches :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Minimize Context Switches :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Minimize Context Switches :
+------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+         \\\\ Avoiding Congestion Is Better Than Recovering from it ////
+_______________________________________________________
+ Avoiding Congestion Is Better Than Recovering from it |
+                                                       |                  
+_______________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Avoiding Congestion Is Better Than Recovering from it
+                                                                                        
+2) Definition of Avoiding Congestion Is Better Than Recovering from it ?
+------------------------------------------------------------------------
+*
+ 
+3) What is Avoiding Congestion Is Better Than Recovering from it About ?
+------------------------------------------------------------------------
+*
+*
+
+4) What does Avoiding Congestion Is Better Than Recovering from it Do ?
+-----------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Avoiding Congestion Is Better Than Recovering from it :
+---------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Avoiding Congestion Is Better Than Recovering from it :
+------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Avoiding Congestion Is Better Than Recovering from it :
+----------------------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+         \\\\ Avoid Timeouts ////
+_______________________________________________________
+ Avoid Timeouts                                        |
+                                                       |                  
+_______________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Avoid Timeouts
+                                                                                        
+2) Definition of Avoid Timeouts ?
+---------------------------------
+*
+ 
+3) What is Avoid Timeouts About ?
+---------------------------------
+*
+*
+
+4) What does Avoid Timeouts Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Avoid Timeouts :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Avoid Timeouts :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Avoid Timeouts :
+-------------------------------
+*
+*
+_______________________________________________________________________________________
+
+    ********* Fast Segment Processing *********
+________________________________________________
+ Fast Segment Processing                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fast Segment Processing
+                                                                                        
+2) Definition of Fast Segment Processing ?
+------------------------------------------
+*
+ 
+3) What is Fast Segment Processing About ?
+------------------------------------------
+*
+*
+
+4) What does Fast Segment Processing Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fast Segment Processing :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fast Segment Processing :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Fast Segment Processing :
+----------------------------------------
+*
+* 
+
+_______________________________________________________________________________________
+
+     ******** Header Compression *********
+____________________________________________________
+ Connecting Endpoints Across Heterogeneous Networks |
+                                                    |                  
+____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Header Compression
+                                                                                        
+2) Definition of Header Compression ?
+-------------------------------------
+*
+ 
+3) What is Header Compression About ?
+-------------------------------------
+*
+*
+
+4) What does Header Compression Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Header Compression :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Header Compression :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Header Compression :
+-----------------------------------
+*
+*
+_______________________________________________________________________________________
+
+
+     ******** Protocols for Long Fat Networks *********
+________________________________________________________
+ Protocols for Long Fat Networks                        |
+                                                        |                  
+________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Protocols for Long Fat Networks
+                                                                                        
+2) Definition of Protocols for Long Fat Networks ?
+--------------------------------------------------
+*
+ 
+3) What is Protocols for Long Fat Networks About ?
+--------------------------------------------------
+*
+*
+
+4) What does Protocols for Long Fat Networks Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Protocols for Long Fat Networks :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Protocols for Long Fat Networks :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Protocols for Long Fat Networks :
+------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<<< SUMMARY Of The Transport Layer >>>>>>>>>>>>>>>>>>>>
+_________________________________________________________
+ SUMMARY Of The Transport Layer                          |
+                                                         |                  
+_________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Summary Of The Transport Layer
+                                                                                        
+2) Definition of Summary Of The Transport Layer ?
+-------------------------------------------------
+*
+ 
+3) What is Summary Of The Transport Layer About ?
+-------------------------------------------------
+*
+*
+
+4) What does Summary Of The Transport Layer Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Summary Of The Transport Layer :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Summary Of The Transport Layer :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Summary Of The Transport Layer :
+-----------------------------------------------
+*
+*
+______________________________________________________________________________________
