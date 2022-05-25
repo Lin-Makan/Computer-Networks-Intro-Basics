@@ -1,0 +1,3450 @@
+CHAPTER 7 : THE APPLICATION LAYER
+
+<<<<<<<<<<<<<< THE APPLICATION LAYER >>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<                       >>>>>>>>>>>>>>>>>>>>
+________________________________________________
+ THE APPLICATION LAYER                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* THE APPLICATION LAYER 
+                                                                                        
+2) Definition of The APPLICATION Layer ?
+----------------------------------------
+*
+ 
+3) What is The Application Layer About ?
+----------------------------------------
+*
+*
+
+4) What does The Application Layer Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Application Layer :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Application Layer :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Application Layer :
+--------------------------------------
+*
+*
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<< THE DOMAIN NAME SYSTEM (DNS) >>>>>>>>>>>>>>>>>>>>
+
+THE DOMAIN NAME SYSTEM (DNS) 613
+7.1.1 History and Overview 614
+7.1.2 The DNS Lookup Process 614
+7.1.3 The DNS Name Space and Hierarchy 617
+7.1.4 DNS Queries and Responses 620
+7.1.5 Name Resolution 627
+7.1.6 Hands on with DNS 629
+7.1.7 DNS Privacy 629
+7.1.8 Contention Over Names 631
+
+________________________________________________
+ THE DOMAIN NAME SYSTEM (DNS)                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Domain Name System (DNS).
+                                                                                        
+2) Definition of The Domain Name System (DNS) ?
+-----------------------------------------------
+*
+ 
+3) What is The Domain Name System (DNS) About ?
+-----------------------------------------------
+*
+*
+
+4) What do The Domain Name System (DNS) Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Domain Name System (DNS) :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Domain Name System (DNS) :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Domain Name System (DNS) :
+---------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+
+************** History and Overview **************
+
+________________________________________________
+ History and Overview                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* History and Overview
+                                                                                        
+2) Definition of History and Overview ?
+---------------------------------------
+*
+ 
+3) What is History and Overview About ?
+---------------------------------------
+*
+*
+
+4) What does History and Overview Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of History and Overview :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of History and Overview :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of History and Overview :
+-------------------------------------
+*
+* 
+
+_______________________________________________________________________________________
+
+************** The DNS Lookup Process **************
+
+________________________________________________
+ The DNS Lookup Process                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The DNS Lookup Process
+                                                                                        
+2) Definition of The DNS Lookup Process ?
+-----------------------------------------
+*
+ 
+3) What is The DNS Lookup Process About ?
+-----------------------------------------
+*
+*
+
+4) What do Transport Service Primitives Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The DNS Lookup Process :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The DNS Lookup Process :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of The DNS Lookup Process :
+---------------------------------------
+*
+*   
+_____________________________________________________________________________________
+
+************** The DNS Name Space and Hierarchy **************
+
+________________________________________________
+ The DNS Name Space and Hierarchy               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The DNS Name Space and Hierarchy
+                                                                                        
+2) Definition of The DNS Name Space and Hierarchy ?
+---------------------------------------------------
+*
+ 
+3) What is The DNS Name Space and Hierarchy About ?
+---------------------------------------------------
+*
+*
+
+4) What do The DNS Name Space and Hierarchy Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The DNS Name Space and Hierarchy :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The DNS Name Space and Hierarchy :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The DNS Name Space and Hierarchy :
+-------------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+************** DNS Queries and Responses **************
+
+- DNS Queries
+- Extensions and Enhancements to DNS Queries
+- DNS Responses and Resources Records
+- Common Record Types
+- DNSSEC Records
+- DNS Zones 
+____________________________________________________________
+ DNS Queries and Responses                                  |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* DNS Queries and Responses
+                                                                                        
+2) Definition of DNS Queries and Responses ?
+--------------------------------------------
+*
+ 
+3) What is DNS Queries and Responses About ?
+--------------------------------------------
+*
+*
+
+4) What does DNS Queries and Responses Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of DNS Queries and Responses :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages of DNS Queries and Responses :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of DNS Queries and Responses :
+------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+   \\\\ DNS Queries ////
+_____________________________________________________
+ DNS Queries                                         |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* DNS Queries
+                                                                                        
+2) Definition of DNS Queries ?
+------------------------------
+*
+ 
+3) What is DNS Queries About ?
+------------------------------
+*
+*
+
+4) What do DNS Queries Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of DNS Queries :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DNS Queries :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of DNS Queries :
+----------------------------
+*
+*
+_______________________________________________________________________________________
+
+    \\\\ Extensions and Enhancements to DNS Queries ////
+________________________________________________
+ Extensions and Enhancements to DNS Queries     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Extensions and Enhancements to DNS Queries
+                                                                                        
+2) Definition of Extensions and Enhancements to DNS Queries ?
+-------------------------------------------------------------
+*
+ 
+3) What is Extensions and Enhancements to DNS Queries About ?
+-------------------------------------------------------------
+*
+*
+
+4) What does Extensions and Enhancements to DNS Queries Do ?
+------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Extensions and Enhancements to DNS Queries :
+----------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Extensions and Enhancements to DNS Queries :
+-------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Extensions and Enhancements to DNS Queries :
+-----------------------------------------------------------
+*
+*
+
+____________________________________________________________________________________
+
+    \\\\ DNS Responses and Resources Records ////
+________________________________________________
+ DNS Responses and Resources Records            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* DNS Responses and Resources Records
+                                                                                        
+2) Definition of DNS Responses and Resources Records ?
+------------------------------------------------------
+*
+ 
+3) What is DNS Responses and Resources Records About ?
+------------------------------------------------------
+*
+*
+
+4) What does DNS Responses and Resources Records Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of DNS Responses and Resources Records :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DNS Responses and Resources Records :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of DNS Responses and Resources Records :
+----------------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+      \\\\ Common Record Types ////
+________________________________________________
+ Common Record Types                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Common Record Types
+                                                                                        
+2) Definition of Common Record Types ?
+--------------------------------------
+*
+ 
+3) What is Common Record Types About ?
+--------------------------------------
+*
+*
+
+4) What does Common Record Types Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Common Record Types :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Common Record Types :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Common Record Types :
+------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ DNSSEC Records ////
+________________________________________________
+ DNSSEC Records                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* DNSSEC Records
+                                                                                        
+2) Definition of DNSSEC Records ?
+---------------------------------
+*
+ 
+3) What is DNSSEC Records About ?
+---------------------------------
+*
+*
+
+4) What does DNSSEC Records Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of DNSSEC Records :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DNSSEC Records :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of DNSSEC Records :
+-------------------------------
+*
+*
+______________________________________________________________________________________
+
+            \\\\ DNS Zones ////
+________________________________________________
+ DNS Zones                                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* DNS Zones 
+                                                                                        
+2) Definition of DNS Zones ?
+-----------------------------
+*
+ 
+3) What is Connection Release About ?
+-------------------------------------
+*
+*
+
+4) What does Connection Release Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Connection Release :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Connection Release :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Connection Release :
+-----------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+************** Name Resolution **************
+
+________________________________________________
+ Name Resolution                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Name Resolution
+                                                                                        
+2) Definition of Name Resolution ?
+----------------------------------
+*
+ 
+3) What is Name Resolution About ?
+----------------------------------
+*
+*
+
+4) What do Name Resolution Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Name Resolution :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Name Resolution :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Name Resolution :
+--------------------------------
+*
+*
+_____________________________________________________________________________________
+
+************** Hands on with DNS **************
+
+________________________________________________
+ Hands on with DNS                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Hands on with DNS
+                                                                                        
+2) Definition of Hands on with DNS ?
+------------------------------------
+*
+ 
+3) What is Hands on with DNS About ?
+------------------------------------
+*
+*
+
+4) What do Hands on with DNS Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Hands on with DNS :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Hands on with DNS :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Hands on with DNS :
+----------------------------------
+*
+*
+_____________________________________________________________________________________
+
+************** DNS Privacy **************
+
+________________________________________________
+ DNS Privacy                                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* DNS Privacy
+                                                                                        
+2) Definition of DNS Privacy ?
+------------------------------
+*
+ 
+3) What is DNS Privacy About ?
+------------------------------
+*
+*
+
+4) What do DNS Privacy Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of DNS Privacy :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DNS Privacy :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of DNS Privacy :
+----------------------------
+*
+*
+______________________________________________________________________________________
+
+************** Contention Over Names **************
+
+________________________________________________
+ Contention Over Names                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Contention Over Names
+                                                                                        
+2) Definition of Contention Over Names ?
+----------------------------------------
+*
+ 
+3) What is Contention Over Names About ?
+----------------------------------------
+*
+*
+
+4) What do Contention Over Names Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Contention Over Names :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Contention Over Names :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Contention Over Names :
+--------------------------------------
+*
+*
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<<< ELECTRONIC MAIL >>>>>>>>>>>>>>>>
+
+ELECTRONIC MAIL 632
+7.2.1 Architecture and Services 633
+7.2.2 The User Agent 635
+7.2.3 Message Formats 637
+7.2.4 Message Transfer 642
+7.2.5 Final Delivery 647    
+________________________________________________
+ ELECTRONIC MAIL                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Electronic Mail
+                                                                                        
+2) Definition of Electronic Mail ?
+----------------------------------
+*
+ 
+3) What is Electronic Mail About ?
+----------------------------------
+*
+*
+
+4) What does Electronic Mail Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Electronic Mail :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Electronic Mail :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Electronic Mail :
+--------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************ Architecture and Services ***************
+
+________________________________________________
+ Architecture and Services                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Architecture and Services
+                                                                                        
+2) Definition of Architecture and Services ?
+--------------------------------------------
+*
+ 
+3) What is Architecture and Services About ?
+--------------------------------------------
+*
+*
+
+4) What does Architecture and Services Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Architecture and Services :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Architecture and Services :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Architecture and Services :
+------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+*********** The User Agent *************
+________________________________________________
+ The User Agent                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The User Agent                                                                                        
+2) Definition of The User Agent ?
+---------------------------------
+*
+ 
+3) What is The User Agent About ?
+---------------------------------
+*
+*
+
+4) What does The User Agent Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of The User Agent :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The User Agent :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of The User Agent :
+-------------------------------
+*
+*
+______________________________________________________________________________________
+
+************ Message Formats *************
+
+- RFC 5322 - The Internet Message Format
+- MIME - The Multipurpose Internet Mail Extensions
+________________________________________________
+ Message Formats                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Message Formats
+                                                                                        
+2) Definition of Message Formats ?
+----------------------------------
+*
+ 
+3) What is Message Formats About ?
+----------------------------------
+*
+*
+
+4) What does Message Formats Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Message Formats :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Message Formats :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Message Formats :
+--------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ RFC 5322 - The Internet Message Format ////
+________________________________________________
+ RFC 5322 - The Internet Message Format         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* RFC 5322 - The Internet Message Format 
+                                                                                        
+2) Definition of RFC 5322 - The Internet Message Format ?
+---------------------------------------------------------
+*
+ 
+3) What is RFC 5322 - The Internet Message Format About ?
+---------------------------------------------------------
+*
+*
+
+4) What does RFC 5322 - The Internet Message Format Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of RFC 5322 - The Internet Message Format :
+------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of RFC 5322 - The Internet Message Format :
+---------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of RFC 5322 - The Internet Message Format :
+-------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ MIME - The Multipurpose Internet Mail Extensions ////
+__________________________________________________
+ MIME - The Multipurpose Internet Mail Extensions |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* MIME - The Multipurpose Internet Mail Extensions 
+                                                                                        
+2) Definition of MIME - The Multipurpose Internet Mail Extensions ?
+-------------------------------------------------------------------
+*
+ 
+3) What is MIME - The Multipurpose Internet Mail Extensions About ?
+-------------------------------------------------------------------
+*
+*
+
+4) What does MIME - The Multipurpose Internet Mail Extensions Do ?
+------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of MIME - The Multipurpose Internet Mail Extensions :
+----------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of MIME - The Multipurpose Internet Mail Extensions :
+-------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of MIME - The Multipurpose Internet Mail Extensions :
+-----------------------------------------------------------------
+*
+*
+____________________________________________________________________________________
+
+*********** Message Transfer **********
+
+- SMTP (Simple Mail Transfer Protocol) and Extensions
+- Mail Submission
+- Physical Transfer
+________________________________________________
+ Message Transfer                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Message Transfer
+                                                                                        
+2) Definition of Message Transfer ?
+-----------------------------------
+*
+ 
+3) What is Message Transfer About ?
+-----------------------------------
+*
+*
+
+4) What does Message Transfer Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Message Transfer :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Message Transfer :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Message Transfer :
+---------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ SMTP (Simple Mail Transfer Protocol) and Extensions ////
+_____________________________________________________
+ SMTP (Simple Mail Transfer Protocol) and Extensions |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* SMTP (Simple Mail Transfer Protocol) and Extensions
+                                                                                        
+2) Definition of SMTP (Simple Mail Transfer Protocol) and Extensions ?
+----------------------------------------------------------------------
+*
+ 
+3) What is SMTP (Simple Mail Transfer Protocol) and Extensions About ?
+----------------------------------------------------------------------
+*
+*
+
+4) What does SMTP (Simple Mail Transfer Protocol) and Extensions Do ?
+---------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of SMTP (Simple Mail Transfer Protocol) and Extensions :
+-------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SMTP (Simple Mail Transfer Protocol) and Extensions :
+----------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of SMTP (Simple Mail Transfer Protocol) and Extensions :
+--------------------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Mail Submission ////
+__________________________________________________
+ Mail Submission                                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Mail Submission 
+                                                                                        
+2) Definition of Mail Submission ?
+----------------------------------
+*
+ 
+3) What is Mail Submission About ?
+----------------------------------
+*
+*
+
+4) What does Mail Submission Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Mail Submission :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mail Submission :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Mail Submission :
+--------------------------------
+*
+*
+_____________________________________________________________________________________
+
+      \\\\ Physical Transfer ////
+__________________________________________________
+ Physical Transfer                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Physical Transfer
+                                                                                        
+2) Definition of Physical Transfer ?
+------------------------------------
+*
+ 
+3) What is Physical Transfer About ?
+------------------------------------
+*
+*
+
+4) What does Physical Transfer Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Physical Transfer :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Physical Transfer :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Physical Transfer :
+----------------------------------
+*
+*
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+************** Final Delivery *************
+
+- IMAP-The Internet Message Access Protocol
+- Webmail
+________________________________________________
+ Final Delivery                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Final Delivery
+                                                                                        
+2) Definition of Final Delivery ?
+---------------------------------
+*
+ 
+3) What is Final Delivery About ?
+---------------------------------
+*
+*
+
+4) What does Final Delivery Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Final Delivery :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Final Delivery :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Final Delivery :
+------------------------------- 
+*
+*
+_______________________________________________________________________________________
+
+      \\\\ IMAP-The Internet Message Access Protocol ////
+________________________________________________
+ IMAP-The Internet Message Access Protocol      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* IMAP-The Internet Message Access Protocol
+                                                                                        
+2) Definition of IMAP-The Internet Message Access Protocol ?
+------------------------------------------------------------
+*
+ 
+3) What is IMAP-The Internet Message Access Protocol About ?
+------------------------------------------------------------
+*
+*
+
+4) What does IMAP-The Internet Message Access Protocol Do ?
+-----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of IMAP-The Internet Message Access Protocol :
+---------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of IMAP-The Internet Message Access Protocol :
+------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of IMAP-The Internet Message Access Protocol :
+----------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Webmail ////
+________________________________________________
+ Webmail                                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Webmail
+                                                                                        
+2) Definition of Webmail  ?
+---------------------------
+*
+ 
+3) What is Webmail About ?
+--------------------------
+*
+*
+
+4) What does Webmail  Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Webmail  :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Webmail  :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Webmail :
+------------------------
+*
+*
+_______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<<< THE WORLD WIDE WEB >>>>>>>>>>>>>>>>>>>
+
+THE WORLD WIDE WEB 650
+7.3.1 Architectural Overview 651
+7.3.2 Static Web Objects 659
+7.3.3 Dynamic Web Pages and Web Applications 660
+7.3.4 HTTP and HTTPS 664
+7.3.5 Web Privacy 676
+________________________________________________
+ THE WORLD WIDE WEB                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The World Wide Web
+                                                                                        
+2) Definition of The World Wide Web ?
+-------------------------------------
+*
+ 
+3) What is The World Wide Web About ?
+-------------------------------------
+*
+*
+
+4) What does The World Wide Web Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of The World Wide Web :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The World Wide Web :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of The World Wide Web :
+-----------------------------------
+*
+*
+___________________________________________________________________________________
+
+******** Architectural Overview  ********
+
+- The Client Side
+- The Server Side
+________________________________________________
+ Architectural Overview                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Architectural Overview 
+                                                                                        
+2) Definition of Architectural Overview ?
+-----------------------------------------
+*
+ 
+3) What is Architectural Overview About ?
+-----------------------------------------
+*
+*
+
+4) What do Architectural Overview Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Architectural Overview :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Architectural Overview :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Architectural Overview :
+---------------------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ The Client Side ////
+_________________________________________________
+ The Client Side                                 |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Client Side
+                                                                                        
+2) Definition of The Client Side ?
+----------------------------------
+*
+ 
+3) What is The Client Side About ?
+----------------------------------
+*
+*
+
+4) What does The Client Side Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of The Client Side :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Client Side :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of The Client Side :
+--------------------------------
+*
+*
+_____________________________________________________________________________________
+
+  \\\\ The Server Side ////
+________________________________________________
+ The Server Side                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Server Side 
+                                                                                        
+2) Definition of The Server Side ?
+----------------------------------
+*
+ 
+3) What is The Server Side About ?
+----------------------------------
+*
+*
+
+4) What does The Server Side Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of The Server Side :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Server Side :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of The Server Side :
+--------------------------------
+*
+*
+______________________________________________________________________________________
+
+******** Static Web Objects ********
+________________________________________________
+ Static Web Objects                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Static Web Objects 
+                                                                                        
+2) Definition of Static Web Objects ?
+-------------------------------------
+*
+ 
+3) What is Static Web Objects About ?
+-------------------------------------
+*
+*
+
+4) What do Static Web Objects Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Static Web Objects :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Static Web Objects :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Static Web Objects :
+-----------------------------------
+*
+*
+______________________________________________________________________________________
+
+******** Dynamic Web Pages and Web Applications ********
+
+- Server-Side Dynamic Web Page Generation
+- Client-Side Dynamic Web Page Generation
+________________________________________________
+ Dynamic Web Pages and Web Applications         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Dynamic Web Pages and Web Applications 
+                                                                                        
+2) Definition of Dynamic Web Pages and Web Applications ?
+---------------------------------------------------------
+*
+ 
+3) What is Dynamic Web Pages and Web Applications About ?
+---------------------------------------------------------
+*
+*
+
+4) What do Dynamic Web Pages and Web Applications Do ?
+------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Dynamic Web Pages and Web Applications :
+------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Dynamic Web Pages and Web Applications :
+---------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Dynamic Web Pages and Web Applications :
+-------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ Server-Side Dynamic Web Page Generation ////
+_________________________________________________
+ Server-Side Dynamic Web Page Generation         |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Server-Side Dynamic Web Page Generation
+                                                                                        
+2) Definition of Server-Side Dynamic Web Page Generation ?
+----------------------------------------------------------
+*
+ 
+3) What is Server-Side Dynamic Web Page Generation About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Server-Side Dynamic Web Page Generation Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Server-Side Dynamic Web Page Generation :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Server-Side Dynamic Web Page Generation :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Server-Side Dynamic Web Page Generation :
+--------------------------------------------------------
+* 
+* 
+_____________________________________________________________________________________
+
+  \\\\ Client-Side Dynamic Web Page Generation ////
+________________________________________________
+ Client-Side Dynamic Web Page Generation        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Client-Side Dynamic Web Page Generation 
+                                                                                        
+2) Definition of Client-Side Dynamic Web Page Generation ?
+----------------------------------------------------------
+*
+ 
+3) What is Client-Side Dynamic Web Page Generation About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Client-Side Dynamic Web Page Generation Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Client-Side Dynamic Web Page Generation :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Client-Side Dynamic Web Page Generation :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Client-Side Dynamic Web Page Generation :
+--------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+******** HTTP and HTTPS ********
+
++ Overview
++ Methods
++ Message Headers
++ Caching
++ HTTP/1 and HTTP/1.1
++ HTTP/2
++ HTTP/3
+________________________________________________
+ HTTP and HTTPS                                 |
+                                                |                   
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* HTTP and HTTPS  
+                                                                                        
+2) Definition of HTTP and HTTPS ?
+---------------------------------
+*
+ 
+3) What is HTTP and HTTPS About ?
+---------------------------------
+*
+*
+
+4) What does HTTP and HTTPS Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of HTTP and HTTPS :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of HTTP and HTTPS :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of HTTP and HTTPS :
+-------------------------------
+*
+*
+_____________________________________________________________________________________
+
+    \\\\ Overview ////
+_________________________________________________
+ Overview                                        |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Overview
+                                                                                        
+2) Definition of Overview ?
+---------------------------
+*
+ 
+3) What is Overview About ?
+---------------------------
+*
+*
+
+4) What does Overview Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Overview :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Overview :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Overview :
+-------------------------
+* 
+* 
+_____________________________________________________________________________________
+
+  \\\\ Methods ////
+________________________________________________
+ Methods                                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Methods 
+                                                                                        
+2) Definition of Methods ?
+--------------------------
+*
+ 
+3) What is Methods About ?
+--------------------------
+*
+*
+
+4) What does Methods Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of Methods :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Methods :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of Methods :
+------------------------
+*
+*
+_______________________________________________________________________________________
+
+    \\\\ Message Headers ////
+_________________________________________________
+ Message Headers                                 |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Message Headers
+                                                                                        
+2) Definition of Message Headers ?
+----------------------------------
+*
+ 
+3) What is Message Headers About ?
+----------------------------------
+*
+*
+
+4) What does Message Headers Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Message Headers :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Message Headers :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Message Headers :
+--------------------------------
+* 
+* 
+_____________________________________________________________________________________
+
+  \\\\ Caching ////
+________________________________________________
+ Caching                                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Caching 
+                                                                                        
+2) Definition of Caching ?
+--------------------------
+*
+ 
+3) What is Caching About ?
+--------------------------
+*
+*
+
+4) What does Caching Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of Caching :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Caching :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of Caching :
+------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ HTTP/1 and HTTP/1.1 ////
+_________________________________________________
+ HTTP/1 and HTTP/1.1                             |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* HTTP/1 and HTTP/1.1
+                                                                                        
+2) Definition of HTTP/1 and HTTP/1.1 ?
+--------------------------------------
+*
+ 
+3) What is HTTP/1 and HTTP/1.1 About ?
+--------------------------------------
+*
+*
+
+4) What does HTTP/1 and HTTP/1.1 Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of HTTP/1 and HTTP/1.1 :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of HTTP/1 and HTTP/1.1 :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of HTTP/1 and HTTP/1.1 :
+------------------------------------
+* 
+* 
+_____________________________________________________________________________________
+
+  \\\\ HTTP/2 ////
+________________________________________________
+ HTTP/2                                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* HTTP/2 
+                                                                                        
+2) Definition of HTTP/2 ?
+-------------------------
+*
+ 
+3) What is HTTP/2 About ?
+-------------------------
+*
+*
+
+4) What does HTTP/2 Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of HTTP/2 :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of HTTP/2 :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of HTTP/2 :
+-----------------------
+*
+*
+_____________________________________________________________________________________
+
+  \\\\ HTTP/2 ////
+________________________________________________
+ HTTP/2                                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* HTTP/2 
+                                                                                        
+2) Definition of HTTP/2 ?
+-------------------------
+*
+ 
+3) What is HTTP/2 About ?
+-------------------------
+*
+*
+
+4) What does HTTP/2 Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of HTTP/2 :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of HTTP/2 :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of HTTP/2 :
+-----------------------
+*
+*
+___________________________________________________________________________________
+
+  \\\\ HTTP/3 ////
+________________________________________________
+ HTTP/3                                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* HTTP/3 
+                                                                                        
+2) Definition of HTTP/3 ?
+-------------------------
+*
+ 
+3) What is HTTP/3 About ?
+-------------------------
+*
+*
+
+4) What does HTTP/3 Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of HTTP/3 :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of HTTP/3 :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of HTTP/3 :
+-----------------------
+*
+*
+______________________________________________________________________________________
+
+******** Web Privacy ********
+
++ Cookies
++ Third-Party Trackers
++ Device and Browser Fingerprinting
++ Cookie Syncing
+________________________________________________
+ Web Privacy                                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Web Privacy 
+                                                                                        
+2) Definition of Web Privacy ?
+------------------------------
+*
+ 
+3) What is Web Privacy About ?
+------------------------------
+*
+*
+
+4) What do Web Privacy Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Web Privacy :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web Privacy :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Architectural Overview :
+---------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+
+    \\\\ Cookies ////
+_________________________________________________
+ Cookies                                         |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Cookies
+                                                                                        
+2) Definition of Cookies ?
+--------------------------
+*
+ 
+3) What is Cookies About ?
+--------------------------
+*
+*
+
+4) What does Cookies Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of Cookies :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cookies :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of Cookies :
+------------------------
+* 
+* 
+_____________________________________________________________________________________
+
+  \\\\ Third-Party Trackers ////
+________________________________________________
+ Third-Party Trackers                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Third-Party Trackers 
+                                                                                        
+2) Definition of Third-Party Trackers ?
+---------------------------------------
+*
+ 
+3) What is Third-Party Trackers About ?
+---------------------------------------
+*
+*
+
+4) What do Third-Party Trackers Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Third-Party Trackers :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Third-Party Trackers :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Third-Party Trackers :
+-------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+  \\\\ Device and Browser Fingerprinting ////
+________________________________________________
+ Device and Browser Fingerprinting              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Device and Browser Fingerprinting 
+                                                                                        
+2) Definition of Device and Browser Fingerprinting ?
+----------------------------------------------------
+*
+ 
+3) What is Device and Browser Fingerprinting About ?
+----------------------------------------------------
+*
+*
+
+4) What does Device and Browser Fingerprinting Do ?
+---------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Device and Browser Fingerprinting :
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Device and Browser Fingerprinting :
+----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Device and Browser Fingerprinting :
+--------------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+  \\\\ Cookie Syncing ////
+________________________________________________
+  Cookie Syncing                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Cookie Syncing 
+                                                                                        
+2) Definition of Cookie Syncing ?
+---------------------------------
+*
+ 
+3) What is Cookie Syncing About ?
+---------------------------------
+*
+*
+
+4) What does Cookie Syncing Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Cookie Syncing :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cookie Syncing :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Cookie Syncing :
+-------------------------------
+*
+*
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<< STREAMING AUDIO AND VIDEO >>>>>>>>>>>>>>>>>>
+
+STREAMING AUDIO AND VIDEO 680
+7.4.1 Digital Audio 682
+7.4.2 Digital Video 684
+7.4.3 Streaming Stored Media 687
+7.4.4 Real-Time Streaming 694
+________________________________________________
+ STREAMING AUDIO AND VIDEO                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Streaming Audio And Video
+                                                                                        
+2) Definition of Streaming Audio And Video ?
+--------------------------------------------
+*
+ 
+3) What is Streaming Audio And Video About ?
+--------------------------------------------
+*
+*
+
+4) What does Streaming Audio And Video Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Streaming Audio And Video :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Streaming Audio And Video :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Streaming Audio And Video :
+------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+*********** Digital Audio ************
+
+- Audio Compression
+________________________________________________
+ Digital Audio                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Digital Audio
+                                                                                        
+2) Definition of Digital Audio ?
+--------------------------------
+*
+ 
+3) What is Digital Audio About ?
+--------------------------------
+*
+*
+
+4) What does Digital Audio Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Digital Audio :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Digital Audio :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Digital Audio :
+------------------------------
+*
+*
+_____________________________________________________________________________________
+
+       \\\\ Audio Compression ////
+_________________________________________________
+ Audio Compression                               |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Audio Compression
+                                                                                        
+2) Definition of Audio Compression ?
+------------------------------------
+*
+ 
+3) What is Audio Compression About ?
+------------------------------------
+*
+*
+
+4) What does Audio Compression Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Audio Compression :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Audio Compression :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Audio Compression :
+----------------------------------
+*
+*
+_____________________________________________________________________________________
+
+************ Digital Video ****************
+
+- Video Compression
+________________________________________________
+ Digital Video                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Digital Video
+                                                                                        
+2) Definition of Digital Video ?
+--------------------------------
+*
+ 
+3) What is Digital Video About ?
+--------------------------------
+*
+*
+
+4) What does Digital Video Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Digital Video :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Digital Video :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Digital Video :
+------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+       \\\\ Video Compression ////
+_________________________________________________
+ Video Compression                               |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Video Compression
+                                                                                        
+2) Definition of Video Compression ?
+------------------------------------
+*
+ 
+3) What is Video Compression About ?
+------------------------------------
+*
+*
+
+4) What does Video Compression Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Video Compression :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Video Compression :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Video Compression :
+----------------------------------
+*
+*
+_____________________________________________________________________________________
+
+********** Streaming Stored Media **********
+
+- DASH and HLS
+________________________________________________
+ Streaming Stored Media                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Streaming Stored Media
+                                                                                        
+2) Definition of Streaming Stored Media ?
+-----------------------------------------
+*
+ 
+3) What is Streaming Stored Media About ?
+-----------------------------------------
+*
+*
+
+4) What does Streaming Stored Media Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Streaming Stored Media :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Streaming Stored Media :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Streaming Stored Media :
+---------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+       \\\\ DASH and HLS ////
+_________________________________________________
+ DASH and HLS                                    |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* DASH and HLS
+                                                                                        
+2) Definition of DASH and HLS ?
+-------------------------------
+*
+ 
+3) What is DASH and HLS About ?
+-------------------------------
+*
+*
+
+4) What does DASH and HLS Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of DASH and HLS :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DASH and HLS :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of DASH and HLS :
+-----------------------------
+*
+*
+______________________________________________________________________________________
+
+************ Real-Time Streaming *************
+
+- Voice over IP
+- H.323
+- SIP-The Session Initiation Protocol
+- Comparison of H.323 and SIP
+________________________________________________
+ Real-Time Streaming                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Real-Time Streaming 
+                                                                                        
+2) Definition of Real-Time Streaming ?
+--------------------------------------
+*
+ 
+3) What is Real-Time Streaming About ?
+--------------------------------------
+* 
+* 
+
+4) What does Real-Time Streaming Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Real-Time Streaming :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Real-Time Streaming :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Real-Time Streaming :
+------------------------------------
+*
+*
+______________________________________________________________________________________
+
+       \\\\ Voice over IP ////
+
+_________________________________________________
+ Voice over IP                                   |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Voice over IP 
+                                                                                        
+2) Definition of Voice over IP ?
+--------------------------------
+*
+ 
+3) What is Voice over IP About ?
+--------------------------------
+*
+*
+
+4) What does Voice over IP Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Voice over IP :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Voice over IP :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Voice over IP :
+------------------------------
+*
+*
+_____________________________________________________________________________________
+
+      \\\\ H.323 ////
+
+________________________________________________
+ H.323                                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* H.323
+                                                                                        
+2) Definition of H.323 ?
+------------------------
+*
+ 
+3) What is H.323 About ?
+------------------------
+*
+*
+
+4) What does H.323 Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of H.323 :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of H.323 :
+------------------------------------
+*
+*
+*  
+
+7) Examples of H.323 :
+----------------------
+*
+*
+______________________________________________________________________________________
+
+       \\\\ SIP-The Session Initiation Protocol ////
+
+_________________________________________________
+ SIP-The Session Initiation Protocol             |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* SIP-The Session Initiation Protocol
+                                                                                        
+2) Definition of SIP-The Session Initiation Protocol ?
+------------------------------------------------------
+*
+ 
+3) What is SIP-The Session Initiation Protocol About ?
+------------------------------------------------------
+*
+*
+
+4) What does SIP-The Session Initiation Protocol Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of SIP-The Session Initiation Protocol :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SIP-The Session Initiation Protocol :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of SIP-The Session Initiation Protocol :
+----------------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+      \\\\ Comparison of H.323 and SIP ////
+
+________________________________________________
+ Comparison of H.323 and SIP                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Comparison of H.323 and SIP 
+                                                                                        
+2) Definition of Comparison of H.323 and SIP ?
+----------------------------------------------
+*
+ 
+3) What is Comparison of H.323 and SIP About ?
+----------------------------------------------
+*
+*
+
+4) What does Comparison of H.323 and SIP Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Comparison of H.323 and SIP :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Comparison of H.323 and SIP :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Comparison of H.323 and SIP :
+--------------------------------------------
+*
+*
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+<<<<<<<<<<<< CONTENT DELIVERY >>>>>>>>>>>>
+
+CONTENT DELIVERY 703
+7.5.1 Content and Internet Traffic 705
+7.5.2 Server Farms and Web Proxies 707
+7.5.3 Content Delivery Networks 711
+7.5.4 Peer-to-Peer Networks 715
+7.5.5 Evolution of the Internet 721
+
+________________________________________________
+ CONTENT DELIVERY                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* CONTENT DELIVERY
+                                                                                        
+2) Definition of Content Delivery ?
+-----------------------------------
+*
+ 
+3) What is Content Delivery About ?
+-----------------------------------
+*
+*
+
+4) What does Content Delivery Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Content Delivery :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Content Delivery :
+-----------------------------------------------
+* 
+* 
+*  
+
+7) Examples of Content Delivery :
+---------------------------------
+*
+*
+____________________________________________________________________________________
+
+********** Content and Internet Traffic ***********
+________________________________________________
+ Content and Internet Traffic                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Content and Internet Traffic
+                                                                                        
+2) Definition of Content and Internet Traffic ?
+-----------------------------------------------
+*
+ 
+3) What is Content and Internet Traffic About ?
+-----------------------------------------------
+*
+*
+
+4) What does Content and Internet Traffic Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Content and Internet Traffic :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Content and Internet Traffic :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Content and Internet Traffic :
+---------------------------------------------
+*
+* 
+
+______________________________________________________________________________________
+
+************ Server Farms and Web Proxies *************
+
++ Server Farms
++ Web Proxies
+________________________________________________
+ Server Farms and Web Proxies                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Server Farms and Web Proxies
+                                                                                        
+2) Definition of Server Farms and Web Proxies ?
+-----------------------------------------------
+*
+ 
+3) What is Server Farms and Web Proxies About ?
+-----------------------------------------------
+*
+*
+
+4) What do Server Farms and Web Proxies Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Server Farms and Web Proxies :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Server Farms and Web Proxies :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Server Farms and Web Proxies :
+---------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+       \\\\ Server Farms ////
+
+_________________________________________________
+ Server Farms                                    |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Server Farms
+                                                                                        
+2) Definition of Server Farms ?
+-------------------------------
+*
+ 
+3) What is Server Farms About ?
+-------------------------------
+*
+*
+
+4) What does Server Farms Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Server Farms :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Server Farms :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Server Farms :
+-----------------------------
+*
+*
+_____________________________________________________________________________________
+
+      \\\\ Web Proxies ////
+
+________________________________________________
+ Web Proxies                                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Web Proxies 
+                                                                                        
+2) Definition of Web Proxies ?
+------------------------------
+*
+ 
+3) What is Web Proxies About ?
+------------------------------
+*
+*
+
+4) What does Web Proxies Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Web Proxies :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web Proxies :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Web Proxies :
+----------------------------
+*
+*
+________________________________________________________________________
+
+************* Content Delivery Networks *************
+
++ Populating CDN Cache Nodes
++ DNS Redirection and Client Mapping
+________________________________________________
+ Content Delivery Networks                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Content Delivery Networks
+                                                                                        
+2) Definition of Content Delivery Networks ?
+--------------------------------------------
+*
+ 
+3) What is Content Delivery Networks About ?
+--------------------------------------------
+*
+*
+
+4) What does Content Delivery Networks Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Content Delivery Networks :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Content Delivery Networks :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Content Delivery Networks :
+------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+       \\\\ Populating CDN Cache Nodes ////
+
+_________________________________________________
+ Populating CDN Cache Nodes                      |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Populating CDN Cache Nodes
+                                                                                        
+2) Definition of Populating CDN Cache Nodes ?
+---------------------------------------------
+*
+ 
+3) What is Populating CDN Cache Nodes About ?
+---------------------------------------------
+*
+*
+
+4) What does Populating CDN Cache Nodes Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Populating CDN Cache Nodes :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Populating CDN Cache Nodes :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Populating CDN Cache Nodes :
+-------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+      \\\\ DNS Redirection and Client Mapping ////
+
+________________________________________________
+  DNS Redirection and Client Mapping            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* DNS Redirection and Client Mapping
+                                                                                        
+2) Definition of DNS Redirection and Client Mapping ?
+-----------------------------------------------------
+*
+ 
+3) What is DNS Redirection and Client Mapping About ?
+-----------------------------------------------------
+*
+*
+
+4) What does DNS Redirection and Client Mapping Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of DNS Redirection and Client Mapping :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DNS Redirection and Client Mapping :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of DNS Redirection and Client Mapping :
+---------------------------------------------------
+*
+*
+___________________________________________________________________________________________
+
+************* Peer-to-Peer Networks  *************
+
++ Overview
++ Early Peer-to-Peer Networks: Napster
++ Decentralizing the Directory : Gnutella
++ Coping with Scaling, Incentives, and Verification : BitTorrent
+________________________________________________
+ Peer-to-Peer Networks                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Peer-to-Peer Networks 
+                                                                                        
+2) Definition of Peer-to-Peer Networks ?
+----------------------------------------
+*
+ 
+3) What is Peer-to-Peer Networks About ?
+-----------------------------------------
+*
+*
+
+4) What does Peer-to-Peer Networks Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Peer-to-Peer Networks :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Peer-to-Peer Networks :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Peer-to-Peer Networks :
+--------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+       \\\\ Overview ////
+
+_________________________________________________
+ Overview                                        |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Overview
+                                                                                        
+2) Definition of Overview ?
+---------------------------
+*
+ 
+3) What is Overview About ?
+---------------------------
+*
+*
+
+4) What does Overview Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Overview :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Overview :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Overview :
+-------------------------
+*
+*
+_____________________________________________________________________________________
+
+      \\\\ Early Peer-to-Peer Networks: Napster ////
+
+________________________________________________
+  Early Peer-to-Peer Networks: Napster          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Early Peer-to-Peer Networks: Napster
+                                                                                        
+2) Definition of Early Peer-to-Peer Networks: Napster ?
+-------------------------------------------------------
+*
+ 
+3) What is Early Peer-to-Peer Networks: Napster About ?
+-------------------------------------------------------
+*
+*
+
+4) What does Early Peer-to-Peer Networks: Napster Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Early Peer-to-Peer Networks: Napster :
+----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Early Peer-to-Peer Networks: Napster :
+-------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Early Peer-to-Peer Networks: Napster :
+-----------------------------------------------------
+*
+*
+_______________________________________________________________________________________________
+
+     \\\\ Decentralizing the Directory : Gnutella //// 
+
+________________________________________________
+ Decentralizing the Directory : Gnutella        |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Decentralizing the Directory : Gnutella
+                                                                                        
+2) Definition of Decentralizing the Directory : Gnutella ?
+----------------------------------------------------------
+*
+ 
+3) What is Decentralizing the Directory : Gnutella About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Decentralizing the Directory : Gnutella Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Decentralizing the Directory : Gnutella :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Decentralizing the Directory : Gnutella :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Decentralizing the Directory : Gnutella :
+--------------------------------------------------------
+*
+* 
+
+_______________________________________________________________________________________
+
+   \\\\\ Coping with Scaling, Incentives, and Verification : BitTorrent /////
+________________________________________________________________
+ Coping with Scaling, Incentives, and Verification : BitTorrent |
+                                                                |                  
+________________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Coping with Scaling, Incentives, and Verification : BitTorrent
+                                                                                        
+2) Definition of Coping with Scaling, Incentives, and Verification : BitTorrent ?
+---------------------------------------------------------------------------------
+*
+ 
+3) What is Coping with Scaling, Incentives, and Verification : BitTorrent About ?
+---------------------------------------------------------------------------------
+*
+*
+
+4) What does Coping with Scaling, Incentives, and Verification : BitTorrent Do ?
+--------------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Coping with Scaling, Incentives, and Verification : BitTorrent :
+------------------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Coping with Scaling, Incentives, and Verification : BitTorrent :
+---------------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Coping with Scaling, Incentives, and Verification : BitTorrent :
+-------------------------------------------------------------------------------
+*
+* 
+
+___________________________________________________________________________________________
+___________________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<<< SUMMARY OF THE APPLICATION LAYER >>>>>>>>>>>>>>>>>>>>>
+________________________________________________
+ SUMMARY OF THE APPLICATION LAYER               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Summary Of The Application Layer
+                                                                                        
+2) Definition of Summary Of The Application Layer ?
+---------------------------------------------------
+*
+ 
+3) What is Summary Of The Application Layer About ?
+---------------------------------------------------
+*
+*
+
+4) What does Summary Of The Application Layer Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Summary Of The Application Layer :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Summary Of The Application Layer :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Summary Of The Application Layer :
+-------------------------------------------------
+*
+* 
+
+_____________________________________________________________________________________
+
